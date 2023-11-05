@@ -1,10 +1,12 @@
 Hello, welcome to my GitHub! 👋
 
-My name is Daniel Gehlen, I'm a Front-End Developer. 
+My name is Daniel Gehlen, I'm a --Front-End Developer--. 
 I'm at the end of the first semester in Systems Analysis and Development at Faculdade Unopar in Brazil.
 Expected formation in 2025. But developing far beyond college with a focus on React. 🇧🇷
 
 Feel free to reach out to me through my social media platforms: ⤵️
+
+## Social media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gehlen-5350341a3)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](harmonia251251@gmail.com)
 [![Behance](https://img.shields.io/badge/Behance-053EFF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/danielgehlen)
@@ -13,7 +15,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 # Technical Skills 🚀
 
-## Tecnologias
+## Technologies
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
