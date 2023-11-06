@@ -41,7 +41,22 @@ Feel free to reach out to me through my social media platforms: ⤵️
 [![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](#)
 
+# Alguns Projetos
 
+## Projeto 1 - Portfólio (Utilizando Bootstrap)
 
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://daniel-gehlen.github.io/projeto-inicial-portfolio/index.html)
 
+Este projeto é um portfólio pessoal desenvolvido com **Bootstrap**.
 
+## Projeto 2 - Mini Blog (Utilizando React, Firebase e Vercel)
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://miniblog-g2pi.vercel.app/)
+
+Este projeto é um mini blog criado com **React**, armazenamento de dados no **Firebase** e hospedado na **Vercel**.
+
+## Projeto 3 - Start Steel (Utilizando React, GitHub e Vercel)
+
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://start-steel.vercel.app/)
+
+Este projeto é desenvolvido em **React**, mantido no **GitHub** e implantado na **Vercel**.
