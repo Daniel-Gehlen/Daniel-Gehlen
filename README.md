@@ -1,7 +1,7 @@
 Hello, welcome to my GitHub! 👋
 
 My name is Daniel Gehlen, I'm a **Front-End Developer**. 
-I'm at the end of the first semester in **higher education in Systems Analysis and Development at Faculdade Unopar in Brazil**.
+I'm at the end of the first semester in **higher education in Systems Analysis and Development at School Unopar in Brazil**.
 Expected formation in 2025. But developing far beyond college with a **focus on React**.
 
 Feel free to reach out to me through my social media platforms: ⤵️
