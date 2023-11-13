@@ -58,6 +58,6 @@ This project is a mini blog created with **React**, data storage in **Firebase**
 
 ## Project 3 - Start Steel (Using React, GitHub and Vercel)
 
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://start-steel.vercel.app/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://start-steel.vercel.app/)
 
 This project is developed in **React**, maintained on **GitHub** and deployed on **Vercel**.
