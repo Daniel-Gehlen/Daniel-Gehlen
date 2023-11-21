@@ -68,3 +68,7 @@ This project is developed in **React**, maintained on **GitHub** and deployed on
 
 This project is developed in **React**, maintained on **GitHub** and deployed on **Vercel**.
 Enter the repository name and **it will be shown**. Use the Git Hub API.
+
+## Project 5 - Modern portfolio (Using Javascript, HTML and CSS)
+
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/js-developer-portfolio/)
