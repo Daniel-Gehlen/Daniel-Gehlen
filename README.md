@@ -62,14 +62,20 @@ This project is a mini blog created with **React**, data storage in **Firebase**
 
 This project is developed in **React**, maintained on **GitHub** and deployed on **Vercel**.
 
-## Project 4 - Search Repository (Using React, GitHub and Vercel)
+## Preject 4 - Supa Blog (Using React, Supabase, GitHub and Vercel)
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://supa-blog-nine.vercel.app/)
+
+This project is developed in **React**, maintained on **GitHub**, connected with **Supabase database** and deployed on **Vercel**.
+
+## Project 5 - Search Repository (Using React, GitHub and Vercel)
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://search-repository-react.vercel.app/)
 
 This project is developed in **React**, maintained on **GitHub** and deployed on **Vercel**.
 Enter the repository name and **it will be shown**. Use the Git Hub API.
 
-## Project 5 - Modern portfolio (Using Javascript, HTML and CSS)
+## Project 6 - Modern portfolio (Using Javascript, HTML and CSS)
 
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/js-developer-portfolio/)
 
