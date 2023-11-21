@@ -62,11 +62,11 @@ This project is a mini blog created with **React**, data storage in **Firebase**
 
 This project is developed in **React**, maintained on **GitHub** and deployed on **Vercel**.
 
-## Preject 4 - Supa Blog (Using React, Supabase, GitHub and Vercel)
+## Preject 4 - Supa Blog (Using React, NextJS, Supabase, GitHub and Vercel)
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://supa-blog-nine.vercel.app/)
 
-This project is developed in **React**, maintained on **GitHub**, connected with **Supabase database** and deployed on **Vercel**.
+This project is developed in **React** and **NextJS** maintained on **GitHub**, connected with **Supabase database** and deployed on **Vercel**.
 
 ## Project 5 - Search Repository (Using React, GitHub and Vercel)
 
