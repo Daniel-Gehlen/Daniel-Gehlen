@@ -81,3 +81,11 @@ Enter the repository name and **it will be shown**. Use the Git Hub API.
 
 This project is developed in **CSS**, maintained on **GitHub** and **deployed on GitHub Pages**.
 This is a project with a modern portfolio layout produced in the **JavaScript Bootcamp at Dio**.
+
+## Project 7 - Modern Landing Page (Using HTML and CSS)
+
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/trail-css-dio/)
+
+This project is developed in **CSS**, maintained on **GitHub** and **deployed on GitHub Pages**.
+This is a project with a modern Landing Page layout produced in the **CSS Bootcamp at Dio**.
+
