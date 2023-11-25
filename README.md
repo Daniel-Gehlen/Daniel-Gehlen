@@ -94,7 +94,7 @@ This is a project with a modern Landing Page layout produced in the **CSS Bootca
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://js-developer-pokedex-api.vercel.app/)
 
 This project is developed in **Javascript**, maintained on **GitHub** and **deployed on GitHub Pages**.
-This is a project using fetch API request methods **JavaScript Bootcamp on Dio**   https://daniel-gehlen.github.io/you-tube-page/
+This is a project using fetch API request methods **JavaScript Bootcamp on Dio**
 
 ## Project 9 - You Tube Page Layout (Using HTML and CSS)
 
