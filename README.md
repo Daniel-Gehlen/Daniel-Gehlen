@@ -89,3 +89,11 @@ This is a project with a modern portfolio layout produced in the **JavaScript Bo
 This project is developed in **CSS**, maintained on **GitHub** and **deployed on GitHub Pages**.
 This is a project with a modern Landing Page layout produced in the **CSS Bootcamp at Dio**.
 
+## Project 8 -   Pokedex API (Using Javascript, HTML and CSS)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://js-developer-pokedex-api.vercel.app/)
+
+This project is developed in **Javascript**, maintained on **GitHub** and **deployed on GitHub Pages**.
+This is a project using fetch API request methods **JavaScript Bootcamp on Dio**
+
+
