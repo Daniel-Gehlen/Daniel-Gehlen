@@ -101,4 +101,13 @@ This is a project using fetch API request methods **JavaScript Bootcamp on Dio**
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/you-tube-page/)
 
 This project is developed in **CSS**, maintained on **GitHub** and **deployed on GitHub Pages**.
-This is an **HTML and CSS** project that aims to recreate the layout of the You Tube page produced in the **CSS Bootcamp at Dio**.
+This is an **HTML and CSS** project that aims to recreate the **Layout Watching video** of the You Tube page produced in the **CSS Bootcamp at Dio**.
+
+
+## Project 10 - You Tube Grid Layout (Using HTML and CSS)
+
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/youtube-css-grid/)
+
+This project is developed in **CSS**, maintained on **GitHub** and **deployed on GitHub Pages**.
+This is an **HTML and CSS** project that aims to recreate the **Grid Layout** of the You Tube page produced in the **CSS Bootcamp at Dio**.
+
