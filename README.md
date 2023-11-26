@@ -50,11 +50,13 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 This project is a personal portfolio developed with **Bootstrap**.
 
+
 ## Project 2 - Mini Blog (Using React, Firebase and Vercel)
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://miniblog-g2pi.vercel.app/)
 
 This project is a mini blog created with **React**, data storage in **Firebase** and hosted on **Vercel**.
+
 
 ## Project 3 - Start Steel (Using React, GitHub and Vercel)
 
@@ -62,11 +64,13 @@ This project is a mini blog created with **React**, data storage in **Firebase**
 
 This project is developed in **React**, maintained on **GitHub** and deployed on **Vercel**.
 
+
 ## Preject 4 - Supa Blog (Using React, NextJS, Supabase, GitHub and Vercel)
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://supa-blog-nine.vercel.app/)
 
 This project is developed in **React** and **NextJS** maintained on **GitHub**, connected with **Supabase database** and deployed on **Vercel**.
+
 
 ## Project 5 - Search Repository (Using React, GitHub and Vercel)
 
@@ -75,12 +79,14 @@ This project is developed in **React** and **NextJS** maintained on **GitHub**, 
 This project is developed in **React**, maintained on **GitHub** and deployed on **Vercel**.
 Enter the repository name and **it will be shown**. Use the Git Hub API.
 
+
 ## Project 6 - Modern portfolio (Using Javascript, HTML and CSS)
 
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/js-developer-portfolio/)
 
 This project is developed in **CSS**, maintained on **GitHub** and **deployed on GitHub Pages**.
 This is a project with a modern portfolio layout produced in the **JavaScript Bootcamp at Dio**.
+
 
 ## Project 7 - Modern Landing Page (Using HTML and CSS)
 
@@ -89,12 +95,14 @@ This is a project with a modern portfolio layout produced in the **JavaScript Bo
 This project is developed in **CSS**, maintained on **GitHub** and **deployed on GitHub Pages**.
 This is a project with a modern Landing Page layout produced in the **CSS Bootcamp at Dio**.
 
+
 ## Project 8 -   Pokedex API (Using Javascript, HTML and CSS)
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://js-developer-pokedex-api.vercel.app/)
 
 This project is developed in **Javascript**, maintained on **GitHub** and **deployed on GitHub Pages**.
 This is a project using fetch API request methods **JavaScript Bootcamp on Dio**
+
 
 ## Project 9 - You Tube Page Layout (Using HTML and CSS)
 
@@ -111,3 +119,10 @@ This is an **HTML and CSS** project that aims to recreate the **Layout Watching 
 This project is developed in **CSS**, maintained on **GitHub** and **deployed on GitHub Pages**.
 This is an **HTML and CSS** project that aims to recreate the **Grid Layout** of the You Tube page produced in the **CSS Bootcamp at Dio**.
 
+
+## Project 11 - You Tube Grid Layout (Using HTML and CSS)
+
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/discord-layout/)
+
+This project is developed in **CSS**, maintained on **GitHub** and **deployed on GitHub Pages**.
+This is a **HTML and CSS** project whose **Challenge is to responsively recreate the layout of the Discord page.** Produced at **CSS Bootcamp on Dio**.
