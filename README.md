@@ -128,7 +128,6 @@ This is an **HTML and CSS** project that aims to recreate the **Grid Layout** of
 This project is developed in **CSS**, maintained on **GitHub** and **deployed on GitHub Pages**.
 This is a **HTML and CSS** project whose **Challenge is to responsively recreate the layout of the Discord page.** Produced at **CSS Bootcamp on Dio**.
 
-https://angular-blog-five-tau.vercel.app/
 
 ## Project 12 - Angular Blog (Angular)
 
