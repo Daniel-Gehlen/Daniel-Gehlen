@@ -135,3 +135,12 @@ This is a **HTML and CSS** project whose **Challenge is to responsively recreate
 
 This project is developed in **Angular**, maintained on **GitHub** and deployed on **Vercel**. 
 Using componentization techniques for a **SPA in Angular at Dio Bootcamp**.
+
+
+## Project 13 - Angular Blog (Angular)
+
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/)
+
+This project is developed in **Angular**, maintained on **GitHub** and deployed on **Vercel**. 
+Using componentization techniques for a **Buuz Feed in Angular at Dio Bootcamp**
+
