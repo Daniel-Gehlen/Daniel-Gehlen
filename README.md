@@ -53,7 +53,7 @@ This project is a personal portfolio developed with **Bootstrap**.
 
 ## Project 2 - Mini Blog (Using React, Firebase and Vercel)
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://miniblog-g2pi.vercel.app/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://miniblog-liart.vercel.app/)
 
 This project is a mini blog created with **React**, data storage in **Firebase** and hosted on **Vercel**.
 
