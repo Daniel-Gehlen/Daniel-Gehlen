@@ -1,9 +1,7 @@
-## Hello 👋, welcome to my GitHub!
+# Hello 👋, welcome to my GitHub!
 ## I am Daniel Gehlen
 
-I'm a **Front-End Developer**. 
-I'm at the end of the first semester in **higher education in Systems Analysis and Development at School Unopar in Brazil**.
-Expected formation in 2025. But developing far beyond college with a **focus on React**.
+I'm a **Front-End Developer**. I'm at the end of the first semester in **higher education in Systems Analysis and Development at School Unopar in Brazil**. Expected formation in 2025. But developing far beyond college with a **focus on React**.
 
 Feel free to reach out to me through my social media platforms: ⤵️
 
@@ -44,122 +42,56 @@ Feel free to reach out to me through my social media platforms: ⤵️
 [![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](#)
 
-
-## 🔧 Tecnologias & Ferramentas
-
-### Linguagens de Programação
-
-| ![#3498db](https://via.placeholder.com/20/3498db/000000?text=+) [Python](https://www.python.org/) | ![#2ecc71](https://via.placeholder.com/20/2ecc71/000000?text=+) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
-| --- | --- |
-| **Nível de Proficiência:** Avançado | **Nível de Proficiência:** Intermediário |
-| **Projetos:** [Projeto 1](https://github.com/seu-usuario/projeto1), [Projeto 2](https://github.com/seu-usuario/projeto2) | **Projetos:** [Projeto 3](https://github.com/seu-usuario/projeto3) |
-
-### Frameworks e Bibliotecas
-
-| ![#e74c3c](https://via.placeholder.com/20/e74c3c/000000?text=+) [Django](https://www.djangoproject.com/) | ![#f39c12](https://via.placeholder.com/20/f39c12/000000?text=+) [React](https://reactjs.org/) |
-| --- | --- |
-| **Nível de Proficiência:** Avançado | **Nível de Proficiência:** Intermediário |
-| **Projetos:** [Projeto A](https://github.com/seu-usuario/projetoA), [Projeto B](https://github.com/seu-usuario/projetoB) | **Projetos:** [Projeto C](https://github.com/seu-usuario/projetoC) |
-
 # Some Projects
 
 ## Project 1 - Portfolio (Using Bootstrap)
 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://daniel-gehlen.github.io/projeto-inicial-portfolio/index.html)
 
-This project is a personal portfolio developed with **Bootstrap**.
-
-
 ## Project 2 - Mini Blog (Using React, Firebase and Vercel)
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://miniblog-liart.vercel.app/)
-
-This project is a mini blog created with **React**, data storage in **Firebase** and hosted on **Vercel**.
-
 
 ## Project 3 - Start Steel (Using React, GitHub and Vercel)
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://start-steel.vercel.app/)
 
-This project is developed in **React**, maintained on **GitHub** and deployed on **Vercel**.
-
-
 ## Preject 4 - Supa Blog (Using React, NextJS, Supabase, GitHub and Vercel)
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://supa-blog-nine.vercel.app/)
-
-This project is developed in **React** and **NextJS** maintained on **GitHub**, connected with **Supabase database** and deployed on **Vercel**.
-
 
 ## Project 5 - Search Repository (Using React, GitHub and Vercel)
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://search-repository-react.vercel.app/)
 
-This project is developed in **React**, maintained on **GitHub** and deployed on **Vercel**.
-Enter the repository name and **it will be shown**. Use the Git Hub API.
-
-
 ## Project 6 - Modern portfolio (Using Javascript, HTML and CSS)
 
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/js-developer-portfolio/)
-
-This project is developed in **CSS**, maintained on **GitHub** and **deployed on GitHub Pages**.
-This is a project with a modern portfolio layout produced in the **JavaScript Bootcamp at Dio**.
-
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/js-developer-portfolio/)
 
 ## Project 7 - Modern Landing Page (Using HTML and CSS)
 
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/trail-css-dio/)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/trail-css-dio/)
 
-This project is developed in **CSS**, maintained on **GitHub** and **deployed on GitHub Pages**.
-This is a project with a modern Landing Page layout produced in the **CSS Bootcamp at Dio**.
+## Project 8 - Pokedex API (Using Javascript, HTML and CSS)
 
-
-## Project 8 -   Pokedex API (Using Javascript, HTML and CSS)
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://js-developer-pokedex-api.vercel.app/)
-
-This project is developed in **Javascript**, maintained on **GitHub** and **deployed on GitHub Pages**.
-This is a project using fetch API request methods **JavaScript Bootcamp on Dio**
-
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://js-developer-pokedex-api.vercel.app/)
 
 ## Project 9 - You Tube Page Layout (Using HTML and CSS)
 
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/you-tube-page/)
-
-This project is developed in **CSS**, maintained on **GitHub** and **deployed on GitHub Pages**.
-This is an **HTML and CSS** project that aims to recreate the **Layout Watching video** of the You Tube page produced in the **CSS Bootcamp at Dio**.
-
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/you-tube-page/)
 
 ## Project 10 - You Tube Grid Layout (Using HTML and CSS)
 
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/youtube-css-grid/)
-
-
-This project is developed in **CSS**, maintained on **GitHub** and **deployed on GitHub Pages**.
-This is an **HTML and CSS** project that aims to recreate the **Grid Layout** of the You Tube page produced in the **CSS Bootcamp at Dio**.
-
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/youtube-css-grid/)
 
 ## Project 11 - You Tube Grid Layout (Using HTML and CSS)
 
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/discord-layout/)
-
-This project is developed in **CSS**, maintained on **GitHub** and **deployed on GitHub Pages**.
-This is a **HTML and CSS** project whose **Challenge is to responsively recreate the layout of the Discord page.** Produced at **CSS Bootcamp on Dio**.
-
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/discord-layout/)
 
 ## Project 12 - Angular Blog (Angular)
 
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular-blog-five-tau.vercel.app/)
-
-This project is developed in **Angular**, maintained on **GitHub** and deployed on **Vercel**. 
-Using componentization techniques for a **SPA in Angular at Dio Bootcamp**.
-
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular-blog-five-tau.vercel.app/)
 
 ## Project 13 - Angular Blog (Angular)
 
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/)
-
-This project is developed in **Angular**, maintained on **GitHub** and deployed on **Vercel**. 
-Using componentization techniques for a **Buuz Feed in Angular at Dio Bootcamp**
-
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/)
