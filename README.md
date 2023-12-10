@@ -45,19 +45,9 @@ Feel free to reach out to me through my social media platforms: ⤵️
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](#)
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="flex: 1; padding: 20px; background-color: #3498db; border-radius: 10px; color: white;">
-    <h3>[Nome da Empresa]</h3>
-    <p>[Cargo] (MM/AAAA - Presente)</p>
-    <p>Descrição breve das responsabilidades e conquistas.</p>
-  </div>
-
-  <div style="flex: 1; padding: 20px; background-color: #2ecc71; border-radius: 10px; color: white;">
-    <h3>[Outra Empresa]</h3>
-    <p>[Outro Cargo] (MM/AAAA - MM/AAAA)</p>
-    <p>Descrição breve das responsabilidades e conquistas.</p>
-  </div>
-</div>
+| ![#3498db](https://via.placeholder.com/20/3498db/000000?text=+) [Nome da Empresa] | ![#2ecc71](https://via.placeholder.com/20/2ecc71/000000?text=+) [Outra Empresa] |
+| --- | --- |
+| **Cargo:** [Cargo] (MM/AAAA - Presente) <br> **Descrição:** Descrição breve das responsabilidades e conquistas. | **Cargo:** [Outro Cargo] (MM/AAAA - MM/AAAA) <br> **Descrição:** Descrição breve das responsabilidades e conquistas. |
 
 # Some Projects
 
