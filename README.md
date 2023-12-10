@@ -44,6 +44,21 @@ Feel free to reach out to me through my social media platforms: ⤵️
 [![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](#)
 
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="flex: 1; padding: 20px; background-color: #3498db; border-radius: 10px; color: white;">
+    <h3>[Nome da Empresa]</h3>
+    <p>[Cargo] (MM/AAAA - Presente)</p>
+    <p>Descrição breve das responsabilidades e conquistas.</p>
+  </div>
+
+  <div style="flex: 1; padding: 20px; background-color: #2ecc71; border-radius: 10px; color: white;">
+    <h3>[Outra Empresa]</h3>
+    <p>[Outro Cargo] (MM/AAAA - MM/AAAA)</p>
+    <p>Descrição breve das responsabilidades e conquistas.</p>
+  </div>
+</div>
+
 # Some Projects
 
 ## Project 1 - Portfolio (Using Bootstrap)
