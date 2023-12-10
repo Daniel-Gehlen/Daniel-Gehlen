@@ -45,9 +45,21 @@ Feel free to reach out to me through my social media platforms: ⤵️
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](#)
 
 
-| ![#3498db](https://via.placeholder.com/20/3498db/000000?text=+) [Nome da Empresa] | ![#2ecc71](https://via.placeholder.com/20/2ecc71/000000?text=+) [Outra Empresa] |
+## 🔧 Tecnologias & Ferramentas
+
+### Linguagens de Programação
+
+| ![#3498db](https://via.placeholder.com/20/3498db/000000?text=+) [Python](https://www.python.org/) | ![#2ecc71](https://via.placeholder.com/20/2ecc71/000000?text=+) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
 | --- | --- |
-| **Cargo:** [Cargo] (MM/AAAA - Presente) <br> **Descrição:** Descrição breve das responsabilidades e conquistas. | **Cargo:** [Outro Cargo] (MM/AAAA - MM/AAAA) <br> **Descrição:** Descrição breve das responsabilidades e conquistas. |
+| **Nível de Proficiência:** Avançado | **Nível de Proficiência:** Intermediário |
+| **Projetos:** [Projeto 1](https://github.com/seu-usuario/projeto1), [Projeto 2](https://github.com/seu-usuario/projeto2) | **Projetos:** [Projeto 3](https://github.com/seu-usuario/projeto3) |
+
+### Frameworks e Bibliotecas
+
+| ![#e74c3c](https://via.placeholder.com/20/e74c3c/000000?text=+) [Django](https://www.djangoproject.com/) | ![#f39c12](https://via.placeholder.com/20/f39c12/000000?text=+) [React](https://reactjs.org/) |
+| --- | --- |
+| **Nível de Proficiência:** Avançado | **Nível de Proficiência:** Intermediário |
+| **Projetos:** [Projeto A](https://github.com/seu-usuario/projetoA), [Projeto B](https://github.com/seu-usuario/projetoB) | **Projetos:** [Projeto C](https://github.com/seu-usuario/projetoC) |
 
 # Some Projects
 
