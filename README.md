@@ -8,7 +8,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 ## Social media
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gehlen-5350341a3) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](harmonia251251@gmail.com) | [![Behance](https://img.shields.io/badge/Behance-053EFF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/danielgehlen) |
 | --- | --- | --- |
-| LinkedIn | Gmail | Behance |
+
 
 - 📫 How to reach me, email: harmonia251251@gmail.com
 
