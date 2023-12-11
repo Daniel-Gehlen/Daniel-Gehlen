@@ -33,54 +33,21 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 # Some Projects
 
-## Project 1 - Portfolio (Using Bootstrap)
+| Project  | Description | Link |
+| ------------- | ------------- | ------------- |
+| Portfolio (Bootstrap)  | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  | [Link](https://daniel-gehlen.github.io/projeto-inicial-portfolio/index.html)  |
+| Mini Blog (React, Firebase, Vercel)  | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  | [Link](https://miniblog-liart.vercel.app/)  |
+| Start Steel (React, GitHub, Vercel)  | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  | [Link](https://start-steel.vercel.app/)  |
+| Supa Blog (React, NextJS, Supabase, GitHub, Vercel)  | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  | [Link](https://supa-blog-nine.vercel.app/)  |
+| Search Repository (React, GitHub, Vercel)  | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  | [Link](https://search-repository-react.vercel.app/)  |
+| Modern portfolio (JS, HTML, CSS)  | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  | [Link](https://daniel-gehlen.github.io/js-developer-portfolio/)  |
+| Modern Landing Page (HTML, CSS)  | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  | [Link](https://daniel-gehlen.github.io/trail-css-dio/)  |
+| Pokedex API (JS, HTML, CSS)  | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  | [Link](https://js-developer-pokedex-api.vercel.app/)  |
+| YouTube Page Layout (HTML, CSS)  | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  | [Link](https://daniel-gehlen.github.io/you-tube-page/)  |
+| YouTube Grid Layout (HTML, CSS)  | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  | [Link](https://daniel-gehlen.github.io/youtube-css-grid/)  |
+| YouTube Grid Layout (HTML, CSS)  | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  | [Link](https://daniel-gehlen.github.io/discord-layout/)  |
+| Angular Blog (Angular)  | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  | [Link](https://angular-blog-five-tau.vercel.app/)  |
+| Angular Blog (Angular)  | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  | [Link](https://angular-buzzfeed-quizz-clone-psi.vercel.app/)  |
 
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://daniel-gehlen.github.io/projeto-inicial-portfolio/index.html)
+*Click on the icons to view the projects.*
 
-## Project 2 - Mini Blog (Using React, Firebase and Vercel)
-
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://miniblog-liart.vercel.app/)
-
-## Project 3 - Start Steel (Using React, GitHub and Vercel)
-
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://start-steel.vercel.app/)
-
-## Preject 4 - Supa Blog (Using React, NextJS, Supabase, GitHub and Vercel)
-
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://supa-blog-nine.vercel.app/)
-
-## Project 5 - Search Repository (Using React, GitHub and Vercel)
-
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://search-repository-react.vercel.app/)
-
-## Project 6 - Modern portfolio (Using Javascript, HTML and CSS)
-
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/js-developer-portfolio/)
-
-## Project 7 - Modern Landing Page (Using HTML and CSS)
-
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/trail-css-dio/)
-
-## Project 8 - Pokedex API (Using Javascript, HTML and CSS)
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://js-developer-pokedex-api.vercel.app/)
-
-## Project 9 - You Tube Page Layout (Using HTML and CSS)
-
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/you-tube-page/)
-
-## Project 10 - You Tube Grid Layout (Using HTML and CSS)
-
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/youtube-css-grid/)
-
-## Project 11 - You Tube Grid Layout (Using HTML and CSS)
-
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/discord-layout/)
-
-## Project 12 - Angular Blog (Angular)
-
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular-blog-five-tau.vercel.app/)
-
-## Project 13 - Angular Blog (Angular)
-
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/)
