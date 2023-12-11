@@ -35,7 +35,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 | Description | Project |
 | ------------| --------|
-| Portfolio (Bootstrap)  | [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://daniel-gehlen.github.io/projeto-inicial-portfolio/index.html)  |
+| Portfolio (Bootstrap)  | [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://daniel-gehlen.github.io/bootstrap-portfolio/) |
 | Mini Blog (React, Firebase, Vercel)  | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://miniblog-liart.vercel.app/)  |
 | Start Steel (React, GitHub, Vercel)  | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://start-steel.vercel.app/)  |
 | Supa Blog (React, NextJS, Supabase, GitHub, Vercel)  | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://supa-blog-nine.vercel.app/)  |
