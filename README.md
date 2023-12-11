@@ -34,22 +34,23 @@ Feel free to reach out to me through my social media platforms: ⤵️
 # Some Projects
 
 | Description | Project |
-| ------------- | ------------- |
-| Portfolio (Bootstrap)  | [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://daniel-gehlen.github.io/projeto-inicial-portfolio/index.html){:target="_blank"}  |
-| Mini Blog (React, Firebase, Vercel)  | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://miniblog-liart.vercel.app/){:target="_blank"}  |
-| Start Steel (React, GitHub, Vercel)  | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://start-steel.vercel.app/){:target="_blank"}  |
-| Supa Blog (React, NextJS, Supabase, GitHub, Vercel)  | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://supa-blog-nine.vercel.app/){:target="_blank"}  |
-| Search Repository (React, GitHub, Vercel)  | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://search-repository-react.vercel.app/){:target="_blank"}  |
-| Modern portfolio (JS, HTML, CSS)  | [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/js-developer-portfolio/){:target="_blank"}  |
-| Modern Landing Page (HTML, CSS)  | [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/trail-css-dio/){:target="_blank"}  |
-| Pokedex API (JS, HTML, CSS)  | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://js-developer-pokedex-api.vercel.app/){:target="_blank"}  |
-| YouTube Page Layout (HTML, CSS)  | [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/you-tube-page/){:target="_blank"}  |
-| YouTube Grid Layout (HTML, CSS)  | [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/youtube-css-grid/){:target="_blank"}  |
-| YouTube Grid Layout (HTML, CSS)  | [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/discord-layout/){:target="_blank"}  |
-| Angular Blog (Angular)  | [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular-blog-five-tau.vercel.app/){:target="_blank"}  |
-| Angular Blog (Angular)  | [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/){:target="_blank"}  |
+| ------------| --------|
+| Portfolio (Bootstrap)  | [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://daniel-gehlen.github.io/projeto-inicial-portfolio/index.html)  |
+| Mini Blog (React, Firebase, Vercel)  | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://miniblog-liart.vercel.app/)  |
+| Start Steel (React, GitHub, Vercel)  | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://start-steel.vercel.app/)  |
+| Supa Blog (React, NextJS, Supabase, GitHub, Vercel)  | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://supa-blog-nine.vercel.app/)  |
+| Search Repository (React, GitHub, Vercel)  | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://search-repository-react.vercel.app/)  |
+| Modern portfolio (JS, HTML, CSS)  | [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/js-developer-portfolio/)  |
+| Modern Landing Page (HTML, CSS)  | [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/trail-css-dio/)  |
+| Pokedex API (JS, HTML, CSS)  | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://js-developer-pokedex-api.vercel.app/)  |
+| YouTube Page Layout (HTML, CSS)  | [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/you-tube-page/)  |
+| YouTube Grid Layout (HTML, CSS)  | [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/youtube-css-grid/)  |
+| YouTube Grid Layout (HTML, CSS)  | [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/discord-layout/)  |
+| Angular Blog (Angular)  | [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular-blog-five-tau.vercel.app/)  |
+| Angular Blog (Angular)  | [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/)  |
 
 *Click on the icons to view the projects (opens in a new tab).*
+
 
 
 
