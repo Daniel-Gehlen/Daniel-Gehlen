@@ -5,12 +5,6 @@
 
 <details>
   <summary>:rocket: Funcionalidade 1</summary>
-  
-  Descrição detalhada da funcionalidade 1.
-  
-  ```bash
-  Comando ou exemplo de uso
-
 
 [![Status do Projeto](https://img.shields.io/badge/status-under%20development-blueviolet)](https://github.com/seu-usuario/seu-projeto)
 
