@@ -1,5 +1,23 @@
 # Hello 👋, welcome to my GitHub!
 
+<div style="background-color: #3498db; padding: 20px; border-radius: 10px; text-align: center;">
+  <h1 style="color: #fff;">Meu Projeto</h1>
+  <p style="color: #ecf0f1;">Uma breve descrição do seu projeto.</p>
+</div>
+
+<div style="display: flex; justify-content: space-around; margin-top: 20px;">
+  <div style="background-color: #2ecc71; padding: 20px; border-radius: 10px; width: 30%;">
+    <h2 style="color: #fff;">Funcionalidade 1</h2>
+    <p style="color: #ecf0f1;">Descrição detalhada da funcionalidade 1.</p>
+  </div>
+
+  <div style="background-color: #e74c3c; padding: 20px; border-radius: 10px; width: 30%;">
+    <h2 style="color: #fff;">Funcionalidade 2</h2>
+    <p style="color: #ecf0f1;">Descrição detalhada da funcionalidade 2.</p>
+  </div>
+</div>
+
+
 [![Status do Projeto](https://img.shields.io/badge/status-under%20development-blueviolet)](https://github.com/seu-usuario/seu-projeto)
 
 ## I am Daniel Gehlen
