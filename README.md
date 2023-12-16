@@ -1,21 +1,15 @@
 # Hello 👋, welcome to my GitHub!
 
-<div style="background-color: #3498db; padding: 20px; border-radius: 10px; text-align: center;">
-  <h1 style="color: #fff;">Meu Projeto</h1>
-  <p style="color: #ecf0f1;">Uma breve descrição do seu projeto.</p>
-</div>
 
-<div style="display: flex; justify-content: space-around; margin-top: 20px;">
-  <div style="background-color: #2ecc71; padding: 20px; border-radius: 10px; width: 30%;">
-    <h2 style="color: #fff;">Funcionalidade 1</h2>
-    <p style="color: #ecf0f1;">Descrição detalhada da funcionalidade 1.</p>
-  </div>
+Neste exemplo:
 
-  <div style="background-color: #e74c3c; padding: 20px; border-radius: 10px; width: 30%;">
-    <h2 style="color: #fff;">Funcionalidade 2</h2>
-    <p style="color: #ecf0f1;">Descrição detalhada da funcionalidade 2.</p>
-  </div>
-</div>
+- Utilizei a tag `<details>` para criar os "cards" que podem ser abertos para revelar mais informações.
+- Cada "card" tem um ícone (`:rocket:` e `:bulb:`) para adicionar uma representação visual.
+- Adicionei um painel de "Estado do Projeto" com emojis para indicar o status de desenvolvimento.
+- Incluí uma seção de "Contribuição" para encorajar colaboração.
+
+Lembre-se de personalizar os ícones, cores e conteúdo conforme necessário para atender ao seu projeto e estilo visual desejado.
+
 
 
 [![Status do Projeto](https://img.shields.io/badge/status-under%20development-blueviolet)](https://github.com/seu-usuario/seu-projeto)
