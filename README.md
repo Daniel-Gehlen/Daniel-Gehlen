@@ -1,15 +1,15 @@
 # Hello 👋, welcome to my GitHub!
 
 
-Neste exemplo:
+## Recursos
 
-- Utilizei a tag `<details>` para criar os "cards" que podem ser abertos para revelar mais informações.
-- Cada "card" tem um ícone (`:rocket:` e `:bulb:`) para adicionar uma representação visual.
-- Adicionei um painel de "Estado do Projeto" com emojis para indicar o status de desenvolvimento.
-- Incluí uma seção de "Contribuição" para encorajar colaboração.
-
-Lembre-se de personalizar os ícones, cores e conteúdo conforme necessário para atender ao seu projeto e estilo visual desejado.
-
+<details>
+  <summary>:rocket: Funcionalidade 1</summary>
+  
+  Descrição detalhada da funcionalidade 1.
+  
+  ```bash
+  Comando ou exemplo de uso
 
 
 [![Status do Projeto](https://img.shields.io/badge/status-under%20development-blueviolet)](https://github.com/seu-usuario/seu-projeto)
