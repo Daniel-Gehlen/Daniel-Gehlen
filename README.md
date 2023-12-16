@@ -1,8 +1,8 @@
 # Hello 👋, welcome to my GitHub!
 
-╔══════════╗
-║ Conteúdo ║
-╚══════════╝
+[![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-blueviolet)](https://github.com/seu-usuario/seu-projeto)
+[![Versão](https://img.shields.io/github/v/release/seu-usuario/seu-projeto)](https://github.com/seu-usuario/seu-projeto/releases)
+[![Licença](https://img.shields.io/github/license/seu-usuario/seu-projeto)](https://github.com/seu-usuario/seu-projeto/blob/main/LICENSE)
 
 
 ## I am Daniel Gehlen
