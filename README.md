@@ -55,7 +55,6 @@ Feel free to reach out to me through my social media platforms: ⤵️
 | Search Repository (React, GitHub, Vercel)  | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://search-repository-react.vercel.app/)  |
 | Modern portfolio (JS, HTML, CSS)  | [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/js-developer-portfolio/)  |
 | Pokedex API (JS, HTML, CSS)  | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://js-developer-pokedex-api.vercel.app/)  |
-| Angular Blog (Angular)  | [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular-blog-five-tau.vercel.app/)  |
 | BuzzFeed (Angular)  | [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/)  |
 
 *Click on the icons to view the projects (opens in a new tab).*
