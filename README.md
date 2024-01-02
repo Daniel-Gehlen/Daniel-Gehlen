@@ -45,6 +45,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 </details>
 
 # Some Projects
+*Click on the icons to view the projects.*
 
 | Description | Project |
 | ------------| --------|
@@ -55,10 +56,3 @@ Feel free to reach out to me through my social media platforms: ⤵️
 | Modern portfolio (JS, HTML, CSS)  | [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/js-developer-portfolio/)  |
 | Pokedex API (JS, HTML, CSS)  | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://js-developer-pokedex-api.vercel.app/)  |
 | BuzzFeed (Angular)  | [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/)  |
-
-*Click on the icons to view the projects (opens in a new tab).*
-
-
-
-
-
