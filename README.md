@@ -45,6 +45,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 </details>
 
 # Some Projects
+![Some Projects](https://via.placeholder.com/300x50/3498d/ffffff?text=Some+Projects)
 *Click on the icons to view the projects.*
 
 | Description | Project |
