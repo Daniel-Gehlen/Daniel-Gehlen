@@ -4,6 +4,10 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=YELLOW&style=for-the-badge"/>
 </p>
 
+<svg height="100" width="100">
+  <polygon points="50,5 90,90 10,90" style="fill:lime;stroke:purple;stroke-width:1" />
+</svg>
+
 
 ## I am Daniel Gehlen
 
