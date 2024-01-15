@@ -1,17 +1,7 @@
 # Hello 👋, welcome to my GitHub!
 
 [![Status do Projeto](https://img.shields.io/badge/status-under%20development-blueviolet)](https://github.com/seu-usuario/seu-projeto)
-<a href="URL_DO_SEU_LINK" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center; height: 100%;">
-  <span style="animation: blink 1s infinite; background: linear-gradient(45deg, #E91E63, #2196F3); color: white; border-radius: 5px; width: 300px; height: 50px; text-align: center; line-height: 50px;">
-    Piscante muito
-  </span>
-</a>
 
-<style>
-  @keyframes blink {
-    50% { opacity: 0; }
-  }
-</style>
 
 ## I am Daniel Gehlen
 
