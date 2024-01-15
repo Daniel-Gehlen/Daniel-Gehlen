@@ -4,6 +4,8 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=blueviolet&style=for-the-badge" #vitrinedev/>
 </p>
 
+[![JavaScript](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 ## I am Daniel Gehlen
 
 I'm a **Front-End Developer**. I'm at the end of the second semester in **higher education in Systems Analysis and Development at School Unopar in Brazil**. Expected formation in 2025. But developing far beyond college with a **focus on React**.
