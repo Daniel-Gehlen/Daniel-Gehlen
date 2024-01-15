@@ -4,19 +4,7 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=YELLOW&style=for-the-badge"/>
 </p>
 
-<div style="display: flex; justify-content: space-between;">
 
-<div style="background-color: #3498db; color: white; padding: 20px; border-radius: 8px; width: 45%;">
-    <h2>Caixa Azul</h2>
-    <p>Conteúdo da caixa azul.</p>
-</div>
-
-<div style="background-color: #2ecc71; color: white; padding: 20px; border-radius: 8px; width: 45%;">
-    <h2>Caixa Verde</h2>
-    <p>Conteúdo da caixa verde.</p>
-</div>
-
-</div>
 
 ## I am Daniel Gehlen
 
