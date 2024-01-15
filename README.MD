@@ -42,7 +42,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 <br><br>
 
-![DevOps](https://via.placeholder.com/350x50/3498d/ffffff?text=DevOps)
+![DevOps](https://via.placeholder.com/350x50/3498d/ffffff?text=Some+DevOps)
   
 | [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](#) | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#) | [![Gitlab](https://img.shields.io/badge/Gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=black)](#) |
 | --- | --- | --- | --- |
