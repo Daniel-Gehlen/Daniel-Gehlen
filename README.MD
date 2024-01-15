@@ -3,7 +3,7 @@
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=YELLOW&style=for-the-badge"/>
 </p>
-
+[![NPM](https://nodei.co/npm/<package>.png)](https://nodei.co/npm/<package>/)
 
 
 ## I am Daniel Gehlen
