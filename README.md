@@ -11,7 +11,8 @@ I'm a **Front-End Developer**. I'm at the end of the second semester in **higher
 
 Feel free to reach out to me through my social media platforms: ⤵️
 
-## Social media
+![Social media](https://via.placeholder.com/300x50/3498d/ffffff?text=Social+media)
+
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gehlen-5350341a3) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](harmonia251251@gmail.com) | [![Behance](https://img.shields.io/badge/Behance-053EFF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/danielgehlen) |
 | --- | --- | --- |
 
@@ -44,8 +45,9 @@ Feel free to reach out to me through my social media platforms: ⤵️
 | --- | --- | --- | --- |
 </details>
 
-# Some Projects
+
 ![Some Projects](https://via.placeholder.com/300x50/3498d/ffffff?text=Some+Projects)
+
 *Click on the icons to view the projects.*
 
 | Description | Project |
