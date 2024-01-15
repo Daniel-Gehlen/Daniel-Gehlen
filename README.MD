@@ -33,16 +33,16 @@ Feel free to reach out to me through my social media platforms: ⤵️
 ![Some Projects](https://via.placeholder.com/350x50/3498d/ffffff?text=Some+Projects)
 
 *Click on the icons to view the projects.*
-
 | Description | Project |
 | ------------| --------|
-| Portfolio (Bootstrap)  | [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://daniel-gehlen.github.io/bootstrap-portfolio/) |
-| Mini Blog (React, Firebase, Vercel)  | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://miniblog-liart.vercel.app/)  |
-| Start Steel (React, GitHub, Vercel)  | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://start-steel.vercel.app/)  |
-| Supa Blog (React, NextJS, Supabase, GitHub, Vercel)  | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://supa-blog-nine.vercel.app/)  |
-| Modern portfolio (JS, HTML, CSS)  | [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/js-developer-portfolio/)  |
-| Pokedex API (JS, HTML, CSS)  | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://js-developer-pokedex-api.vercel.app/)  |
-| BuzzFeed (Angular)  | [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/)  |
+| Portfolio (Bootstrap)  | [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://daniel-gehlen.github.io/bootstrap-portfolio/) <a href="https://daniel-gehlen.github.io/bootstrap-portfolio/" style="cursor: pointer;">&#x1F44C;</a> |
+| Mini Blog (React, Firebase, Vercel)  | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://miniblog-liart.vercel.app/) <a href="https://miniblog-liart.vercel.app/" style="cursor: pointer;">&#x1F44C;</a>  |
+| Start Steel (React, GitHub, Vercel)  | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://start-steel.vercel.app/) <a href="https://start-steel.vercel.app/" style="cursor: pointer;">&#x1F44C;</a>  |
+| Supa Blog (React, NextJS, Supabase, GitHub, Vercel)  | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://supa-blog-nine.vercel.app/) <a href="https://supa-blog-nine.vercel.app/" style="cursor: pointer;">&#x1F44C;</a>  |
+| Modern portfolio (JS, HTML, CSS)  | [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/js-developer-portfolio/) <a href="https://daniel-gehlen.github.io/js-developer-portfolio/" style="cursor: pointer;">&#x1F44C;</a>  |
+| Pokedex API (JS, HTML, CSS)  | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://js-developer-pokedex-api.vercel.app/) <a href="https://js-developer-pokedex-api.vercel.app/" style="cursor: pointer;">&#x1F44C;</a>  |
+| BuzzFeed (Angular)  | [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/) <a href="https://angular-buzzfeed-quizz-clone-psi.vercel.app/" style="cursor: pointer;">&#x1F44C;</a> |
+
 
 <br><br>
 
