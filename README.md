@@ -11,7 +11,7 @@ I'm a **Front-End Developer**. I'm at the end of the second semester in **higher
 
 Feel free to reach out to me through my social media platforms: ⤵️
 
-![Social media](https://via.placeholder.com/300x50/3498d/ffffff?text=Social+media)
+![Social media](https://via.placeholder.com/350x50/3498d/ffffff?text=Social+media)
 
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gehlen-5350341a3) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](harmonia251251@gmail.com) | [![Behance](https://img.shields.io/badge/Behance-053EFF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/danielgehlen) |
 | --- | --- | --- |
@@ -21,7 +21,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 - 📫 How to reach me, email: harmonia251251@gmail.com
 
 
-![Technical Skills and Technologies](https://via.placeholder.com/300x50/3498d/ffffff?text=Skills+Technologies)
+![Technical Skills and Technologies](https://via.placeholder.com/350x50/3498d/ffffff?text=Skills+Technologies)
 
 | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#) | [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#) | [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#) |
 | --- | --- | --- |
@@ -34,18 +34,18 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 
 
-![DevOps](https://via.placeholder.com/300x50/3498d/ffffff?text=DevOps)
+![DevOps](https://via.placeholder.com/350x50/3498d/ffffff?text=DevOps)
   
 | [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](#) | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#) | [![Gitlab](https://img.shields.io/badge/Gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=black)](#) |
 | --- | --- | --- | --- |
 
 
-![Tools](https://via.placeholder.com/300x50/3498d/ffffff?text=Some+Tools)
+![Tools](https://via.placeholder.com/350x50/3498d/ffffff?text=Some+Tools)
 
  [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](#)  [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](#)  [![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)](#)  [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](#) 
 
 
-![Some Projects](https://via.placeholder.com/300x50/3498d/ffffff?text=Some+Projects)
+![Some Projects](https://via.placeholder.com/350x50/3498d/ffffff?text=Some+Projects)
 
 *Click on the icons to view the projects.*
 
