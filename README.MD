@@ -4,9 +4,9 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=YELLOW&style=for-the-badge"/>
 </p>
 
-
+<p align="center">
 ![Imagem Aleatória de Tecnologia](https://source.unsplash.com/100x50/?technology&{{timestamp}})
-
+</p>
 
 ## I am Daniel Gehlen
 
