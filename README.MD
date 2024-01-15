@@ -4,6 +4,9 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=YELLOW&style=for-the-badge"/>
 </p>
 
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
+
 ## I am Daniel Gehlen
 
 I'm a **Front-End Developer**. I'm at the end of the second semester in **higher education in Systems Analysis and Development at School Unopar in Brazil**. Expected formation in 2025. But developing far beyond college with a **focus on React**.
