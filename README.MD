@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://source.unsplash.com/100x50/?code&{{timestamp}}"/>
+<img src="https://source.unsplash.com/200x100/?code&{{timestamp}}"/>
 </p>
 
 ## I am Daniel Gehlen
