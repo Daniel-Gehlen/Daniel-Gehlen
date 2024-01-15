@@ -4,7 +4,7 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=YELLOW&style=for-the-badge"/>
 </p>
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+https://img.shields.io/badge/:badgeContent
 
 
 ## I am Daniel Gehlen
