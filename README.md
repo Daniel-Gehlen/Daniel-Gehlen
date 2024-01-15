@@ -32,19 +32,18 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
-  <summary>:rocket: DevOps</summary>
+
+
+![DevOps](https://via.placeholder.com/300x50/3498d/ffffff?text=DevOps)
   
 | [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](#) | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#) | [![Gitlab](https://img.shields.io/badge/Gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=black)](#) |
 | --- | --- | --- | --- |
-</details>
 
-<details>
-  <summary>:rocket: Tools</summary>
+
+![Tools](https://via.placeholder.com/300x50/3498d/ffffff?text=Tools)
 
 | [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](#) | [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](#) | [![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)](#) | [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](#) |
 | --- | --- | --- | --- |
-</details>
 
 
 ![Some Projects](https://via.placeholder.com/300x50/3498d/ffffff?text=Some+Projects)
@@ -60,7 +59,3 @@ Feel free to reach out to me through my social media platforms: ⤵️
 | Modern portfolio (JS, HTML, CSS)  | [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/js-developer-portfolio/)  |
 | Pokedex API (JS, HTML, CSS)  | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://js-developer-pokedex-api.vercel.app/)  |
 | BuzzFeed (Angular)  | [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/)  |
-
-
-
-![Clique aqui](https://via.placeholder.com/300x50/3498d/ffffff?text=Clique+Aqui)
