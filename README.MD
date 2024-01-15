@@ -1,6 +1,6 @@
 <h1 align="center"> Hello 👋, welcome to my GitHub!</h1>
 
-f08c
+
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <i class="fab fa-js-square" style="font-size:40px;"></i>
