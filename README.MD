@@ -1,11 +1,12 @@
 <h1 align="center"> Hello 👋, welcome to my GitHub!</h1>
 
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=sparklingpurple&style=for-the-badge"/>
+</p>
 
 ## I am Daniel Gehlen
 
 I'm a **Front-End Developer**. I'm at the end of the second semester in **higher education in Systems Analysis and Development at School Unopar in Brazil**. Expected formation in 2025. But developing far beyond college with a **focus on React**.
-
-<br><br>
 
 ![Developer](https://github.com/Daniel-Gehlen/Daniel-Gehlen/assets/142283217/572d07d8-fa39-445f-b25c-833746ced0c2)
 
@@ -63,16 +64,5 @@ Feel free to reach out to me through my social media platforms: ⤵️
 | Modern portfolio (JS, HTML, CSS)  | [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/js-developer-portfolio/)  |
 | Pokedex API (JS, HTML, CSS)  | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://js-developer-pokedex-api.vercel.app/)  |
 | BuzzFeed (Angular)  | [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/)  |
-
-
-## Ferramentas utilizadas
-
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-
-<a href="https://developer.android.com/studio" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" alt="androidStudio" width="40" height="40"/> </a> <a href="https://firebase.google.com/?hl=pt" target="_blank"> <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_96dp.png" alt="firebase" width="40" height="40"/> </a>
-
-<a href="https://www.bootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/java-original.svg" alt="bootstrap" width="40" height="40"/> </a> 
-
-
 
 
