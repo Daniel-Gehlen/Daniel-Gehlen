@@ -77,9 +77,10 @@ Feel free to reach out to me through my social media platforms: ⤵️
 <br><br>
 ## Ferramentas utilizadas
 
-[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com)
-[![Android Studio](https://developer.android.com/images/logos/android.svg)](https://developer.android.com/studio)
-[![Firebase](https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_96dp.png)](https://firebase.google.com/?hl=pt)
+[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg | width=40 | height=40)](https://www.java.com)
+[![Android Studio](https://developer.android.com/images/logos/android.svg | width=40 | height=40)](https://developer.android.com/studio)
+[![Firebase](https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_96dp.png | width=40 | height=40)](https://firebase.google.com/?hl=pt)
+
 
 
 <br>>br>
