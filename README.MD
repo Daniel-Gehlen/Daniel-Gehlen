@@ -4,9 +4,36 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=YELLOW&style=for-the-badge"/>
 </p>
 
-<svg height="100" width="100">
-  <polygon points="50,5 90,90 10,90" style="fill:lime;stroke:purple;stroke-width:1" />
-</svg>
+```markdown
+```markdown
+```markdown
+```markdown
+```markdown
+```markdown
+```markdown
+```markdown
+```markdown
+```markdown
+```markdown
+```markdown
+```markdown
+```markdown
+```markdown
+```markdown
+```markdown
+```markdown
+```markdown
+```markdown
+```markdown
+
+  <div style="background-color: #3498db; color: white; padding: 10px; border-radius: 8px;">
+      <p>Esta é uma caixa azul estilizada usando GFM.</p>
+  </div>
+
+  <div style="background-color: #2ecc71; color: white; padding: 10px; border-radius: 8px;">
+      <p>Esta é uma caixa verde estilizada usando GFM.</p>
+  </div>
+
 
 
 ## I am Daniel Gehlen
