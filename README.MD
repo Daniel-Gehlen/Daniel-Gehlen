@@ -83,7 +83,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 
 
-<br>>br>
+<br><br>
 ## Technical
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](#)
