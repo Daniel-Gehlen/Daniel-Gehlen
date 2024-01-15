@@ -1,4 +1,4 @@
-# Hello 👋, welcome to my GitHub!
+<h1 align="center"> Hello 👋, welcome to my GitHub!</h1>
 
 [![Status do Projeto](https://img.shields.io/badge/status-under%20development-blueviolet)](https://github.com/seu-usuario/seu-projeto)
 
