@@ -29,6 +29,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 - 📫 How to reach me, email: harmonia251251@gmail.com
 
 <br><br>
+
 ![Some Projects](https://via.placeholder.com/350x50/3498d/ffffff?text=Some+Projects)
 
 *Click on the icons to view the projects.*
@@ -42,7 +43,9 @@ Feel free to reach out to me through my social media platforms: ⤵️
 | Modern portfolio (JS, HTML, CSS)  | [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/js-developer-portfolio/)  |
 | Pokedex API (JS, HTML, CSS)  | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://js-developer-pokedex-api.vercel.app/)  |
 | BuzzFeed (Angular)  | [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/)  |
+
 <br><br>
+
 ![Technical Skills and Technologies](https://via.placeholder.com/350x50/3498d/ffffff?text=Skills+Technologies)
 
 | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#) | [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#) | [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#) |
