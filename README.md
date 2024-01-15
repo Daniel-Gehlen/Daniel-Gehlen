@@ -2,6 +2,7 @@
 
 [![Status do Projeto](https://img.shields.io/badge/status-under%20development-blueviolet)](https://github.com/seu-usuario/seu-projeto)
 
+
 ## I am Daniel Gehlen
 
 I'm a **Front-End Developer**. I'm at the end of the second semester in **higher education in Systems Analysis and Development at School Unopar in Brazil**. Expected formation in 2025. But developing far beyond college with a **focus on React**.
