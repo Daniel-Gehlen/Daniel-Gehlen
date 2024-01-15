@@ -2,7 +2,9 @@
 
 [![Status do Projeto](https://img.shields.io/badge/status-under%20development-blueviolet)](https://github.com/seu-usuario/seu-projeto)
 
-![Dynamic YAML Badge](https://img.shields.io/badge/dynamic/yaml)
+<p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=RED&style=for-the-badge" #vitrinedev/>
+</p>
 
 
 ## I am Daniel Gehlen
