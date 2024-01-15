@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-![Imagem Aleatória de Tecnologia](https://source.unsplash.com/100x50/?technology&{{timestamp}})
+<img src="https://source.unsplash.com/100x50/?technology&{{timestamp}}"/>
 </p>
 
 ## I am Daniel Gehlen
