@@ -74,6 +74,12 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 <a href="https://developer.android.com/studio" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" alt="androidStudio" width="40" height="40"/> </a> <a href="https://firebase.google.com/?hl=pt" target="_blank"> <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_96dp.png" alt="firebase" width="40" height="40"/> </a>
 
+<br><br>
+## Ferramentas utilizadas
+
+[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com)
+[![Android Studio](https://developer.android.com/images/logos/android.svg)](https://developer.android.com/studio)
+[![Firebase](https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_96dp.png)](https://firebase.google.com/?hl=pt)
 
 
 <br>>br>
