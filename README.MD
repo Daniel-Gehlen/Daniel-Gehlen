@@ -1,8 +1,9 @@
 <h1 align="center"> Hello 👋, welcome to my GitHub!</h1>
 
 <p align="center">
-  <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=#800080&style=for-the-badge"/>
+  <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=#8e44ad&style=for-the-badge&logoColor=white&logo=ghost&labelColor=#5d2b8d&logoWidth=20&logoHeight=20&logoPosition=right&borderRadius=8"/>
 </p>
+
 
 
 ## I am Daniel Gehlen
