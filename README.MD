@@ -74,9 +74,8 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 <a href="https://developer.android.com/studio" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" alt="androidStudio" width="40" height="40"/> </a> <a href="https://firebase.google.com/?hl=pt" target="_blank"> <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_96dp.png" alt="firebase" width="40" height="40"/> </a>
 
-<a href="https://bootstrap.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.18.0/bootstrap-icons.svg" alt="Bootstrap" width="40" height="40"/>
-</a>
+<a href="https://www.bootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/java-original.svg" alt="bootstrap" width="40" height="40"/> </a> 
+
 
 
 
