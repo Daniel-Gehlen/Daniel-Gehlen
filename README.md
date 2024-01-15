@@ -60,61 +60,15 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 
 
+<a href="URL_DO_SEU_LINK" target="_blank" style="text-decoration: none; display: flex; justify-content: center; align-items: center; height: 100%;">
+  <span style="animation: blink 1s infinite; background: linear-gradient(45deg, #E91E63, #2196F3); color: white; border-radius: 5px; width: 300px; height: 50px; text-align: center; line-height: 50px;">
+    Piscante muito
+  </span>
+</a>
 
+<style>
+  @keyframes blink {
+    50% { opacity: 0; }
+  }
+</style>
 
-<details>
-  <summary style="font-size: 18px; font-weight: bold; margin-top: 15px;">:rocket: Technical Skills and Technologies</summary>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
-<button style="padding: 10px 20px; font-size: 16px; font-weight: bold; border: none; border-radius: 8px; background: linear-gradient(135deg, #4CAF50, #2196F3); color: white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); cursor: pointer;">JavaScript</button>
-
-<button style="padding: 10px 20px; font-size: 16px; font-weight: bold; border: none; border-radius: 8px; background: linear-gradient(135deg, #3178C6, #61DAFB); color: white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); cursor: pointer;">TypeScript</button>
-
-<button style="padding: 10px 20px; font-size: 16px; font-weight: bold; border: none; border-radius: 8px; background: linear-gradient(135deg, #61DAFB, #000000); color: white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); cursor: pointer;">React</button>
-
-<button style="padding: 10px 20px; font-size: 16px; font-weight: bold; border: none; border-radius: 8px; background: linear-gradient(135deg, #DD0031, #E34F26); color: white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); cursor: pointer;">Angular</button>
-
-<button style="padding: 10px 20px; font-size: 16px; font-weight: bold; border: none; border-radius: 8px; background: linear-gradient(135deg, #1572B6, #E34F26); color: white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); cursor: pointer;">CSS</button>
-
-<button style="padding: 10px 20px; font-size: 16px; font-weight: bold; border: none; border-radius: 8px; background: linear-gradient(135deg, #E34F26, #FFCA28); color: white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); cursor: pointer;">HTML</button>
-
-<button style="padding: 10px 20px; font-size: 16px; font-weight: bold; border: none; border-radius: 8px; background: linear-gradient(135deg, #000000, #FFFFFF); color: white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); cursor: pointer;">Next.js</button>
-
-<button style="padding: 10px 20px; font-size: 16px; font-weight: bold; border: none; border-radius: 8px; background: linear-gradient(135deg, #C21325, #2496ED); color: white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); cursor: pointer;">Jest</button>
-
-<button style="padding: 10px 20px; font-size: 16px; font-weight: bold; border: none; border-radius: 8px; background: linear-gradient(135deg, #0D76BD, #FFCA28); color: white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); cursor: pointer;">OutSystems</button>
-
-<button style="padding: 10px 20px; font-size: 16px; font-weight: bold; border: none; border-radius: 8px; background: linear-gradient(135deg, #4479A1, #47A248); color: white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); cursor: pointer;">MySQL</button>
-
-<button style="padding: 10px 20px; font-size: 16px; font-weight: bold; border: none; border-radius: 8px; background: linear-gradient(135deg, #47A248, #FFCA28); color: white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); cursor: pointer;">MongoDB</button>
-
-<button style="padding: 10px 20px; font-size: 16px; font-weight: bold; border: none; border-radius: 8px; background: linear-gradient(135deg, #FFCA28, #000000); color: white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); cursor: pointer;">Firebase</button>
-
-</div>
-</details>
-
-<details>
-  <summary style="font-size: 18px; font-weight: bold; margin-top: 15px;">:rocket: DevOps</summary>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
-<button style="padding: 10px 20px; font-size: 16px; font-weight: bold; border: none; border-radius: 8px; background: linear-gradient(135deg, #F05032, #181717); color: white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); cursor: pointer;">Git</button>
-
-<button style="padding: 10px 20px; font-size: 16px; font-weight: bold; border: none; border-radius: 8px; background: linear-gradient(135deg, #181717, #2496ED); color: white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); cursor: pointer;">GitHub</button>
-
-<button style="padding: 10px 20px; font-size: 16px; font-weight: bold; border: none; border-radius: 8px; background: linear-gradient(135deg, #2496ED, #FCA121); color: white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); cursor: pointer;">Docker</button>
-
-<button style="padding: 10px 20px; font-size: 16px; font-weight: bold; border: none; border-radius: 8px; background: linear-gradient(135deg, #FCA121, #000000); color: white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); cursor: pointer;">GitLab</button>
-
-</div>
-</details>
-<details>
-  <summary style="font-size: 18px; font-weight: bold; margin-top: 15px;">:rocket: Tools</summary>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
-<button style="padding: 10px 20px; font-size: 16px; font-weight: bold; border: none; border-radius: 8px; background: linear-gradient(135deg, #007ACC, #F24E1E); color: white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); cursor: pointer;">Visual Studio Code</button>
-
-<button style="padding: 10px 20px; font-size: 16px; font-weight: bold; border: none; border-radius: 8px; background: linear-gradient(135deg, #F24E1E, #5849BE); color: white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); cursor: pointer;">Figma</button>
-
-<button style="padding: 10px 20px; font-size: 16px; font-weight: bold; border: none; border-radius: 8px; background: linear-gradient(135deg, #5849BE, #FF6C37); color: white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); cursor: pointer;">Insomnia</button>
-
-<button style="padding: 10px 20px; font-size: 16px; font-weight: bold; border: none; border-radius: 8px; background: linear-gradient(135deg, #FF6C37, #000000); color: white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); cursor: pointer;">Postman</button>
-
-</div>
-</details>
