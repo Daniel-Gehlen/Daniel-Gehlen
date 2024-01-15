@@ -4,7 +4,9 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=blueviolet&style=for-the-badge" #vitrinedev/>
 </p>
 
-[![JavaScript](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <i class="fab fa-js-square" style="font-size:40px;"></i>
+</a>
 
 ## I am Daniel Gehlen
 
