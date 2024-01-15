@@ -3,7 +3,6 @@
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=YELLOW&style=for-the-badge"/>
 </p>
-badgie -w README.md -s for-the-badge
 
 ## I am Daniel Gehlen
 
