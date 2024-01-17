@@ -103,7 +103,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 ![Tools](https://via.placeholder.com/350x50/3498d/ffffff?text=Some+Tools)
 
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Code%20Editor007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Code%20Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 <div style="width: 100%; height: 10px; background-color: #007acc;"></div>
 
 [![Figma](https://img.shields.io/badge/Figma-Design%20Tool-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
@@ -123,5 +123,11 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 ![DevOps](https://via.placeholder.com/350x50/3498d/ffffff?text=Some+DevOps)
   
-[![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-Repository%20Hosting-181717?style=flat-square&logo=github&logoColor=white)](#) [![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white)](#) [![Gitlab](https://img.shields.io/badge/Gitlab-Repository%20Hosting-FCA121?style=flat-square&logo=gitlab&logoColor=black)](#) 
+[![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)](#)
+<div style="width: 100%; height: 10px; background-color: #ff6c37;"></div>
+[![GitHub](https://img.shields.io/badge/GitHub-Repository%20Hosting-181717?style=flat-square&logo=github&logoColor=white)](#) 
+<div style="width: 100%; height: 10px; background-color: #ff6c37;"></div>
+[![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
+<div style="width: 100%; height: 10px; background-color: #ff6c37;"></div>
+[![Gitlab](https://img.shields.io/badge/Gitlab-Repository%20Hosting-FCA121?style=flat-square&logo=gitlab&logoColor=black)](#) 
 
