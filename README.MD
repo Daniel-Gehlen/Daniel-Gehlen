@@ -56,7 +56,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Gehlen&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
