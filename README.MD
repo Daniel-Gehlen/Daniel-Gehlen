@@ -93,29 +93,42 @@ Feel free to reach out to me through my social media platforms: ⤵️
 | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#) | [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#) | [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](#) |
 
 <br><br>
-[![Python](https://img.shields.io/badge/Python-Master-blue?style=for-the-badge)](https://www.python.org/)  
-Pro
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-Pro-yellow?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)  
 Intermediate
 
-[![HTML](https://img.shields.io/badge/HTML-Proficient-orange?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-Proficient
-
-[![CSS](https://img.shields.io/badge/CSS-Proficient-blue?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)  
 Intermediate
 
-[![React](https://img.shields.io/badge/React-Skilled-blue?style=for-the-badge)](https://reactjs.org/)  
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)  
 Intermediate
 
-[![Git](https://img.shields.io/badge/Git-Experienced-green?style=for-the-badge)](https://git-scm.com/)  
-Experienced
-
-[![SQL](https://img.shields.io/badge/SQL-Skilled-lightgrey?style=for-the-badge)](https://www.w3schools.com/sql/)  
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](#)  
 Intermediate
 
-[![Linux](https://img.shields.io/badge/Linux-Experienced-lightgrey?style=for-the-badge)](https://www.linux.org/)  
-Experienced
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](#)  
+Intermediate
+
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#)  
+Intermediate
+
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](#)  
+Intermediate
+
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)](#)  
+Intermediate
+
+[![OutSystems](https://img.shields.io/badge/OutSystems-0D76BD?style=flat-square&logo=outsystems&logoColor=white)](#)  
+Beginner
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)  
+Intermediate
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](#)  
+Intermediate
+
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](#)  
+Intermediate
+
 
 <br><br>
 
