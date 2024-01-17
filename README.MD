@@ -87,7 +87,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 ![Technical Skills and Technologies](https://via.placeholder.com/350x50/3498d/ffffff?text=Skills+Technologies)
 
 <br><br>
-[![JavaScript](https://img.shields.io/badge/F7DF1E-JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![JavaScript](https://img.shields.io/badge/F7DF1E-JavaScript-Proficient?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 <div style="width: 100%; height: 10px; background-color: #f7df1e;"></div>
 
 
