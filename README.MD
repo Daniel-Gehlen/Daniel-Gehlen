@@ -108,14 +108,14 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 [![Figma](https://img.shields.io/badge/Figma-Design%20Tool-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 <div style="width: 100%; height: 10px; background-color: #f24e1e;"></div>
-Design Tool
+
 
 [![Insomnia](https://img.shields.io/badge/Insomnia-API%20Testing-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/)
 <div style="width: 100%; height: 10px; background-color: #5849be;"></div>
 
-[![Postman](https://img.shields.io/badge/Postman-API%20-Development-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Postman](https://img.shields.io/badge/Postman-API%20Development-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 <div style="width: 100%; height: 10px; background-color: #ff6c37;"></div>
-API Development
+
 
 
 
