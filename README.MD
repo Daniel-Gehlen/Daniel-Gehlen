@@ -59,27 +59,6 @@ Feel free to reach out to me through my social media platforms: ⤵️
 [![BuzzFeed (Angular)](https://img.shields.io/badge/BuzzFeed%20(Angular)-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/) <a href="https://angular-buzzfeed-quizz-clone-psi.vercel.app/" style="cursor: pointer;">&#x1F44C;</a>
 
 <br><br>
-<style>
-  .custom-badge {
-    max-width: 350px;
-    display: block;
-    margin: 0 auto;
-  }
-</style>
-
-[![Portfolio (Bootstrap)](https://img.shields.io/badge/Portfolio%20(Bootstrap)-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://daniel-gehlen.github.io/bootstrap-portfolio/) <a href="https://daniel-gehlen.github.io/bootstrap-portfolio/" class="custom-badge" style="cursor: pointer;">&#x1F44C;</a>
-
-[![Mini Blog (React, Firebase, Vercel)](https://img.shields.io/badge/Mini%20Blog%20(React,%20Firebase,%20Vercel)-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://miniblog-liart.vercel.app/) <a href="https://miniblog-liart.vercel.app/" class="custom-badge" style="cursor: pointer;">&#x1F44C;</a>
-
-[![Start Steel (React, GitHub, Vercel)](https://img.shields.io/badge/Start%20Steel%20(React,%20GitHub,%20Vercel)-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://start-steel.vercel.app/) <a href="https://start-steel.vercel.app/" class="custom-badge" style="cursor: pointer;">&#x1F44C;</a>
-
-[![Supa Blog (React, NextJS, Supabase, GitHub, Vercel)](https://img.shields.io/badge/Supa%20Blog%20(React,%20NextJS,%20Supabase,%20GitHub,%20Vercel)-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://supa-blog-nine.vercel.app/) <a href="https://supa-blog-nine.vercel.app/" class="custom-badge" style="cursor: pointer;">&#x1F44C;</a>
-
-[![Modern portfolio (JS, HTML, CSS)](https://img.shields.io/badge/Modern%20portfolio%20(JS,%20HTML,%20CSS)-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/js-developer-portfolio/) <a href="https://daniel-gehlen.github.io/js-developer-portfolio/" class="custom-badge" style="cursor: pointer;">&#x1F44C;</a>
-
-[![Pokedex API (JS, HTML, CSS)](https://img.shields.io/badge/Pokedex%20API%20(JS,%20HTML,%20CSS)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://js-developer-pokedex-api.vercel.app/) <a href="https://js-developer-pokedex-api.vercel.app/" class="custom-badge" style="cursor: pointer;">&#x1F44C;</a>
-
-[![BuzzFeed (Angular)](https://img.shields.io/badge/BuzzFeed%20(Angular)-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/) <a href="https://angular-buzzfeed-quizz-clone-psi.vercel.app/" class="custom-badge" style="cursor: pointer;">&#x1F44C;</a>
 
 
 <br><br>
@@ -104,14 +83,16 @@ Feel free to reach out to me through my social media platforms: ⤵️
 [![Linux](https://img.shields.io/badge/Linux-Experienced-lightgrey?style=for-the-badge)](https://www.linux.org/)
 
 <br><br>
-[![Python](https://img.shields.io/badge/🐍-Master-blue?style=for-the-badge)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/🌐-Pro-yellow?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML](https://img.shields.io/badge/🌐-Proficient-orange?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/🌐-Proficient-blue?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![React](https://img.shields.io/badge/⚛️-Skilled-blue?style=for-the-badge)](https://reactjs.org/)
-[![Git](https://img.shields.io/badge/🔄-Experienced-green?style=for-the-badge)](https://git-scm.com/)
-[![SQL](https://img.shields.io/badge/🔍-Skilled-lightgrey?style=for-the-badge)](https://www.w3schools.com/sql/)
-[![Linux](https://img.shields.io/badge/🐧-Experienced-lightgrey?style=for-the-badge)](https://www.linux.org/)
+
+![Technical Skills and Technologies](https://via.placeholder.com/350x50/3498d/ffffff?text=Skills+Technologies)
+
+| [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) | [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#) | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#) |
+| --- | --- | --- |
+| [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#) | [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) | [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) |
+| [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](#) | [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](#) | [![OutSystems](https://img.shields.io/badge/OutSystems-0D76BD?style=for-the-badge&logo=outsystems&logoColor=white)](#) |
+| [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#) | [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#) | [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](#) |
+
+[![Python](https://img.shields.io/badge/Python-Master-blue?style=for-the-badge)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-Pro-yellow?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![HTML](https://img.shields.io/badge/HTML-Proficient-orange?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS-Proficient-blue?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![React](https://img.shields.io/badge/React-Skilled-blue?style=for-the-badge)](https://reactjs.org/) [![Git](https://img.shields.io/badge/Git-Experienced-green?style=for-the-badge)](https://git-scm.com/) [![SQL](https://img.shields.io/badge/SQL-Skilled-lightgrey?style=for-the-badge)](https://www.w3schools.com/sql/) [![Linux](https://img.shields.io/badge/Linux-Experienced-lightgrey?style=for-the-badge)](https://www.linux.org/)
 
 
 
