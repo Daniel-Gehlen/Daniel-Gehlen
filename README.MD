@@ -86,14 +86,8 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 ![Technical Skills and Technologies](https://via.placeholder.com/350x50/3498d/ffffff?text=Skills+Technologies)
 
-| [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) | [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#) | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#) |
-| --- | --- | --- |
-| [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#) | [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) | [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) |
-| [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](#) | [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](#) | [![OutSystems](https://img.shields.io/badge/OutSystems-0D76BD?style=for-the-badge&logo=outsystems&logoColor=white)](#) |
-| [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#) | [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#) | [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](#) |
-
 <br><br>
-[![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 <div style="width: 100%; height: 10px; background-color: #f7df1e;"></div>
 
 
@@ -101,7 +95,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 <div style="width: 100%; height: 10px; background-color: #3178c6;"></div>
 
 
-[![React](https://img.shields.io/badge/React-Proficient-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)  
+[![React](https://img.shields.io/badge/React-Proficient-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)  
 <div style="width: 100%; height: 10px; background-color: #61dafb;"></div>
 
 
@@ -109,11 +103,11 @@ Feel free to reach out to me through my social media platforms: ⤵️
 <div style="width: 100%; height: 10px; background-color: #dd0031;"></div>
 
 
-[![CSS](https://img.shields.io/badge/CSS-Proficient-blue?style=for-the-badge&logo=css3&logoColor=white)](#)  
+[![CSS](https://img.shields.io/badge/CSS-Proficient-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 <div style="width: 100%; height: 10px; background-color: #1572b6;"></div>
 
 
-[![HTML](https://img.shields.io/badge/HTML5-Proficient-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  
+[![HTML](https://img.shields.io/badge/HTML5-Proficient-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 <div style="width: 100%; height: 10px; background-color: #e34f26;"></div>
 
 
@@ -129,7 +123,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 <div style="width: 100%; height: 10px; background-color: #0d76bd;"></div>
 
 
-[![MySQL](https://img.shields.io/badge/MySQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)  
+[![MySQL](https://img.shields.io/badge/MySQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.w3schools.com/sql/)  
 <div style="width: 100%; height: 10px; background-color: #4479a1;"></div>
 
 
@@ -139,14 +133,6 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 [![Firebase](https://img.shields.io/badge/Firebase-Intermediate-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](#)  
 <div style="width: 100%; height: 10px; background-color: #ffca28;"></div>
-
-
-
-<br><br>
-
-[![Python](https://img.shields.io/badge/Python-Master-blue?style=for-the-badge)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-Pro-yellow?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![HTML](https://img.shields.io/badge/HTML-Proficient-orange?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS-Proficient-blue?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![React](https://img.shields.io/badge/React-Skilled-blue?style=for-the-badge)](https://reactjs.org/) [![Git](https://img.shields.io/badge/Git-Experienced-green?style=for-the-badge)](https://git-scm.com/) [![SQL](https://img.shields.io/badge/SQL-Skilled-lightgrey?style=for-the-badge)](https://www.w3schools.com/sql/) [![Linux](https://img.shields.io/badge/Linux-Experienced-lightgrey?style=for-the-badge)](https://www.linux.org/)
-
-
 
 <br><br>
 
