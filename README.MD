@@ -56,9 +56,8 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Gehlen&layout=compact&hide=jupyter%20notebook)](https://github.com/Daniel-Gehlen/github-readme-stats)
 
-![Top 10 Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Gehlen&layout=compact&hide=jupyter%20notebook&langs_count=10)
+![Top 10 Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Gehlen&layout=compact&hide=jupyter%20notebook&langs_count=11)
 
 
 <br><br>
