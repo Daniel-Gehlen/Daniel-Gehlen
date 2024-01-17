@@ -65,6 +65,16 @@ Feel free to reach out to me through my social media platforms: ⤵️
 [![SQL](https://img.shields.io/badge/SQL-Skilled-lightgrey?style=for-the-badge)](https://www.w3schools.com/sql/)
 [![Linux](https://img.shields.io/badge/Linux-Experienced-lightgrey?style=for-the-badge)](https://www.linux.org/)
 
+<br><br>
+[![Python](https://img.shields.io/badge/🐍-Master-blue?style=for-the-badge)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/🌐-Pro-yellow?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/🌐-Proficient-orange?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/🌐-Proficient-blue?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://img.shields.io/badge/⚛️-Skilled-blue?style=for-the-badge)](https://reactjs.org/)
+[![Git](https://img.shields.io/badge/🔄-Experienced-green?style=for-the-badge)](https://git-scm.com/)
+[![SQL](https://img.shields.io/badge/🔍-Skilled-lightgrey?style=for-the-badge)](https://www.w3schools.com/sql/)
+[![Linux](https://img.shields.io/badge/🐧-Experienced-lightgrey?style=for-the-badge)](https://www.linux.org/)
+
 
 
 <br><br>
