@@ -56,26 +56,17 @@ Feel free to reach out to me through my social media platforms: ⤵️
 [![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 <div style="width: 100%; height: 10px; background-color: #F7DF1E;"></div>
 
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)  
-<div style="width: 100%; height: 10px; background-color: #3178c6;"></div>
-
-
-[![React](https://img.shields.io/badge/React-Proficient-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)  
-<div style="width: 100%; height: 10px; background-color: #61dafb;"></div>
-
-
-[![Angular](https://img.shields.io/badge/Angular-Intermediate-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)  
-<div style="width: 100%; height: 10px; background-color: #dd0031;"></div>
-
+[![HTML](https://img.shields.io/badge/HTML5-Proficient-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+<div style="width: 100%; height: 10px; background-color: #e34f26;"></div>
 
 [![CSS](https://img.shields.io/badge/CSS-Proficient-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 <div style="width: 100%; height: 10px; background-color: #1572b6;"></div>
 
+[![React](https://img.shields.io/badge/React-Proficient-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)  
+<div style="width: 100%; height: 10px; background-color: #61dafb;"></div>
 
-[![HTML](https://img.shields.io/badge/HTML5-Proficient-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-<div style="width: 100%; height: 10px; background-color: #e34f26;"></div>
-
+[![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)  
+<div style="width: 100%; height: 10px; background-color: #3178c6;"></div>
 
 [![Next.js](https://img.shields.io/badge/Next.js-Proficient-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)  
 <div style="width: 100%; height: 10px; background-color: #000000;"></div>
@@ -84,6 +75,8 @@ Feel free to reach out to me through my social media platforms: ⤵️
 [![Jest](https://img.shields.io/badge/Jest-Proficient-C21325?style=for-the-badge&logo=jest&logoColor=white)](#)  
 <div style="width: 100%; height: 10px; background-color: #c21325;"></div>
 
+[![Angular](https://img.shields.io/badge/Angular-Intermediate-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)  
+<div style="width: 100%; height: 10px; background-color: #dd0031;"></div>
 
 [![OutSystems](https://img.shields.io/badge/OutSystems-Intermediate-DD0031?style=for-the-badge&logo=outsystems&logoColor=white)](#)  
 <div style="width: 100%; height: 10px; background-color: #0d76bd;"></div>
