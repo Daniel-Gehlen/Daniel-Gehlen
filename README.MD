@@ -93,53 +93,52 @@ Feel free to reach out to me through my social media platforms: ⤵️
 | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#) | [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#) | [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](#) |
 
 <br><br>
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)  
 <div style="width: 100%; height: 10px; background-color: #f7df1e;"></div>
-Intermediate
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)  
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)  
 <div style="width: 100%; height: 10px; background-color: #3178c6;"></div>
-Intermediate
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)  
+
+[![React](https://img.shields.io/badge/React-Proficient-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)  
 <div style="width: 100%; height: 10px; background-color: #61dafb;"></div>
-Intermediate
 
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)  
+
+[![Angular](https://img.shields.io/badge/Angular-Intermediate-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)  
 <div style="width: 100%; height: 10px; background-color: #dd0031;"></div>
-Intermediate
+
 
 [![CSS](https://img.shields.io/badge/CSS-Proficient-blue?style=for-the-badge&logo=css3&logoColor=white)](#)  
 <div style="width: 100%; height: 10px; background-color: #1572b6;"></div>
-Intermediate
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  
+
+[![HTML](https://img.shields.io/badge/HTML5-Proficient-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  
 <div style="width: 100%; height: 10px; background-color: #e34f26;"></div>
-Intermediate
 
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)  
+
+[![Next.js](https://img.shields.io/badge/Next.js-Proficient-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)  
 <div style="width: 100%; height: 10px; background-color: #000000;"></div>
-Intermediate
 
-[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](#)  
+
+[![Jest](https://img.shields.io/badge/Jest-Proficient-C21325?style=for-the-badge&logo=jest&logoColor=white)](#)  
 <div style="width: 100%; height: 10px; background-color: #c21325;"></div>
-Intermediate
 
-[![OutSystems](https://img.shields.io/badge/OutSystems-0D76BD?style=for-the-badge&logo=outsystems&logoColor=white)](#)  
+
+[![OutSystems](https://img.shields.io/badge/OutSystems-Intermediate-0D76BD?style=for-the-badge&logo=outsystems&logoColor=white)](#)  
 <div style="width: 100%; height: 10px; background-color: #0d76bd;"></div>
-Beginner
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)  
+
+[![MySQL](https://img.shields.io/badge/MySQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)  
 <div style="width: 100%; height: 10px; background-color: #4479a1;"></div>
-Intermediate
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)  
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)  
 <div style="width: 100%; height: 10px; background-color: #47a248;"></div>
-Intermediate
 
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](#)  
+
+[![Firebase](https://img.shields.io/badge/Firebase-Intermediate-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](#)  
 <div style="width: 100%; height: 10px; background-color: #ffca28;"></div>
-Intermediate
 
 
 
