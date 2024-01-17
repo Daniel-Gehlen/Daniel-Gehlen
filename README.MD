@@ -109,7 +109,7 @@ Intermediate
 <div style="width: 100%; height: 10px; background-color: #dd0031;"></div>
 Intermediate
 
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)  
+[![CSS](https://img.shields.io/badge/CSS-Proficient-blue?style=for-the-badge&logo=css3&logoColor=white)](#)  
 <div style="width: 100%; height: 10px; background-color: #1572b6;"></div>
 Intermediate
 
