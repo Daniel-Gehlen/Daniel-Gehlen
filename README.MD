@@ -56,6 +56,18 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 <br><br>
 
+[![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/HTML-Intermediate-orange?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-Intermediate-blue?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://img.shields.io/badge/React-Intermediate-blue?style=for-the-badge)](https://reactjs.org/)
+[![Git](https://img.shields.io/badge/Git-Advanced-green?style=for-the-badge)](https://git-scm.com/)
+[![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey?style=for-the-badge)](https://www.w3schools.com/sql/)
+[![Linux](https://img.shields.io/badge/Linux-Intermediate-lightgrey?style=for-the-badge)](https://www.linux.org/)
+
+
+<br><br>
+
 
 ![Top 10 Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Gehlen&layout=compact&hide=jupyter%20notebook&langs_count=11)
 
