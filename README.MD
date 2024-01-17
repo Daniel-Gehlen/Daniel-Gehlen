@@ -92,6 +92,33 @@ Feel free to reach out to me through my social media platforms: ⤵️
 | [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](#) | [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](#) | [![OutSystems](https://img.shields.io/badge/OutSystems-0D76BD?style=for-the-badge&logo=outsystems&logoColor=white)](#) |
 | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#) | [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#) | [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](#) |
 
+<br><br>
+[![Python](https://img.shields.io/badge/Python-Master-blue?style=for-the-badge)](https://www.python.org/)  
+Pro
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-Pro-yellow?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+Intermediate
+
+[![HTML](https://img.shields.io/badge/HTML-Proficient-orange?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+Proficient
+
+[![CSS](https://img.shields.io/badge/CSS-Proficient-blue?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+Intermediate
+
+[![React](https://img.shields.io/badge/React-Skilled-blue?style=for-the-badge)](https://reactjs.org/)  
+Intermediate
+
+[![Git](https://img.shields.io/badge/Git-Experienced-green?style=for-the-badge)](https://git-scm.com/)  
+Experienced
+
+[![SQL](https://img.shields.io/badge/SQL-Skilled-lightgrey?style=for-the-badge)](https://www.w3schools.com/sql/)  
+Intermediate
+
+[![Linux](https://img.shields.io/badge/Linux-Experienced-lightgrey?style=for-the-badge)](https://www.linux.org/)  
+Experienced
+
+<br><br>
+
 [![Python](https://img.shields.io/badge/Python-Master-blue?style=for-the-badge)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-Pro-yellow?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![HTML](https://img.shields.io/badge/HTML-Proficient-orange?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS-Proficient-blue?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![React](https://img.shields.io/badge/React-Skilled-blue?style=for-the-badge)](https://reactjs.org/) [![Git](https://img.shields.io/badge/Git-Experienced-green?style=for-the-badge)](https://git-scm.com/) [![SQL](https://img.shields.io/badge/SQL-Skilled-lightgrey?style=for-the-badge)](https://www.w3schools.com/sql/) [![Linux](https://img.shields.io/badge/Linux-Experienced-lightgrey?style=for-the-badge)](https://www.linux.org/)
 
 
