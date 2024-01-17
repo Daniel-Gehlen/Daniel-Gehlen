@@ -53,7 +53,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 ![Technical Skills and Technologies](https://via.placeholder.com/350x50/3498d/ffffff?text=Skills+Technologies)
 
 <br><br>
-[![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 <div style="width: 100%; height: 10px; background-color: #F7DF1E;"></div>
 
 [![HTML](https://img.shields.io/badge/HTML5-Proficient-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
@@ -62,7 +62,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 [![CSS](https://img.shields.io/badge/CSS-Proficient-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 <div style="width: 100%; height: 10px; background-color: #1572b6;"></div>
 
-[![React](https://img.shields.io/badge/React-Proficient-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)  
+[![React](https://img.shields.io/badge/React-Proficient-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)  
 <div style="width: 100%; height: 10px; background-color: #61dafb;"></div>
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)  
@@ -90,7 +90,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 <div style="width: 100%; height: 10px; background-color: #47a248;"></div>
 
 
-[![Firebase](https://img.shields.io/badge/Firebase-Intermediate-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](#)  
+[![Firebase](https://img.shields.io/badge/Firebase-Intermediate-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](#)  
 <div style="width: 100%; height: 10px; background-color: #ffca28;"></div>
 
 <br><br>
