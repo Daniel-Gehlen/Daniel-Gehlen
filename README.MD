@@ -123,7 +123,11 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 ![DevOps](https://via.placeholder.com/350x50/3498d/ffffff?text=Some+DevOps)
   
-[![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)]
-[![GitHub](https://img.shields.io/badge/GitHub-Repository%20Hosting-181717?style=flat-square&logo=github&logoColor=white)] 
-[![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white)]
-[![Gitlab](https://img.shields.io/badge/Gitlab-Repository%20Hosting-FCA121?style=flat-square&logo=gitlab&logoColor=black)] 
+[![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository%20Hosting-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+[![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+[![Gitlab](https://img.shields.io/badge/Gitlab-Repository%20Hosting-FCA121?style=for-the-badge&logo=gitlab&logoColor=black)](https://about.gitlab.com/)
+ 
