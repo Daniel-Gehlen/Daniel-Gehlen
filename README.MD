@@ -59,6 +59,30 @@ Feel free to reach out to me through my social media platforms: ⤵️
 [![BuzzFeed (Angular)](https://img.shields.io/badge/BuzzFeed%20(Angular)-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/) <a href="https://angular-buzzfeed-quizz-clone-psi.vercel.app/" style="cursor: pointer;">&#x1F44C;</a>
 
 <br><br>
+<style>
+  .custom-badge {
+    max-width: 350px;
+    display: block;
+    margin: 0 auto;
+  }
+</style>
+
+[![Portfolio (Bootstrap)](https://img.shields.io/badge/Portfolio%20(Bootstrap)-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://daniel-gehlen.github.io/bootstrap-portfolio/) <a href="https://daniel-gehlen.github.io/bootstrap-portfolio/" class="custom-badge" style="cursor: pointer;">&#x1F44C;</a>
+
+[![Mini Blog (React, Firebase, Vercel)](https://img.shields.io/badge/Mini%20Blog%20(React,%20Firebase,%20Vercel)-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://miniblog-liart.vercel.app/) <a href="https://miniblog-liart.vercel.app/" class="custom-badge" style="cursor: pointer;">&#x1F44C;</a>
+
+[![Start Steel (React, GitHub, Vercel)](https://img.shields.io/badge/Start%20Steel%20(React,%20GitHub,%20Vercel)-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://start-steel.vercel.app/) <a href="https://start-steel.vercel.app/" class="custom-badge" style="cursor: pointer;">&#x1F44C;</a>
+
+[![Supa Blog (React, NextJS, Supabase, GitHub, Vercel)](https://img.shields.io/badge/Supa%20Blog%20(React,%20NextJS,%20Supabase,%20GitHub,%20Vercel)-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://supa-blog-nine.vercel.app/) <a href="https://supa-blog-nine.vercel.app/" class="custom-badge" style="cursor: pointer;">&#x1F44C;</a>
+
+[![Modern portfolio (JS, HTML, CSS)](https://img.shields.io/badge/Modern%20portfolio%20(JS,%20HTML,%20CSS)-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/js-developer-portfolio/) <a href="https://daniel-gehlen.github.io/js-developer-portfolio/" class="custom-badge" style="cursor: pointer;">&#x1F44C;</a>
+
+[![Pokedex API (JS, HTML, CSS)](https://img.shields.io/badge/Pokedex%20API%20(JS,%20HTML,%20CSS)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://js-developer-pokedex-api.vercel.app/) <a href="https://js-developer-pokedex-api.vercel.app/" class="custom-badge" style="cursor: pointer;">&#x1F44C;</a>
+
+[![BuzzFeed (Angular)](https://img.shields.io/badge/BuzzFeed%20(Angular)-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/) <a href="https://angular-buzzfeed-quizz-clone-psi.vercel.app/" class="custom-badge" style="cursor: pointer;">&#x1F44C;</a>
+
+
+<br><br>
 
 ![Technical Skills and Technologies](https://via.placeholder.com/350x50/3498d/ffffff?text=Skills+Technologies)
 
