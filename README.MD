@@ -40,11 +40,8 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 
  
-  <img src="https://img.shields.io/badge/React-7a7a7a?style=for-the-badge&logo=react&logoColor=white" alt="NextJS">
-  <img src="https://img.shields.io/badge/NextJs-7a7a7a?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS">
-  <img src="https://img.shields.io/badge/Supabase-7a7a7a?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/GitHub-7a7a7a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Vercel-7a7a7a?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+![React](https://img.shields.io/badge/React-7a7a7a?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/NextJs-7a7a7a?style=for-the-badge&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-7a7a7a?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-7a7a7a?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-7a7a7a?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 <br><br>
 
