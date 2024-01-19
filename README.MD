@@ -33,46 +33,42 @@ Feel free to reach out to me through my social media platforms: ⤵️
 *Click on the icons to view the projects.*
 <br><br>
 
-![Some Projects](https://via.placeholder.com/350x50/3498d/ffffff?text=Some+Projects)
-
-*Click on the icons to view the projects.*
-<br><br>
-
 <a href="https://daniel-gehlen.github.io/bootstrap-portfolio/" style="text-decoration: none; display: inline-block; width: 200px; text-align: center;">
-  <img src="https://img.shields.io/badge/-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </a>
 
 <a href="https://miniblog-liart.vercel.app/" style="text-decoration: none; display: inline-block; width: 200px; text-align: center;">
-  <img src="https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </a>
 
 <a href="https://start-steel.vercel.app/" style="text-decoration: none; display: inline-block; width: 200px; text-align: center;">
-  <img src="https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </a>
 
 <a href="https://supa-blog-nine.vercel.app/" style="text-decoration: none; display: inline-block; width: 200px; text-align: center;">
-  <img src="https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS">
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS">
+  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </a>
 
 <a href="https://daniel-gehlen.github.io/js-developer-portfolio/" style="text-decoration: none; display: inline-block; width: 200px; text-align: center;">
-  <img src="https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="JS">
+  <img src="https://img.shields.io/badge/JS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="JS">
 </a>
 
 <a href="https://js-developer-pokedex-api.vercel.app/" style="text-decoration: none; display: inline-block; width: 200px; text-align: center;">
-  <img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </a>
 
 <a href="https://angular-buzzfeed-quizz-clone-psi.vercel.app/" style="text-decoration: none; display: inline-block; width: 200px; text-align: center;">
-  <img src="http
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
 </a>
+
 
 
 <br><br>
