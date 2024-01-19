@@ -74,8 +74,8 @@ Feel free to reach out to me through my social media platforms: ⤵️
     <h2 style="color: #010101;">Technologies ⤵️</h2>
   </a>
 
-  <img src="https://img.shields.io/badge/React-7a7a7a?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Firebase-7a7a7a?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/React-7a7a7a?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Firebase-7a7a7a?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
   <img src="https://img.shields.io/badge/Vercel-7a7a7a?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   <!-- Adicione mais tecnologias conforme necessário -->
 </div>
@@ -90,7 +90,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
     <h2 style="color: #010101;">Technologies ⤵️</h2>
   </a>
 
-  <img src="https://img.shields.io/badge/React-7a7a7a?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/React-7a7a7a?style=for-the-badge&logo=react&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/GitHub-7a7a7a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Vercel-7a7a7a?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   <!-- Adicione mais tecnologias conforme necessário -->
@@ -106,7 +106,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
     <h2 style="color: #010101;">Technologies ⤵️</h2>
   </a>
 
-  <img src="https://img.shields.io/badge/JavaScript-7a7a7a?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-7a7a7a?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML5-7a7a7a?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-7a7a7a?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <!-- Adicione mais tecnologias conforme necessário -->
@@ -122,7 +122,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
     <h2 style="color: #010101;">Technologies ⤵️</h2>
   </a>
 
-  <img src="https://img.shields.io/badge/JavaScript-7a7a7a?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-7a7a7a?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML5-7a7a7a?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-7a7a7a?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <!-- Adicione mais tecnologias conforme necessário -->
