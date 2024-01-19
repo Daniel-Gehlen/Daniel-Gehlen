@@ -58,7 +58,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
     <h2 style="color: #010101;">Technologies ⤵️</h2>
   </a>
 
-  <img src="https://img.shields.io/badge/Bootstrap-7a7a7a1?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Bootstrap-7a7a7a?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/HTML5-7a7a7a?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-7a7a7a?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <!-- Adicione mais tecnologias conforme necessário -->
