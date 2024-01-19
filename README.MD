@@ -72,6 +72,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 <a href="https://angular-buzzfeed-quizz-clone-psi.vercel.app/" style="text-decoration: none; display: inline-block; width: 200px; text-align: center;">
   <img src="http
+</a>
 
 
 <br><br>
