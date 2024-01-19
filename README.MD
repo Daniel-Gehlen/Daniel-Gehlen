@@ -30,7 +30,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 <br><br>
 
 
-<a href="https://supa-blog-nine.vercel.app/" style="text-decoration: none; display: block; width: 300px; text-align: center;">
+<a href="https://supa-blog-nine.vercel.app/" style="text-decoration: none; display: inblock; width: 300px; text-align: center;">
   <img src="https://img.shields.io/badge/SupaBlog-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS">
   <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
