@@ -1,4 +1,4 @@
-<h1 align="center"> Hello 👋, welcome to my GitHub!</h1>
+<h1 align="center" text='#7a7a7a'> Hello 👋, welcome to my GitHub!</h1>
 
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=YELLOW&style=for-the-badge"/>
@@ -30,7 +30,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 <br><br>
 
-![Some Projects](https://via.placeholder.com/350x50/3498d/ffffff?text=Some+Projects)
+![Some Projects](https://via.placeholder.com/350x50/3498d/7a7a7a?text=Some+Projects)
 
 *Click on the icons to view the projects.*
 
