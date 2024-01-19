@@ -40,12 +40,12 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 
 <div style="text-align: center;">
-  <h2 style="color: #000000;">Technologies</h2>
   <a href="https://supa-blog-nine.vercel.app/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
     <span style="font-size: 24px; margin-right: 10px;">👉</span>
     <img src="https://img.shields.io/badge/SupaBlog-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   </a>
   <h2 style="color: #000000;">Technologies</h2>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="NextJS">
   <img src="https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS">
   <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
