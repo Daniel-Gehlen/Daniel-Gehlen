@@ -90,7 +90,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 <br><br>
 
-![Technical Skills and Technologies](https://via.placeholder.com/350x50/333333/00FF00?text=Skills+Technologies)👈
+![Technical Skills and Technologies](https://via.placeholder.com/350x50/333333/00FF00?text=Skills+Technologies)
 
 <br><br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
@@ -170,4 +170,12 @@ Feel free to reach out to me through my social media platforms: ⤵️
 [![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 [![Gitlab](https://img.shields.io/badge/Gitlab-Repository%20Hosting-FCA121?style=for-the-badge&logo=gitlab&logoColor=black)](https://about.gitlab.com/)
- 
+
+<br><br>
+####### #     #    #    #     # #    #    #     # ####### #     # ### 
+   #    #     #   # #   ##    # #   #      #   #  #     # #     # ### 
+   #    #     #  #   #  # #   # #  #        # #   #     # #     # ### 
+   #    ####### #     # #  #  # ###          #    #     # #     #  #  
+   #    #     # ####### #   # # #  #         #    #     # #     #     
+   #    #     # #     # #    ## #   #        #    #     # #     # ### 
+   #    #     # #     # #     # #    #       #    #######  #####  ###
