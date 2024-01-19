@@ -27,135 +27,112 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 
 - 📫 How to reach me, email: harmonia251251@gmail.com
-<br><br>
-
-
-<a href="https://supa-blog-nine.vercel.app/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
-  <img src="https://img.shields.io/badge/SupaBlog-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS">
-  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-</a>
-
-
-<div style="text-align: center;">
-  <a href="https://supa-blog-nine.vercel.app/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
-    <h2 style="color: #000000;">👉
-    <img src="https://img.shields.io/badge/SupaBlog-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">👈
-    <h2 style="color: #000000;">Technologies⤵️</h2>
-  </a>
- 
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="NextJS">
-  <img src="https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS">
-  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-</div>
-
-<div style="text-align: center;">
-  <a href="https://daniel-gehlen.github.io/bootstrap-portfolio/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
-    <h2 style="color: #000000;">👉
-      <img src="https://img.shields.io/badge/Portfolio-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">👈
-    </h2>
-    <h2 style="color: #000000;">Technologies ⤵️</h2>
-  </a>
-
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <!-- Adicione mais tecnologias conforme necessário -->
-</div>
-
-<div style="text-align: center;">
-  <a href="https://miniblog-liart.vercel.app/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
-    <h2 style="color: #000000;">👉
-      <img src="https://img.shields.io/badge/Mini%20Blog%20(React,%20Firebase,%20Vercel)-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Mini Blog">👈
-    </h2>
-    <h2 style="color: #000000;">Check it out ⤵️</h2>
-  </a>
-
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <!-- Adicione mais tecnologias conforme necessário -->
-</div>
-
-<div style="text-align: center;">
-  <a href="https://start-steel.vercel.app/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
-    <h2 style="color: #000000;">👉
-      <img src="https://img.shields.io/badge/Start%20Steel%20(React,%20GitHub,%20Vercel)-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Start Steel">👈
-    </h2>
-    <h2 style="color: #000000;">Check it out ⤵️</h2>
-  </a>
-
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <!-- Adicione mais tecnologias conforme necessário -->
-</div>
-
-<div style="text-align: center;">
-  <a href="https://daniel-gehlen.github.io/js-developer-portfolio/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
-    <h2 style="color: #000000;">👉
-      <img src="https://img.shields.io/badge/Modern%20portfolio%20(JS,%20HTML,%20CSS)-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Modern Portfolio">👈
-    </h2>
-    <h2 style="color: #000000;">Check it out ⤵️</h2>
-  </a>
-
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <!-- Adicione mais tecnologias conforme necessário -->
-</div>
-
-<div style="text-align: center;">
-  <a href="https://js-developer-pokedex-api.vercel.app/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
-    <h2 style="color: #000000;">👉
-      <img src="https://img.shields.io/badge/Pokedex%20API%20(JS,%20HTML,%20CSS)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Pokedex API">👈
-    </h2>
-    <h2 style="color: #000000;">Check it out ⤵️</h2>
-  </a>
-
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <!-- Adicione mais tecnologias conforme necessário -->
-</div>
-
-<div style="text-align: center;">
-  <a href="https://angular-buzzfeed-quizz-clone-psi.vercel.app/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
-    <h2 style="color: #000000;">👉
-      <img src="https://img.shields.io/badge/BuzzFeed%20(Angular)-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="BuzzFeed (Angular)">👈
-    </h2>
-    <h2 style="color: #000000;">Check it out ⤵️</h2>
-  </a>
-
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <!-- Adicione mais tecnologias conforme necessário -->
-</div>
 
 <br><br>
 
 ![Some Projects](https://via.placeholder.com/350x50/3498d/ffffff?text=Some+Projects)
 
 *Click on the icons to view the projects.*
+
 <br><br>
-[![Portfolio (Bootstrap)](https://img.shields.io/badge/Portfolio%20(Bootstrap)-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://daniel-gehlen.github.io/bootstrap-portfolio/) <a href="https://daniel-gehlen.github.io/bootstrap-portfolio/" style="cursor: pointer;">&#x1F44C;</a>
 
-[![Mini Blog (React, Firebase, Vercel)](https://img.shields.io/badge/Mini%20Blog%20(React,%20Firebase,%20Vercel)-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://miniblog-liart.vercel.app/) <a href="https://miniblog-liart.vercel.app/" style="cursor: pointer;">&#x1F44C;</a>
+<div style="text-align: center;">
+  <a href="https://supa-blog-nine.vercel.app/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
+    <h2 style="color: #000000;">👉
+    <img src="https://img.shields.io/badge/Supa%20Blog-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">👈
+    <h2 style="color: #000000;">Technologies⤵️</h2>
+  </a>
+ 
+  <img src="https://img.shields.io/badge/React-010101?style=for-the-badge&logo=react&logoColor=white" alt="NextJS">
+  <img src="https://img.shields.io/badge/NextJs-010101?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS">
+  <img src="https://img.shields.io/badge/Supabase-010101?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/GitHub-010101?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Vercel-010101?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+</div>
 
-[![Start Steel (React, GitHub, Vercel)](https://img.shields.io/badge/Start%20Steel%20(React,%20GitHub,%20Vercel)-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://start-steel.vercel.app/) <a href="https://start-steel.vercel.app/" style="cursor: pointer;">&#x1F44C;</a>
+<div style="text-align: center;">
+  <a href="https://daniel-gehlen.github.io/bootstrap-portfolio/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
+    <h2 style="color: #010101;">👉
+      <img src="https://img.shields.io/badge/Portfolio-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">👈
+    </h2>
+    <h2 style="color: #010101;">Technologies ⤵️</h2>
+  </a>
 
-[![Supa Blog (React, NextJS, Supabase, GitHub, Vercel)](https://img.shields.io/badge/Supa%20Blog%20(React,%20NextJS,%20Supabase,%20GitHub,%20Vercel)-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://supa-blog-nine.vercel.app/) <a href="https://supa-blog-nine.vercel.app/" style="cursor: pointer;">&#x1F44C;</a>
+  <img src="https://img.shields.io/badge/Bootstrap-010101?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/HTML5-010101?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-010101?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <!-- Adicione mais tecnologias conforme necessário -->
+</div>
 
-[![Modern portfolio (JS, HTML, CSS)](https://img.shields.io/badge/Modern%20portfolio%20(JS,%20HTML,%20CSS)-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/js-developer-portfolio/) <a href="https://daniel-gehlen.github.io/js-developer-portfolio/" style="cursor: pointer;">&#x1F44C;</a>
+<div style="text-align: center;">
+  <a href="https://miniblog-liart.vercel.app/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
+    <h2 style="color: #010101;">👉
+      <img src="https://img.shields.io/badge/Mini%20Blog-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Mini Blog">👈
+    </h2>
+    <h2 style="color: #010101;">Technologies ⤵️</h2>
+  </a>
 
-[![Pokedex API (JS, HTML, CSS)](https://img.shields.io/badge/Pokedex%20API%20(JS,%20HTML,%20CSS)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://js-developer-pokedex-api.vercel.app/) <a href="https://js-developer-pokedex-api.vercel.app/" style="cursor: pointer;">&#x1F44C;</a>
+  <img src="https://img.shields.io/badge/React-010101?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Firebase-010101?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Vercel-010101?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <!-- Adicione mais tecnologias conforme necessário -->
+</div>
 
-[![BuzzFeed (Angular)](https://img.shields.io/badge/BuzzFeed%20(Angular)-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/) <a href="https://angular-buzzfeed-quizz-clone-psi.vercel.app/" style="cursor: pointer;">&#x1F44C;</a>
+<div style="text-align: center;">
+  <a href="https://start-steel.vercel.app/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
+    <h2 style="color: #010101;">👉
+      <img src="https://img.shields.io/badge/Start%20Steel-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Start Steel">👈
+    </h2>
+    <h2 style="color: #010101;">Technologies ⤵️</h2>
+  </a>
+
+  <img src="https://img.shields.io/badge/React-010101?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/GitHub-010101?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Vercel-010101?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <!-- Adicione mais tecnologias conforme necessário -->
+</div>
+
+<div style="text-align: center;">
+  <a href="https://daniel-gehlen.github.io/js-developer-portfolio/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
+    <h2 style="color: #010101;">👉
+      <img src="https://img.shields.io/badge/Modern%20Portfolio-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Modern Portfolio">👈
+    </h2>
+    <h2 style="color: #010101;">Technologies ⤵️</h2>
+  </a>
+
+  <img src="https://img.shields.io/badge/JavaScript-010101?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-010101?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-010101?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <!-- Adicione mais tecnologias conforme necessário -->
+</div>
+
+<div style="text-align: center;">
+  <a href="https://js-developer-pokedex-api.vercel.app/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
+    <h2 style="color: #010101;">👉
+      <img src="https://img.shields.io/badge/Pokedex%20API-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Pokedex API">👈
+    </h2>
+    <h2 style="color: #010101;">Technologies ⤵️</h2>
+  </a>
+
+  <img src="https://img.shields.io/badge/JavaScript-010101?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-010101?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-010101?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <!-- Adicione mais tecnologias conforme necessário -->
+</div>
+
+<div style="text-align: center;">
+  <a href="https://angular-buzzfeed-quizz-clone-psi.vercel.app/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
+    <h2 style="color: #010101;">👉
+      <img src="https://img.shields.io/badge/BuzzFeed-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="BuzzFeed (Angular)">👈
+    </h2>
+    <h2 style="color: #010101;">Technologies ⤵️</h2>
+  </a>
+
+  <img src="https://img.shields.io/badge/Angular-010101?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/HTML5-010101?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-010101?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <!-- Adicione mais tecnologias conforme necessário -->
+</div>
 
 <br><br>
 
