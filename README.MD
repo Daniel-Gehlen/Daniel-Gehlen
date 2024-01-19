@@ -38,6 +38,14 @@ Feel free to reach out to me through my social media platforms: ⤵️
   <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </a>
 
+<a href="#" style="text-decoration: none; display: inline-block; width: 300px; text-align: center; padding: 10px; border-radius: 5px; background-color: #000000; color: white;">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" style="width: 40px; height: 40px; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" style="width: 40px; height: 40px; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="width: 40px; height: 40px; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" style="width: 40px; height: 40px; margin: 0 10px;">
+  </div>
+</a>
 
 
 
