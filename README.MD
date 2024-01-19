@@ -19,7 +19,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 <br><br>
 
-![Social media](https://via.placeholder.com/350x50/3498d/020202?text=Social+media)
+![Social media](https://via.placeholder.com/350x50/fafafa/3498d?text=Social+media)
 
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gehlen-5350341a3) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](harmonia251251@gmail.com) | [![Behance](https://img.shields.io/badge/Behance-053EFF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/danielgehlen) |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 <br><br>
 
-![Some Projects](https://via.placeholder.com/350x50/aaaaaa/3498d?text=Some+Projects)
+![Some Projects](https://via.placeholder.com/350x50/fafafa/3498d?text=Some+Projects)
 
 *Click on the icons to view the projects.*
 
@@ -146,7 +146,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 <br><br>
 
-![Technical Skills and Technologies](https://via.placeholder.com/350x50/3498d/ffffff?text=Skills+Technologies)
+![Technical Skills and Technologies](https://via.placeholder.com/350x50/fafafa/3498d?text=Skills+Technologies)
 
 <br><br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
@@ -197,7 +197,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 <br><br>
 
-![Tools](https://via.placeholder.com/350x50/3498d/ffffff?text=Some+Tools)
+![Tools](https://via.placeholder.com/350x50/fafafa/3498d?text=Some+Tools)
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Code%20Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 <div style="width: 100%; height: 10px; background-color: #007acc;"></div>
@@ -217,7 +217,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 <br><br>
 
-![DevOps](https://via.placeholder.com/350x50/3498d/ffffff?text=Some+DevOps)
+![DevOps](https://via.placeholder.com/350x50/fafafa/3498d?text=Some+DevOps)
   
 [![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
