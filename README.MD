@@ -60,6 +60,20 @@ Feel free to reach out to me through my social media platforms: ⤵️
     </h2>
     <h2 style="color: #000000;">Check it out ⤵️</h2>
   </a>
+<div style="text-align: center;">
+  <a href="https://daniel-gehlen.github.io/bootstrap-portfolio/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
+    <h2 style="color: #000000;">👉
+      <img src="https://img.shields.io/badge/Portfolio%20(Bootstrap)-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">👈
+    </h2>
+    <h2 style="color: #000000;">Check it out ⤵️</h2>
+  </a>
+
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <!-- Adicione mais tecnologias conforme necessário -->
+</div>
+
 </div>
 
 
