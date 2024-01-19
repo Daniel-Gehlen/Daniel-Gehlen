@@ -41,7 +41,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
     <h2 style="color: #000000;">Technologies⤵️</h2>
   </a>
  
-  <img src="https://img.shields.io/badge/React-010101?style=for-the-badge&logo=react&logoColor=white" alt="NextJS">
+  <img src="https://img.shields.io/badge/React-#F7DF1E?style=for-the-badge&logo=react&logoColor=white" alt="NextJS">
   <img src="https://img.shields.io/badge/NextJs-010101?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS">
   <img src="https://img.shields.io/badge/Supabase-010101?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/GitHub-010101?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
