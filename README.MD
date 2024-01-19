@@ -34,8 +34,6 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 *Click on the icons to view the projects.*
 
-<br><br>
-
 <div style="text-align: center;">
   <a href="https://supa-blog-nine.vercel.app/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
     <h2 style="color: #000000;">👉
@@ -49,6 +47,8 @@ Feel free to reach out to me through my social media platforms: ⤵️
   <img src="https://img.shields.io/badge/GitHub-010101?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Vercel-010101?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </div>
+
+<br><br>
 
 <div style="text-align: center;">
   <a href="https://daniel-gehlen.github.io/bootstrap-portfolio/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
@@ -64,6 +64,8 @@ Feel free to reach out to me through my social media platforms: ⤵️
   <!-- Adicione mais tecnologias conforme necessário -->
 </div>
 
+<br><br>
+
 <div style="text-align: center;">
   <a href="https://miniblog-liart.vercel.app/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
     <h2 style="color: #010101;">👉
@@ -77,6 +79,8 @@ Feel free to reach out to me through my social media platforms: ⤵️
   <img src="https://img.shields.io/badge/Vercel-010101?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   <!-- Adicione mais tecnologias conforme necessário -->
 </div>
+
+<br><br>
 
 <div style="text-align: center;">
   <a href="https://start-steel.vercel.app/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
@@ -92,6 +96,8 @@ Feel free to reach out to me through my social media platforms: ⤵️
   <!-- Adicione mais tecnologias conforme necessário -->
 </div>
 
+<br><br>
+
 <div style="text-align: center;">
   <a href="https://daniel-gehlen.github.io/js-developer-portfolio/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
     <h2 style="color: #010101;">👉
@@ -106,6 +112,8 @@ Feel free to reach out to me through my social media platforms: ⤵️
   <!-- Adicione mais tecnologias conforme necessário -->
 </div>
 
+<br><br>
+
 <div style="text-align: center;">
   <a href="https://js-developer-pokedex-api.vercel.app/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
     <h2 style="color: #010101;">👉
@@ -119,6 +127,8 @@ Feel free to reach out to me through my social media platforms: ⤵️
   <img src="https://img.shields.io/badge/CSS3-010101?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <!-- Adicione mais tecnologias conforme necessário -->
 </div>
+
+<br><br>
 
 <div style="text-align: center;">
   <a href="https://angular-buzzfeed-quizz-clone-psi.vercel.app/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
