@@ -169,18 +169,5 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 [![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-[![Gitlab](https://img.shields.io/badge/Gitlab-Repository%20Hosting-FCA121?style=for-the-badge&logo=gitlab&logoColor=black)](https://about.gitlab.com/)
-
-<br><br>
-                                                                                               
-  _______  _______  _______  _______  _______  _______ 
- |__   __|/  ___  \/  ___  \/  ___  \/  ___  \|__   __|
-    | |    | |   | || |   | || |   | || |   | |   | |   
-    | |    | |   | || |   | || |   | || |   | |   | |   
-    | |    | |   | || |   | || |   | || |   | |   | |   
-    | |    | |___| || |___| || |___| || |___| |   | |   
-    |_|    \_______/\_______/\_______/\_______/    |_|   
-
-                                                                                               
-                                                                                               
+[![Gitlab](https://img.shields.io/badge/Gitlab-Repository%20Hosting-FCA121?style=for-the-badge&logo=gitlab&logoColor=black)](https://about.gitlab.com/)                                 
 
