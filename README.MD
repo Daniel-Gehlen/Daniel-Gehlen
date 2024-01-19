@@ -27,6 +27,47 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 
 - 📫 How to reach me, email: harmonia251251@gmail.com
+<br><br>
+![Some Projects](https://via.placeholder.com/350x50/3498d/ffffff?text=Some+Projects)
+
+*Click on the icons to view the projects.*
+<br><br>
+
+<a href="https://daniel-gehlen.github.io/bootstrap-portfolio/" style="cursor: pointer; text-decoration: none; width: 200px; display: inline-block; text-align: center;">
+  ![Bootstrap](https://img.shields.io/badge/-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+</a>
+
+<a href="https://miniblog-liart.vercel.app/" style="cursor: pointer; text-decoration: none; width: 200px; display: inline-block; text-align: center;">
+  ![React](https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Firebase](https://img.shields.io/badge/-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![Vercel](https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white)
+</a>
+
+<a href="https://start-steel.vercel.app/" style="cursor: pointer; text-decoration: none; width: 200px; display: inline-block; text-align: center;">
+  ![React](https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white)
+</a>
+
+<a href="https://supa-blog-nine.vercel.app/" style="cursor: pointer; text-decoration: none; width: 200px; display: inline-block; text-align: center;">
+  ![React](https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![NextJS](https://img.shields.io/badge/-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/-000000?style=for-the-badge&logo=supabase&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white)
+</a>
+
+<a href="https://daniel-gehlen.github.io/js-developer-portfolio/" style="cursor: pointer; text-decoration: none; width: 200px; display: inline-block; text-align: center;">
+  ![JS](https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</a>
+
+<a href="https://js-developer-pokedex-api.vercel.app/" style="cursor: pointer; text-decoration: none; width: 200px; display: inline-block; text-align: center;">
+  ![JavaScript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</a>
+
+<a href="https://angular-buzzfeed-quizz-clone-psi.vercel.app/" style="cursor: pointer; text-decoration: none; width: 200px; display: inline-block; text-align: center;">
+  ![Angular](https://img.shields.io/badge/-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+</a>
 
 <br><br>
 
