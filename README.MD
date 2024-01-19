@@ -31,12 +31,11 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 
 <a href="https://supa-blog-nine.vercel.app/" style="text-decoration: none; display: inline-block; width: 300px; text-align: center;">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <span style="font-weight: bold;">SupaBlog</span>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS">
-  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/SupaBlog-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS">
+  <img src="https://img.shields.io/badge/000000?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </a>
 
 
