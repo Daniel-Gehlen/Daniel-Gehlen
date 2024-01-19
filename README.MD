@@ -45,7 +45,6 @@ Feel free to reach out to me through my social media platforms: ⤵️
   <img src="https://img.shields.io/badge/Supabase-7a7a7a?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/GitHub-7a7a7a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Vercel-7a7a7a?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-</div>
 
 <br><br>
 
