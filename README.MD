@@ -56,16 +56,9 @@ Feel free to reach out to me through my social media platforms: ⤵️
 <div style="text-align: center;">
   <a href="https://daniel-gehlen.github.io/bootstrap-portfolio/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
     <h2 style="color: #000000;">👉
-      <img src="https://img.shields.io/badge/Portfolio%20(Bootstrap)-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">👈
+      <img src="https://img.shields.io/badge/Portfolio-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">👈
     </h2>
-    <h2 style="color: #000000;">Check it out ⤵️</h2>
-  </a>
-<div style="text-align: center;">
-  <a href="https://daniel-gehlen.github.io/bootstrap-portfolio/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
-    <h2 style="color: #000000;">👉
-      <img src="https://img.shields.io/badge/Portfolio%20(Bootstrap)-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">👈
-    </h2>
-    <h2 style="color: #000000;">Check it out ⤵️</h2>
+    <h2 style="color: #000000;">Technologies ⤵️</h2>
   </a>
 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
@@ -74,8 +67,75 @@ Feel free to reach out to me through my social media platforms: ⤵️
   <!-- Adicione mais tecnologias conforme necessário -->
 </div>
 
+<div style="text-align: center;">
+  <a href="https://miniblog-liart.vercel.app/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
+    <h2 style="color: #000000;">👉
+      <img src="https://img.shields.io/badge/Mini%20Blog%20(React,%20Firebase,%20Vercel)-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Mini Blog">👈
+    </h2>
+    <h2 style="color: #000000;">Check it out ⤵️</h2>
+  </a>
+
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <!-- Adicione mais tecnologias conforme necessário -->
 </div>
 
+<div style="text-align: center;">
+  <a href="https://start-steel.vercel.app/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
+    <h2 style="color: #000000;">👉
+      <img src="https://img.shields.io/badge/Start%20Steel%20(React,%20GitHub,%20Vercel)-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Start Steel">👈
+    </h2>
+    <h2 style="color: #000000;">Check it out ⤵️</h2>
+  </a>
+
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <!-- Adicione mais tecnologias conforme necessário -->
+</div>
+
+<div style="text-align: center;">
+  <a href="https://daniel-gehlen.github.io/js-developer-portfolio/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
+    <h2 style="color: #000000;">👉
+      <img src="https://img.shields.io/badge/Modern%20portfolio%20(JS,%20HTML,%20CSS)-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Modern Portfolio">👈
+    </h2>
+    <h2 style="color: #000000;">Check it out ⤵️</h2>
+  </a>
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <!-- Adicione mais tecnologias conforme necessário -->
+</div>
+
+<div style="text-align: center;">
+  <a href="https://js-developer-pokedex-api.vercel.app/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
+    <h2 style="color: #000000;">👉
+      <img src="https://img.shields.io/badge/Pokedex%20API%20(JS,%20HTML,%20CSS)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Pokedex API">👈
+    </h2>
+    <h2 style="color: #000000;">Check it out ⤵️</h2>
+  </a>
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <!-- Adicione mais tecnologias conforme necessário -->
+</div>
+
+<div style="text-align: center;">
+  <a href="https://angular-buzzfeed-quizz-clone-psi.vercel.app/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
+    <h2 style="color: #000000;">👉
+      <img src="https://img.shields.io/badge/BuzzFeed%20(Angular)-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="BuzzFeed (Angular)">👈
+    </h2>
+    <h2 style="color: #000000;">Check it out ⤵️</h2>
+  </a>
+
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <!-- Adicione mais tecnologias conforme necessário -->
+</div>
 
 <br><br>
 
