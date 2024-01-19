@@ -30,7 +30,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 <br><br>
 
-![Some Projects](https://via.placeholder.com/350x50/7a7a7a?text=Some+Projects)
+![Some Projects](https://via.placeholder.com/350x50/3498d/aaaaaa?text=Some+Projects)
 
 *Click on the icons to view the projects.*
 
