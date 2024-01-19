@@ -43,7 +43,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
   <a href="https://supa-blog-nine.vercel.app/" style="text-decoration: none; display: grid; width: 300px; text-align: center;">
     <span style="font-size: 24px; margin-right: 10px;">👉</span>
     <img src="https://img.shields.io/badge/SupaBlog-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-    <h2 style="color: #000000;">Technologies</h2>⤵️
+    <span><h2 style="color: #000000;">Technologies⤵️</h2></span>
   </a>
  
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="NextJS">
