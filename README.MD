@@ -36,7 +36,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 👉[![Supa Blog](https://img.shields.io/badge/Supa%20Blog-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://supa-blog-nine.vercel.app/)👈
 
-**Technologies⤵️**
+**Technologies ➡️**
 
 ![React](https://img.shields.io/badge/React-7a7a7a?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/NextJs-7a7a7a?style=for-the-badge&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-7a7a7a?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-7a7a7a?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-7a7a7a?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -45,7 +45,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 👉[![Portfolio](https://img.shields.io/badge/Portfolio-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://daniel-gehlen.github.io/bootstrap-portfolio/)👈
 
-**Technologies ⤵️**
+**Technologies ➡️**
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7a7a7a?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-7a7a7a?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-7a7a7a?style=for-the-badge&logo=css3&logoColor=white)
 
 
@@ -53,7 +53,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 👉[![Mini Blog](https://img.shields.io/badge/Mini%20Blog-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://miniblog-liart.vercel.app/)👈
 
-**Technologies ⤵️**
+**Technologies ➡️**
 ![React](https://img.shields.io/badge/React-7a7a7a?style=for-the-badge&logo=react&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-7a7a7a?style=for-the-badge&logo=firebase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-7a7a7a?style=for-the-badge&logo=vercel&logoColor=white)
 
 
@@ -61,7 +61,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 👉[![Start Steel](https://img.shields.io/badge/Start%20Steel-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://start-steel.vercel.app/)👈
 
-**Technologies ⤵️**
+**Technologies ➡️**
 ![React](https://img.shields.io/badge/React-7a7a7a?style=for-the-badge&logo=react&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-7a7a7a?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-7a7a7a?style=for-the-badge&logo=vercel&logoColor=white)
 
 
@@ -69,7 +69,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 👉[![Modern Portfolio](https://img.shields.io/badge/Modern%20Portfolio-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://daniel-gehlen.github.io/js-developer-portfolio/)👈
 
-**Technologies ⤵️**
+**Technologies ➡️**
 ![JavaScript](https://img.shields.io/badge/JavaScript-7a7a7a?style=for-the-badge&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-7a7a7a?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-7a7a7a?style=for-the-badge&logo=css3&logoColor=white)
 
 
@@ -77,7 +77,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 👉[![Pokedex API](https://img.shields.io/badge/Pokedex%20API-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://js-developer-pokedex-api.vercel.app/)👈
 
-**Technologies ⤵️**
+**Technologies ➡️**
 ![JavaScript](https://img.shields.io/badge/JavaScript-7a7a7a?style=for-the-badge&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-7a7a7a?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-7a7a7a?style=for-the-badge&logo=css3&logoColor=white)
 
 
@@ -85,7 +85,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 👉[![BuzzFeed (Angular)](https://img.shields.io/badge/BuzzFeed-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/)👈
 
-**Technologies ⤵️**
+**Technologies ➡️**
 ![Angular](https://img.shields.io/badge/Angular-7a7a7a?style=for-the-badge&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-7a7a7a?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-7a7a7a?style=for-the-badge&logo=css3&logoColor=white)
 
 
