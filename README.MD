@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-<img src="https://source.unsplash.com/200x100/?code&{{timestamp}}"/>
+  <img src="https://source.unsplash.com/200x100/?computer,code&{{timestamp}}" alt="Imagem de Computador e Código"/>
 </p>
+
 
 ## I am Daniel Gehlen
 
