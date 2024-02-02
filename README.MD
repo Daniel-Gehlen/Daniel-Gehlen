@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="/matrixImage.png" alt="Texto Alternativo" width="100px" height="100px">
+<img src="/matrixImage.png" alt="Texto Alternativo" width="150px" height="150px">
 </p>
 
 ## I am Daniel Gehlen
