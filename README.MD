@@ -4,9 +4,9 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=YELLOW&style=for-the-badge"/>
 </p>
 
-
-<img src="/matrixImage.png" alt="Texto Alternativo" width="50px" height="50px">
-
+<p align="center">
+<img src="/matrixImage.png" alt="Texto Alternativo" width="100px" height="100px">
+</p>
 
 ## I am Daniel Gehlen
 
