@@ -4,9 +4,7 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=YELLOW&style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://source.unsplash.com/200x100/?computer,code&{{timestamp}}" alt="Imagem de Computador e Código"/>
-</p>
+<img src="https://github.com/Daniel-Gehlen/Daniel-Gehlen/assets/142283217/572d07d8-fa39-matrixImage" alt="Developer" height="50" />
 
 
 ## I am Daniel Gehlen
