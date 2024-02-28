@@ -1,4 +1,4 @@
-<h1 align="center" color='#7a7a7a'> Hello World! 👋, welcome to my portfolio GitHub!</h1>
+<h1 align="center" color='#7a7a7a'> Hello World! 👋, welcome to my profile GitHub!</h1>
 
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=YELLOW&style=for-the-badge"/>
