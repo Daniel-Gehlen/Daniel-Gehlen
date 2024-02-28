@@ -1,4 +1,4 @@
-<h1 align="center" color='#7a7a7a'> Hello 👋, welcome to my portfolio GitHub!</h1>
+<h1 align="center" color='#7a7a7a'> Hello World! 👋, welcome to my portfolio GitHub!</h1>
 
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=YELLOW&style=for-the-badge"/>
@@ -10,7 +10,13 @@
 
 ## I am Daniel Gehlen
 
-I'm a **Front-End Developer**. I'm at the end of the second semester in **higher education in Systems Analysis and Development at School Unopar in Brazil**. Expected formation in 2025. But developing far beyond college with a **focus on React**.
+I am a **systems analysis and development student in the 2nd semester at Unopar Anhanguera/Brazil**, with a great passion for software development and technology.
+
+Expectation of completion of the technologist in the distance study modality. End of 2025. 
+
+I have experience with **programming languages ​​such as: Javascript, Java, Python, C#...**
+
+Independent of the specific programming languages or frameworks, **the crucial aspect is leveraging technology to innovate and enhance the quality of life globally.** Whether through web development, mobile app creation, or any other tech-driven endeavor, the aim remains consistent: **to pioneer solutions that positively impact society.**
 
 <img src="https://github.com/Daniel-Gehlen/Daniel-Gehlen/assets/142283217/572d07d8-fa39-445f-b25c-833746ced0c2" alt="Developer" height="300" />
 
