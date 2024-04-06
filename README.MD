@@ -55,9 +55,6 @@ Feel free to reach out to me through my social media platforms: ⤵️
 - [Modern Portfolio](https://daniel-gehlen.github.io/js-developer-portfolio/)
   - **Tecnologias:** JavaScript, HTML5, CSS3
 
-- [Pokedex API](https://js-developer-pokedex-api.vercel.app/)
-  - **Tecnologias:** JavaScript, HTML5, CSS3
-
 - [BuzzFeed (Angular)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/)
   - **Tecnologias:** Angular, HTML5, CSS3
 
