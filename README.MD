@@ -122,35 +122,60 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 ![Tools](https://via.placeholder.com/350x50/333333/00FF00?text=Some+Tools)
 
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Code%20Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-<div style="width: 100%; height: 10px; background-color: #007acc;"></div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
 
-[![Figma](https://img.shields.io/badge/Figma-Design%20Tool-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-<div style="width: 100%; height: 10px; background-color: #f24e1e;"></div>
+<div style="margin-bottom: 10px;">
+    [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Code%20Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+    <div style="width: 100%; height: 10px; background-color: #007acc;"></div>
+</div>
 
-[![Insomnia](https://img.shields.io/badge/Insomnia-API%20Testing-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/)
-<div style="width: 100%; height: 10px; background-color: #5849be;"></div>
+<div style="margin-bottom: 10px;">
+    [![Figma](https://img.shields.io/badge/Figma-Design%20Tool-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+    <div style="width: 100%; height: 10px; background-color: #f24e1e;"></div>
+</div>
 
-[![Postman](https://img.shields.io/badge/Postman-API%20Development-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-<div style="width: 100%; height: 10px; background-color: #ff6c37;"></div>
+<div style="margin-bottom: 10px;">
+    [![Insomnia](https://img.shields.io/badge/Insomnia-API%20Testing-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/)
+    <div style="width: 100%; height: 10px; background-color: #5849be;"></div>
+</div>
 
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-IDE-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-<div style="width: 100%; height: 10px; background-color: #000000;"></div>
+<div style="margin-bottom: 10px;">
+    [![Postman](https://img.shields.io/badge/Postman-API%20Development-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+    <div style="width: 100%; height: 10px; background-color: #ff6c37;"></div>
+</div>
 
-[![PyCharm](https://img.shields.io/badge/PyCharm-IDE-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
-<div style="width: 100%; height: 10px; background-color: #000000;"></div>
+<div style="margin-bottom: 10px;">
+    [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-IDE-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+    <div style="width: 100%; height: 10px; background-color: #000000;"></div>
+</div>
 
-[![NetBeans](https://img.shields.io/badge/NetBeans-IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)
-<div style="width: 100%; height: 10px; background-color: #1b6ac6;"></div>
+<div style="margin-bottom: 10px;">
+    [![PyCharm](https://img.shields.io/badge/PyCharm-IDE-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+    <div style="width: 100%; height: 10px; background-color: #000000;"></div>
+</div>
 
-[![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)](https://www.eclipse.org/ide/)
-<div style="width: 100%; height: 10px; background-color: #2c2255;"></div>
+<div style="margin-bottom: 10px;">
+    [![NetBeans](https://img.shields.io/badge/NetBeans-IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)
+    <div style="width: 100%; height: 10px; background-color: #1b6ac6;"></div>
+</div>
 
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-IDE-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-<div style="width: 100%; height: 10px; background-color: #5c2d91;"></div>
+<div style="margin-bottom: 10px;">
+    [![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)](https://www.eclipse.org/ide/)
+    <div style="width: 100%; height: 10px; background-color: #2c2255;"></div>
+</div>
 
-[![Inno Setup](https://img.shields.io/badge/Inno%20Setup-Installer-3366CC?style=for-the-badge&logo=windows&logoColor=white)](https://jrsoftware.org/isinfo.php)
-<div style="width: 100%; height: 10px; background-color: #3366cc;"></div>
+<div style="margin-bottom: 10px;">
+    [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-IDE-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+    <div style="width: 100%; height: 10px; background-color: #5c2d91;"></div>
+</div>
+
+<div style="margin-bottom: 10px;">
+    [![Inno Setup](https://img.shields.io/badge/Inno%20Setup-Installer-3366CC?style=for-the-badge&logo=windows&logoColor=white)](https://jrsoftware.org/isinfo.php)
+    <div style="width: 100%; height: 10px; background-color: #3366cc;"></div>
+</div>
+
+</div>
+
 
 <br><br>
 
