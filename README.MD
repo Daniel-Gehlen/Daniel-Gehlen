@@ -123,7 +123,6 @@ Feel free to reach out to me through my social media platforms: ⤵️
 ![Tools](https://via.placeholder.com/350x50/333333/00FF00?text=Some+Tools)
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Code%20Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-<div style="width: 100%; height: 10px; background-color: #007acc;"></div>
 
 [![Figma](https://img.shields.io/badge/Figma-Design%20Tool-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 <div style="width: 100%; height: 10px; background-color: #f24e1e;"></div>
