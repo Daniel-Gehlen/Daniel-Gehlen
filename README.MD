@@ -40,23 +40,17 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 *Click on link to view the projects.*
 
-- [Supa Blog](https://supa-blog-nine.vercel.app/)
-  - **Tecnologias:** React, Next.js, Supabase, GitHub, Vercel
+- [Supa Blog](https://supa-blog-nine.vercel.app/) - **Tecnologias:** React, Next.js, Supabase, GitHub, Vercel
 
-- [Portfolio](https://daniel-gehlen.github.io/bootstrap-portfolio/)
-  - **Tecnologias:** Bootstrap, HTML5, CSS3
+- [Portfolio](https://daniel-gehlen.github.io/bootstrap-portfolio/) - **Tecnologias:** Bootstrap, HTML5, CSS3
 
-- [Mini Blog](https://miniblog-liart.vercel.app/)
-  - **Tecnologias:** React, Firebase, Vercel
+- [Mini Blog](https://miniblog-liart.vercel.app/) - **Tecnologias:** React, Firebase, Vercel
 
-- [Start Steel](https://start-steel.vercel.app/)
-  - **Tecnologias:** React, GitHub, Vercel
+- [Start Steel](https://start-steel.vercel.app/) - **Tecnologias:** React, GitHub, Vercel
 
-- [Modern Portfolio](https://daniel-gehlen.github.io/js-developer-portfolio/)
-  - **Tecnologias:** JavaScript, HTML5, CSS3
+- [Modern Portfolio](https://daniel-gehlen.github.io/js-developer-portfolio/) - **Tecnologias:** JavaScript, HTML5, CSS3
 
-- [BuzzFeed (Angular)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/)
-  - **Tecnologias:** Angular, HTML5, CSS3
+- [BuzzFeed (Angular)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/) - **Tecnologias:** Angular, HTML5, CSS3
 
 <br><br>
 
