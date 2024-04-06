@@ -128,15 +128,29 @@ Feel free to reach out to me through my social media platforms: ⤵️
 [![Figma](https://img.shields.io/badge/Figma-Design%20Tool-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 <div style="width: 100%; height: 10px; background-color: #f24e1e;"></div>
 
-
 [![Insomnia](https://img.shields.io/badge/Insomnia-API%20Testing-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/)
 <div style="width: 100%; height: 10px; background-color: #5849be;"></div>
 
 [![Postman](https://img.shields.io/badge/Postman-API%20Development-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 <div style="width: 100%; height: 10px; background-color: #ff6c37;"></div>
 
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-IDE-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+<div style="width: 100%; height: 10px; background-color: #000000;"></div>
 
+[![PyCharm](https://img.shields.io/badge/PyCharm-IDE-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+<div style="width: 100%; height: 10px; background-color: #000000;"></div>
 
+[![NetBeans](https://img.shields.io/badge/NetBeans-IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)
+<div style="width: 100%; height: 10px; background-color: #1b6ac6;"></div>
+
+[![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)](https://www.eclipse.org/ide/)
+<div style="width: 100%; height: 10px; background-color: #2c2255;"></div>
+
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-IDE-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+<div style="width: 100%; height: 10px; background-color: #5c2d91;"></div>
+
+[![Inno Setup](https://img.shields.io/badge/Inno%20Setup-Installer-3366CC?style=for-the-badge&logo=windows&logoColor=white)](https://jrsoftware.org/isinfo.php)
+<div style="width: 100%; height: 10px; background-color: #3366cc;"></div>
 
 <br><br>
 
@@ -146,7 +160,10 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository%20Hosting-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
+[![GitLab](https://img.shields.io/badge/GitLab-Repository%20Hosting-FCA121?style=for-the-badge&logo=gitlab&logoColor=black)](https://about.gitlab.com/)
+
 [![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-[![Gitlab](https://img.shields.io/badge/Gitlab-Repository%20Hosting-FCA121?style=for-the-badge&logo=gitlab&logoColor=black)](https://about.gitlab.com/)                                 
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Container%20Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+                                 
 
