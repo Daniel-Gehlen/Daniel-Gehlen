@@ -136,15 +136,10 @@ Feel free to reach out to me through my social media platforms: ⤵️
 <br><br>
 
 ![DevOps](https://via.placeholder.com/350x50/333333/00FF00?text=Some+DevOps)
-  
 [![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Repository%20Hosting-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
 [![GitLab](https://img.shields.io/badge/GitLab-Repository%20Hosting-FCA121?style=for-the-badge&logo=gitlab&logoColor=black)](https://about.gitlab.com/)
-
 [![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Container%20Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
                                  
 
