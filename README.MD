@@ -63,45 +63,19 @@ Feel free to reach out to me through my social media platforms: ⤵️
 ![Technical Skills and Technologies](https://via.placeholder.com/350x50/333333/00FF00?text=Skills+Technologies)
 
 <br><br>
-[![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-<div style="width: 100%; height: 10px; background-color: #F7DF1E;"></div>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572b6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](#)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
+[![OutSystems](https://img.shields.io/badge/OutSystems-0d76bd?style=for-the-badge&logo=outsystems&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.w3schools.com/sql/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](#)
 
-[![HTML](https://img.shields.io/badge/HTML5-Proficient-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-<div style="width: 100%; height: 10px; background-color: #e34f26;"></div>
-
-[![CSS](https://img.shields.io/badge/CSS-Proficient-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-<div style="width: 100%; height: 10px; background-color: #1572b6;"></div>
-
-[![React](https://img.shields.io/badge/React-Proficient-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)  
-<div style="width: 100%; height: 10px; background-color: #61dafb;"></div>
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)  
-<div style="width: 100%; height: 10px; background-color: #3178c6;"></div>
-
-[![Next.js](https://img.shields.io/badge/Next.js-Proficient-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)  
-<div style="width: 100%; height: 10px; background-color: #000000;"></div>
-
-
-[![Jest](https://img.shields.io/badge/Jest-Proficient-C21325?style=for-the-badge&logo=jest&logoColor=white)](#)  
-<div style="width: 100%; height: 10px; background-color: #c21325;"></div>
-
-[![Angular](https://img.shields.io/badge/Angular-Intermediate-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)  
-<div style="width: 100%; height: 10px; background-color: #dd0031;"></div>
-
-[![OutSystems](https://img.shields.io/badge/OutSystems-Intermediate-DD0031?style=for-the-badge&logo=outsystems&logoColor=white)](#)  
-<div style="width: 100%; height: 10px; background-color: #0d76bd;"></div>
-
-
-[![MySQL](https://img.shields.io/badge/MySQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.w3schools.com/sql/)  
-<div style="width: 100%; height: 10px; background-color: #4479a1;"></div>
-
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)  
-<div style="width: 100%; height: 10px; background-color: #47a248;"></div>
-
-
-[![Firebase](https://img.shields.io/badge/Firebase-Intermediate-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](#)  
-<div style="width: 100%; height: 10px; background-color: #ffca28;"></div>
 
 <br><br>
 
