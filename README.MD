@@ -99,14 +99,9 @@ Feel free to reach out to me through my social media platforms: ⤵️
 [![UX-UI](https://img.shields.io/badge/UX_UI-FF4088?style=for-the-badge&logo=figma&logoColor=white)](#)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](#)
 
-
-
-
 <br><br>
 
-
 ![Top 10 Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Gehlen&layout=compact&hide=jupyter%20notebook&langs_count=11)
-
 
 <br><br>
 
