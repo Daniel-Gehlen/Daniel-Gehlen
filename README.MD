@@ -30,8 +30,6 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 - 📫 How to reach me, email: harmonia251251@gmail.com
 
-<br><br>
-
 ![Some Projects](https://via.placeholder.com/350x50/333333/00FF00?text=Some+Projects)
 
 *Click on link to view the projects.*
@@ -47,8 +45,6 @@ Feel free to reach out to me through my social media platforms: ⤵️
 - [Modern Portfolio](https://daniel-gehlen.github.io/js-developer-portfolio/) - **Technologies:** JavaScript, HTML5, CSS3
 
 - [BuzzFeed (Angular)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/) - **Technologies:** Angular, HTML5, CSS3
-
-<br><br>
 
 ![Technical Skills and Technologies](https://via.placeholder.com/350x50/333333/00FF00?text=Skills+Technologies)
 
@@ -98,11 +94,7 @@ Feel free to reach out to me through my social media platforms: ⤵️
 [![UX-UI](https://img.shields.io/badge/UX_UI-FF4088?style=for-the-badge&logo=figma&logoColor=white)](#)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](#)
 
-<br><br>
-
 ![Top 10 Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Gehlen&layout=compact&hide=jupyter%20notebook&langs_count=11)
-
-<br><br>
 
 ![Tools](https://via.placeholder.com/350x50/333333/00FF00?text=Some+Tools)
 
@@ -117,8 +109,6 @@ Feel free to reach out to me through my social media platforms: ⤵️
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-IDE-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Inno Setup](https://img.shields.io/badge/Inno%20Setup-Installer-3366CC?style=for-the-badge&logo=windows&logoColor=white)](https://jrsoftware.org/isinfo.php)
 
-<br><br>
-
 ![DevOps](https://via.placeholder.com/350x50/333333/00FF00?text=Some+DevOps)
 
 [![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -127,4 +117,3 @@ Feel free to reach out to me through my social media platforms: ⤵️
 [![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Container%20Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
                                  
-
