@@ -52,7 +52,6 @@ Feel free to reach out to me through my social media platforms: ⤵️
 
 ![Technical Skills and Technologies](https://via.placeholder.com/350x50/333333/00FF00?text=Skills+Technologies)
 
-<br><br>
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](#)
 [![AI](https://img.shields.io/badge/AI-4DBD33?style=for-the-badge&logo=microsoft&logoColor=white)](#)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
