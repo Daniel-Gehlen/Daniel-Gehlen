@@ -10,11 +10,11 @@
 
 ## I am Daniel Gehlen
 
-I am a **Analysis and Systems Development student in the 2nd semester at Unopar Anhanguera/Brazil**, with a great passion for software development and technology.
+I am a **Higher Technology Course in Systems Analysis and Development student in the 2nd semester at Unopar Anhanguera/Brazil**, with a great passion for software development and technology.
 
 Expectation of completion of the technologist in the distance study modality. End of 2025. 
 
-I have experience with **programming languages ​​such as: Javascript, Java, Python, C#...**
+I have experience with **programming languages ​​such as: Javascript, Java, Python, C#, Ruby, GO...**
 
 Independent of the specific programming languages or frameworks, **the crucial aspect is leveraging technology to innovate and enhance the quality of life globally.** Whether through web development, mobile app creation, or any other tech-driven endeavor, the aim remains consistent: **to pioneer solutions that positively impact society.**
 
