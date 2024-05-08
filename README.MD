@@ -10,7 +10,7 @@
 
 ## I am Daniel Gehlen
 
-I am a **Higher Technology Course in Systems Analysis and Development student in the 2nd semester at Unopar Anhanguera/Brazil**, with a great passion for software development and technology.
+I am a **Higher Technology Course in Systems Analysis and Development student at Unopar Anhanguera/Brazil**, with a great passion for software development and technology.
 
 Expectation of completion of the technologist in the distance study modality. End of 2025. 
 
