@@ -1,6 +1,6 @@
 ## Hello World! 👋, welcome to my profile GitHub!
 
-- 🌍 **Hello World!** I'm Daniel Gehlen, a programmer focused on using technology to **innovate and improve** the quality of life **globally**.
+- 🌍 I'm Daniel Gehlen, a programmer focused on using technology to **innovate and improve** the quality of life **globally**.
 
 - 💡 I have experience in **web development**, creating **mobile applications** and effective **problem solving**, combining **strategy and creativity**.
 
