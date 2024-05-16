@@ -1,10 +1,4 @@
-<h1 align="center" color='#7a7a7a'> Hello World! 👋, welcome to my profile GitHub!</h1>
-
-<p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=YELLOW&style=for-the-badge"/>
-</p>
-
-## I am Daniel Gehlen
+## Hello World! 👋, welcome to my profile GitHub!
 
 - 🌍 **Hello World!** I'm Daniel Gehlen, a programmer focused on using technology to **innovate and improve** the quality of life **globally**.
 
