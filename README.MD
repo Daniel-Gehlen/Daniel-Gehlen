@@ -4,19 +4,18 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=YELLOW&style=for-the-badge"/>
 </p>
 
-<p align="center">
-<img src="/matrixImage.png" alt="Texto Alternativo" width="150px" height="150px">
-</p>
-
 ## I am Daniel Gehlen
 
-I am a **Higher Technology Course in Systems Analysis and Development student at Unopar Anhanguera/Brazil**, with a great passion for software development and technology.
+**Hello!** I'm Daniel Gehlen, a programmer focused on using technology to **innovate and improve** the quality of life **globally**. 🌍
 
-Expectation of completion of the technologist in the distance study modality. End of 2025. 
+I have experience in **web development**, creating **mobile applications** and effective **problem solving**, combining **strategy and creativity**. 💡
 
-I have experience with **programming languages ​​such as: Javascript, Java, Python, C#, Ruby, GO...**
+In my free time, I enjoy **music, guitar, reading** and **hiking**. 🎵 
 
-Independent of the specific programming languages or frameworks, **the crucial aspect is leveraging technology to innovate and enhance the quality of life globally.** Whether through web development, mobile app creation, or any other tech-driven endeavor, the aim remains consistent: **to pioneer solutions that positively impact society.**
+I am **open to connections** to share experiences and collaborate **professionally** on challenges. 🤝 
+
+Check out my portfolio here.
+
 
 <img src="https://github.com/Daniel-Gehlen/Daniel-Gehlen/assets/142283217/572d07d8-fa39-445f-b25c-833746ced0c2" alt="Developer" height="300" />
 
