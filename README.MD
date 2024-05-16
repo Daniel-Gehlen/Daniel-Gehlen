@@ -6,13 +6,13 @@
 
 ## I am Daniel Gehlen
 
-**Hello!** I'm Daniel Gehlen, a programmer focused on using technology to **innovate and improve** the quality of life **globally**. 🌍
+- 🌍 **Hello World!** I'm Daniel Gehlen, a programmer focused on using technology to **innovate and improve** the quality of life **globally**.
 
-I have experience in **web development**, creating **mobile applications** and effective **problem solving**, combining **strategy and creativity**. 💡
+- 💡 I have experience in **web development**, creating **mobile applications** and effective **problem solving**, combining **strategy and creativity**.
 
-In my free time, I enjoy **music, guitar, reading** and **hiking**. 🎵 
+- 🎵 In my free time, I enjoy **music, guitar, reading** and **hiking**. 
 
-I am **open to connections** to share experiences and collaborate **professionally** on challenges. 🤝 
+- 🤝 I am **open to connections** to share experiences and collaborate **professionally** on challenges. 
 
 Check out my portfolio here.
 
