@@ -8,7 +8,7 @@
 
 - 🤝 I am **open to connections** to share experiences and collaborate **professionally** on challenges. 
 
-Check out my portfolio here.
+- 🔎 Check out my portfolio here.
 
 
 <img src="https://github.com/Daniel-Gehlen/Daniel-Gehlen/assets/142283217/572d07d8-fa39-445f-b25c-833746ced0c2" alt="Developer" height="300" />
