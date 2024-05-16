@@ -14,7 +14,7 @@ Check out my portfolio here.
 <img src="https://github.com/Daniel-Gehlen/Daniel-Gehlen/assets/142283217/572d07d8-fa39-445f-b25c-833746ced0c2" alt="Developer" height="300" />
 
 
-Feel free to reach out to me through my social media platforms: ⤵️
+- ⤵️ Feel free to reach out to me through my social media platforms:
 
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gehlen-5350341a3) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](harmonia251251@gmail.com) | [![Behance](https://img.shields.io/badge/Behance-053EFF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/danielgehlen) |
 | --- | --- | --- |
