@@ -27,17 +27,9 @@
 
 *Click on link to view the projects.*
 
-- [Supa Blog](https://supa-blog-nine.vercel.app/) - **Technologies:** React, Next.js, Supabase, GitHub, Vercel
-
 - [Portfolio](https://daniel-gehlen.github.io/bootstrap-portfolio/) - **Technologies:** Bootstrap, HTML5, CSS3
 
-- [Mini Blog](https://miniblog-liart.vercel.app/) - **Technologies:** React, Firebase, Vercel
-
 - [Start Steel](https://start-steel.vercel.app/) - **Technologies:** React, GitHub, Vercel
-
-- [Modern Portfolio](https://daniel-gehlen.github.io/js-developer-portfolio/) - **Technologies:** JavaScript, HTML5, CSS3
-
-- [BuzzFeed (Angular)](https://angular-buzzfeed-quizz-clone-psi.vercel.app/) - **Technologies:** Angular, HTML5, CSS3
 
 ![Technical Skills and Technologies](https://via.placeholder.com/350x50/333333/00FF00?text=Skills+Technologies)
 
