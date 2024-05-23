@@ -11,7 +11,7 @@
 - 🔎 Check out my portfolio here.
 
 
-<img src="https://github.com/Daniel-Gehlen/Daniel-Gehlen/assets/142283217/572d07d8-fa39-445f-b25c-833746ced0c2" alt="Developer" height="300" />
+<img src="https://github.com/Daniel-Gehlen/Daniel-Gehlen/assets/142283217/572d07d8-fa39-445f-b25c-833746ced0c2" alt="Developer" width="300" height="300" />
 
 
 - ⤵️ Feel free to reach out to me through my social media platforms:
