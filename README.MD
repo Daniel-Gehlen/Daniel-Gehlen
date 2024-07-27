@@ -1,6 +1,7 @@
 ## Hello World! 👋, welcome to my profile GitHub!
 
-<img src="https://github.com/Daniel-Gehlen/Daniel-Gehlen/transparent-background-designify.png" alt="Developer" width="30" height="30" />
+<img src="https://github.com/Daniel-Gehlen/transparent-background-designify.png" alt="Developer" width="30" height="30" />
+
 - 🌍 I'm Daniel Gehlen, a developer focused on using technology to **innovate and improve** the quality of life **globally**.
 
 - 💡 I have experience in **web development**, creating **mobile applications** and effective **problem solving**, combining **strategy and creativity**.
