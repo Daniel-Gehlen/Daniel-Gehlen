@@ -1,4 +1,4 @@
-## Hello World! 👋, welcome to my profile GitHub!
+## <img src="https://github.com/Daniel-Gehlen/Daniel-Gehlen/assets/transparent-background-designify.png" alt="Developer" width="30" height="30" /> Hello World! 👋, welcome to my profile GitHub!
 
 - 🌍 I'm Daniel Gehlen, a developer focused on using technology to **innovate and improve** the quality of life **globally**.
 
@@ -9,7 +9,7 @@
 - 🤝 I am **open to connections** to share experiences and collaborate **professionally** on challenges. 
 
 - 🔎 Check out my portfolio here.
-
+transparent-background-designify.png
 
 <img src="https://github.com/Daniel-Gehlen/Daniel-Gehlen/assets/142283217/572d07d8-fa39-445f-b25c-833746ced0c2" alt="Developer" width="300" height="250" />
 
