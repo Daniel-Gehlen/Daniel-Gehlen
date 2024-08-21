@@ -1,10 +1,14 @@
 ## Hello World! 👋, welcome to my profile GitHub!
 
-- 🌍 I'm Daniel Gehlen, a developer focused on using technology to **innovate and improve** the quality of life **globally**.
+- 🌍 I'm Daniel Gehlen a Software Engineering student at Unopar University in Brazil, expected to graduate in 2026. 
 
-- 💡 I have experience in **web development**, creating **mobile applications** and effective **problem solving**, combining **strategy and creativity**.
+- I developed various personal projects including a GCD calculation tool using Python, a CRUD API for student records with Ruby on Rails, and a Medical Clinic website. 
 
-- 🎵 In my free time, I enjoy **music, guitar, reading** and **hiking**. 
+- My technical skills include Java, Python, and Ruby, alongside cloud computing with AWS for enhanced security. I am too experienced in database management and front-end design, emphasizing user experience. 
+
+- Passionate about software development and continuous learning, I document my development processes effectively and I would like to contributes to open-source projects.
+
+- In my free time, I enjoy music, guitar, reading and walk around the city. 🎸🎵
 
 - 🤝 I am **open to connections** to share experiences and collaborate **professionally** on challenges. 
 
