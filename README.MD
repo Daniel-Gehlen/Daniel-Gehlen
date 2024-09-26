@@ -1,21 +1,21 @@
 ## Hello World! 🌍 👋, welcome to my profile GitHub!
 
-🔶 I'm Daniel Gehlen. Technology enthusiast and future software engineer, I am always seeking new challenges and learning opportunities, particularly in back-end development.
+- 🔶 I'm Daniel Gehlen. Technology enthusiast and future software engineer, I am always seeking new challenges and learning opportunities, particularly in back-end development.
 
 I am currently a Software Engineering student at Unopar University, expecting to graduate in 2026. I have developed various personal projects, including:
 
-🔶 A GCD calculation tool using Python
-🔶 A CRUD API for student records with Ruby on Rails, improving data access efficiency
-🔶 A medical clinic website with HTML, focused on user experience
+- 🔶 A GCD calculation tool using Python
+- 🔶 A CRUD API for student records with Ruby on Rails, improving data access efficiency
+- 🔶 A medical clinic website with HTML, focused on user experience
 
 Technical Skills:
 
-🔶 Languages: Java, Python, Ruby, Node
-🔶 Back-End Development: Ruby on Rails, Flask
-🔶 APIs: Experience in designing and implementing RESTful APIs
-🔶 Database Management: Proficient in SQL with PostgreSQL and MySQL; familiar with NoSQL databases like MongoDB
-🔶 Cloud Computing: AWS for enhanced security and scalability
-🔶 DevOps: Familiarity with CI/CD practices and tools like Docker and Jenkins
+- 🔶 Languages: Java, Python, Ruby, Node
+- 🔶 Back-End Development: Ruby on Rails, Flask
+- 🔶 APIs: Experience in designing and implementing RESTful APIs
+- 🔶 Database Management: Proficient in SQL with PostgreSQL and MySQL; familiar with NoSQL databases like MongoDB
+- 🔶 Cloud Computing: AWS for enhanced security and scalability
+- 🔶 DevOps: Familiarity with CI/CD practices and tools like Docker and Jenkins
 
 I am passionate about software development and continuous learning, effectively documenting my development processes. I am excited to contribute to open-source projects and collaborate with other developers to create innovative solutions.
 
