@@ -19,7 +19,7 @@ Technical Skills:
 
 I am passionate about software development and continuous learning, effectively documenting my development processes. I am excited to contribute to open-source projects and collaborate with other developers to create innovative solutions.
 
-In my free time, I enjoy music (I play the guitar 🎸), reading, and exploring the city.
+In my free time, I enjoy music (I play the guitar 🎸), reading, and walk around the city.
 
 I am open to new connections and collaboration opportunities on challenging projects. Let’s connect! 🤝
 
