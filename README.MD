@@ -1,18 +1,27 @@
 ## Hello World! 👋, welcome to my profile GitHub!
 
-- 🌍 I'm Daniel Gehlen a Software Engineering student at Unopar University in Brazil, expected to graduate in 2026. 
+- 🌍 I'm Daniel Gehlen. Technology enthusiast and future software engineer, I am always seeking new challenges and learning opportunities, particularly in back-end development.
 
-- I developed various personal projects including a GCD calculation tool using Python, a CRUD API for student records with Ruby on Rails, and a Medical Clinic website. 
+I am currently a Software Engineering student at Unopar University, expecting to graduate in 2026. I have developed various personal projects, including:
 
-- My technical skills include Java, Python, and Ruby, alongside cloud computing with AWS for enhanced security. I am too experienced in database management and front-end design, emphasizing user experience. 
+- A GCD calculation tool using Python
+- A CRUD API for student records with Ruby on Rails, improving data access efficiency
+- A medical clinic website with HTML, focused on user experience
 
-- Passionate about software development and continuous learning, I document my development processes effectively and I would like to contributes to open-source projects.
+Technical Skills:
 
-- In my free time, I enjoy music, guitar, reading and walk around the city. 🎸🎵
+- Languages: Java, Python, Ruby, Node
+- Back-End Development: Ruby on Rails, Flask
+- APIs: Experience in designing and implementing RESTful APIs
+- Database Management: Proficient in SQL with PostgreSQL and MySQL; familiar with NoSQL databases like MongoDB
+- Cloud Computing: AWS for enhanced security and scalability
+- DevOps: Familiarity with CI/CD practices and tools like Docker and Jenkins
 
-- 🤝 I am **open to connections** to share experiences and collaborate **professionally** on challenges. 
+I am passionate about software development and continuous learning, effectively documenting my development processes. I am excited to contribute to open-source projects and collaborate with other developers to create innovative solutions.
 
-- 🔎 Check out my portfolio here.
+In my free time, I enjoy music (I play the guitar 🎸), reading, and exploring the city.
+
+I am open to new connections and collaboration opportunities on challenging projects. Let’s connect! 🤝
 
 <img src="https://github.com/Daniel-Gehlen/Daniel-Gehlen/assets/142283217/572d07d8-fa39-445f-b25c-833746ced0c2" alt="Developer" width="200" height="180" />
 
