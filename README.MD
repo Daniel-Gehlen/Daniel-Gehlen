@@ -1,29 +1,27 @@
 ## Hello World! 🌍 👋, welcome to my profile GitHub!
 
-Hello World! 🌍 
+I'm Daniel Gehlen. Technology enthusiast and future software engineer, **I am always seeking new challenges and learning opportunities, particularly in back-end development.**
 
-I'm Daniel Gehlen. Technology enthusiast and future software engineer, I am always seeking new challenges and learning opportunities, particularly in back-end development.
+I am currently **a Software Engineering student at Unopar University, expecting to graduate in 2026.** I have developed various personal projects, including: **JavaScript, Ruby, Python, C# e TypeScript, just as I seek a deep understanding of web and mobile development architectures.**
 
-I am currently a Software Engineering student at Unopar University, expecting to graduate in 2026. I have developed various personal projects, including: JavaScript, Ruby, Python, C# e TypeScript, just as I seek a deep understanding of web and mobile development architectures.
+I focus my experience on **covering the entire software development lifecycle, from design and architecture to implementation and maintenance.** I feel comfortable working with **databases such as MySQL, SQLite and MongoDB**, and integrating **cloud technologies** such as **AWS, Azure and Google Cloud** to ensure the scalability and resilience of my applications.
 
-I focus my experience on covering the entire software development lifecycle, from design and architecture to implementation and maintenance. I feel comfortable working with databases such as MySQL, SQLite and MongoDB, and integrating cloud technologies such as AWS and Azure to ensure the scalability and resilience of my applications.
+I have a particular **interest in emerging technologies** and am always looking for new ways to apply this knowledge to challenging projects. 
 
-I have a particular interest in emerging technologies and am always looking for new ways to apply this knowledge to challenging projects. 
-
-Highlights of my journey include:
+Highlights of **my journey include:**
 
 * **Development of robust and scalable web applications** using popular frameworks such as React, Next.js, Angular, ASP.NET Core and Ruby on Rails.
 * **Creation of efficient and secure APIs** with Node.js, Express, FastAPI and Spring Boot.
 * **Implementation of secure login systems** and efficient data management using relational and NoSQL databases.
 * **Experience with containerization technologies** such as Docker and Kubernetes, for building and implementing systems in the cloud.
 
-I believe in **collaboration, continuous learning and delivering high-quality solutions that meet users' needs.** I am confident in my ability to contribute significantly to any team and project.
+- I believe in **collaboration, continuous learning and delivering high-quality solutions that meet users' needs.** I am confident in my ability to contribute significantly to any team and project.
 
-I invite you to **explore my project portfolio on GitHub to learn more about my work.**
+- I invite you to **explore my project portfolio on GitHub to learn more about my work.**
 
-In my free time, **I enjoy music** (I play the guitar 🎸), **reading, and walk around the city.**
+- In my free time, **I enjoy music** (I play the guitar 🎸), **reading, and walk around the city.**
 
-I am open to **new connections and collaboration opportunities on challenging projects.** 🤝
+- I am open to **new connections and collaboration opportunities on challenging projects.** 🤝
 
 <img src="https://github.com/Daniel-Gehlen/Daniel-Gehlen/assets/142283217/572d07d8-fa39-445f-b25c-833746ced0c2" alt="Developer" width="200" height="180" />
 
