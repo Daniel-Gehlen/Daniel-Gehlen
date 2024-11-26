@@ -1,8 +1,8 @@
 ## Hello World! 🌍 👋, welcome to my profile GitHub!
 
-I'm Daniel Gehlen. Technology enthusiast and future software engineer, **I am always seeking new challenges and learning opportunities, particularly in back-end development.**
+My name is Daniel Gehlen, **I am Systems Developer and always seeking new challenges and learning opportunities, particularly in back-end development.**
 
-I am currently **a Software Engineering student at Unopar University, expecting to graduate in 2026.** I have developed various personal projects, including: **JavaScript, Ruby, Python, C# e TypeScript, just as I seek a deep understanding of web and mobile development architectures.**
+I have developed various personal projects, including: **JavaScript, Ruby, Python, C# e TypeScript, just as I seek a deep understanding of web and mobile development architectures.**
 
 I focus my experience on **covering the entire software development lifecycle, from design and architecture to implementation and maintenance.** I feel comfortable working with **databases such as MySQL, SQLite and MongoDB**, and integrating **cloud technologies** such as **AWS, Azure and Google Cloud** to ensure the scalability and resilience of my applications.
 
