@@ -138,6 +138,8 @@ Highlights of **my journey include:**
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-IDE-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Inno Setup](https://img.shields.io/badge/Inno%20Setup-Installer-3366CC?style=for-the-badge&logo=windows&logoColor=white)](https://jrsoftware.org/isinfo.php)
 
+<iframe src="https://gamma.app/embed/18omleingi1jfud" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="Portfolio site - V1"></iframe>
+
 ![DevOps](https://via.placeholder.com/350x50/333333/00FF00?text=Some+DevOps)
 
 [![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
