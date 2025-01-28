@@ -119,9 +119,7 @@ Available for freelancing, CLT hiring or open source collaborations. Let's talk!
 
 ![Top 10 Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Gehlen&layout=compact&hide=jupyter%20notebook&langs_count=11)
 
-<div style="background-color: #333333; color: #00FF00; padding: 10px; text-align: center; width: 350px; height: 50px; line-height: 50px; font-size: 18px;">
-  Some Tools
-</div>
+![Some Tools](https://via.placeholder.com/350x50/333333/00FF00?text=Some+Tools)
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Code%20Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  
 [![Figma](https://img.shields.io/badge/Figma-Design%20Tool-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)  
