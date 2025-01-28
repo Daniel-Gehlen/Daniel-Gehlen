@@ -6,16 +6,16 @@ I've contributed to over 150 open source repositories and developed tools like a
 
 Available for freelancing, CLT hiring or open source collaborations. Let's talk! Get in touch via harmonia251251@gmail.com or LinkedIn Direct Message.
 
-🔹Contributed to 150+ open source repositories, focusing on educational projects that impacted more than 1,000 developers. 
-🔹Developed improvements and updated 10+ REST APIs for customers, improving system efficiency by 30%.
+- Contributed to 150+ open source repositories, focusing on educational projects that impacted more than 1,000 developers. 
+- Developed improvements and updated 10+ REST APIs for customers, improving system efficiency by 30%.
 
 💡 My Core Skills:
 
-🔹 Back-End Development: Java, Spring Boot, Spring MVC, Spring Security
-🔹 Front-End Development: JavaScript, React, Next.js, Angular, Vue
-🔹 API Development: REST, GraphQL
-🔹 Database Management: MySQL, PostgreSQL, MongoDB
-🔹Constantly learning and improving
+- Back-End Development: Java, Spring Boot, Spring MVC, Spring Security
+- Front-End Development: JavaScript, React, Next.js, Angular, Vue
+- API Development: REST, GraphQL
+- Database Management: MySQL, PostgreSQL, MongoDB
+- Constantly learning and improving
 
 <img src="https://github.com/Daniel-Gehlen/Daniel-Gehlen/assets/142283217/572d07d8-fa39-445f-b25c-833746ced0c2" alt="Developer" width="200" height="180" />
 
