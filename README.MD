@@ -1,27 +1,20 @@
-## Hello World! 🌍 👋, welcome to my profile GitHub!
+## Hello 🌍! 👋, welcome to my profile GitHub!
 
-My name is Daniel Gehlen, **I am Systems Developer and always seeking new challenges and learning opportunities, particularly in back-end development.**
+Full-stack Software Developer with experience in Java, Spring Boot, FrameWorks JS and REST, RESTful API development. Passionate about creating scalable solutions and sharing technical knowledge. I look for opportunities to collaborate on challenging and innovative projects. 
 
-I have developed various personal projects, including: **JavaScript, Ruby, Python, C# e TypeScript, just as I seek a deep understanding of web and mobile development architectures.**
+I've contributed to over 150 open source repositories and developed tools like a WAVE to MP3 converter and a PDF to Markdown converter among many other projects. I look for opportunities to collaborate on challenging and innovative projects. 
 
-I focus my experience on **covering the entire software development lifecycle, from design and architecture to implementation and maintenance.** I feel comfortable working with **databases such as MySQL, SQLite and MongoDB**, and integrating **cloud technologies** such as **AWS, Azure and Google Cloud** to ensure the scalability and resilience of my applications.
+Available for freelancing, CLT hiring or open source collaborations. Let's talk! Get in touch via harmonia251251@gmail.com or LinkedIn Direct Message.
 
-I have a particular **interest in emerging technologies** and am always looking for new ways to apply this knowledge to challenging projects. 
+🔹Contributed to 150+ open source repositories, focusing on educational projects that impacted more than 1,000 developers. 
+🔹Developed improvements and updated 10+ REST APIs for customers, improving system efficiency by 30%.
 
-Highlights of **my journey include:**
-
-* **Development of robust and scalable web applications** using popular frameworks such as React, Next.js, Angular, ASP.NET Core and Ruby on Rails.
-* **Creation of efficient and secure APIs** with Node.js, Express, FastAPI and Spring Boot.
-* **Implementation of secure login systems** and efficient data management using relational and NoSQL databases.
-* **Experience with containerization technologies** such as Docker and Kubernetes, for building and implementing systems in the cloud.
-
-- I believe in **collaboration, continuous learning and delivering high-quality solutions that meet users' needs.** I am confident in my ability to contribute significantly to any team and project.
-
-- I invite you to **explore my project portfolio on GitHub to learn more about my work.**
-
-- In my free time, **I enjoy music** (I play the guitar 🎸), **reading, and walk around the city.**
-
-- I am open to **new connections and collaboration opportunities on challenging projects.** 🤝
+💡 My Core Skills:
+🔹 Back-End Development: Java, Spring Boot, Spring MVC, Spring Security
+🔹 Front-End Development: JavaScript, React, Next.js, Angular, Vue
+🔹 API Development: REST, GraphQL
+🔹 Database Management: MySQL, PostgreSQL, MongoDB
+🔹Constantly learning and improving
 
 <img src="https://github.com/Daniel-Gehlen/Daniel-Gehlen/assets/142283217/572d07d8-fa39-445f-b25c-833746ced0c2" alt="Developer" width="200" height="180" />
 
