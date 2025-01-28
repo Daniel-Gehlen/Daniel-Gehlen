@@ -3,6 +3,10 @@
 Welcome to my GitHub profile!  
 I'm a **Full-Stack Software Developer** with expertise in **Java, Spring Boot, JavaScript Frameworks, and RESTful API development**. Passionate about creating scalable solutions and sharing technical knowledge. I'm always looking for opportunities to collaborate on challenging and innovative projects.
 
+I've contributed to **over 150 open source repositories and developed tools like a WAVE to MP3 converter and a PDF to Markdown converter among many other projects.** I look for opportunities to collaborate on challenging and innovative projects. 
+
+**Available for freelancing, CLT hiring or open source collaborations. Let's talk!** Get in touch via harmonia251251@gmail.com or LinkedIn Direct Message.
+
 ---
 
 ### 🚀 About Me
