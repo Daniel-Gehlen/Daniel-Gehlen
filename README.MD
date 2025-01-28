@@ -77,7 +77,7 @@ I'm a **Full-Stack Software Developer** with expertise in **Java, Spring Boot, J
 
 ### 🎨 Design Inspiration
 
-- Utilização de **badges** para destacar habilidades e ferramentas.
-- Tabelas para organizar projetos e ferramentas.
-- Emojis para tornar o texto mais visual e atraente.
-- Links clicáveis para facilitar o acesso a redes sociais e projetos.
+- Use of **badges** to highlight skills and tools.
+- Tables to organize projects and tools.
+- Emojis to make text more visual and attractive.
+- Clickable links to facilitate access to social networks and projects.
