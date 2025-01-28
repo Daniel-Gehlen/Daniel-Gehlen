@@ -10,6 +10,7 @@ Available for freelancing, CLT hiring or open source collaborations. Let's talk!
 🔹Developed improvements and updated 10+ REST APIs for customers, improving system efficiency by 30%.
 
 💡 My Core Skills:
+
 🔹 Back-End Development: Java, Spring Boot, Spring MVC, Spring Security
 🔹 Front-End Development: JavaScript, React, Next.js, Angular, Vue
 🔹 API Development: REST, GraphQL
