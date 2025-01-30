@@ -3,20 +3,11 @@
 Welcome to my GitHub profile!  
 I'm a **Full-Stack Software Developer** with expertise in **Java, Spring Boot, JavaScript Frameworks, and RESTful API development**. Passionate about creating scalable solutions and sharing technical knowledge. I'm always looking for opportunities to collaborate on challenging and innovative projects.
 
-I've contributed to **over 150 open source repositories and developed tools like a WAVE to MP3 converter and a PDF to Markdown converter among many other projects.** I look for opportunities to collaborate on challenging and innovative projects. 
+- I've contributed to **over 150 open source repositories and developed tools like a WAVE to MP3 converter and a PDF to Markdown converter among many other projects.** 
+- Improved **10+ REST APIs**, increasing system efficiency by **30%**.
 
-**Available for freelancing, CLT hiring or open source collaborations. Let's talk!** Get in touch via harmonia251251@gmail.com or LinkedIn Direct Message.
-
----
-
-### 🚀 About Me
-
-- 🛠️ **Freelancer & Open Source Contributor**: Available for freelancing, CLT hiring, or open-source collaborations.
-- 📧 **Contact Me**: Reach out via [**harmonia251251@gmail.com**](mailto:harmonia251251@gmail.com) or [**LinkedIn**](https://www.linkedin.com/in/daniel-gehlen-5350341a3).
-- 🌟 **Highlights**:
-  - Contributed to **150+ open-source repositories**, impacting over **1,000 developers**.
-  - Developed tools like a **WAVE to MP3 converter** and a **PDF to Markdown converter**.
-  - Improved **10+ REST APIs**, increasing system efficiency by **30%**.
+**Available for freelancing, CLT hiring or open source collaborations. Let's talk!** 
+Get in touch via harmonia251251@gmail.com or LinkedIn Direct Message.
 
 ---
 
