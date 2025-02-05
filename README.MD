@@ -1,15 +1,6 @@
-## 👋 Hello, World! 🌍
+## **Hi there, I am Daniel Gehlen** 👋
 
 Welcome to my GitHub profile!  
-I'm a **Full-Stack Software Developer** with expertise in **Java, Spring Boot, JavaScript Frameworks, and RESTful API development**. Passionate about creating scalable solutions and sharing technical knowledge. I'm always looking for opportunities to collaborate on challenging and innovative projects.
-
-- I've contributed to **over 150 open source repositories and developed tools like a WAVE to MP3 converter and a PDF to Markdown converter among many other projects.** 
-- Improved **10+ REST APIs**, increasing system efficiency by **30%**.
-
-**Available for freelancing, CLT hiring or open source collaborations. Let's talk!** 
-Get in touch via harmonia251251@gmail.com or LinkedIn Direct Message.
-
-## 👋 Hi there, I am Daniel Gehlen 👋
 
 [![GitHub Badge](https://img.shields.io/badge/-Daniel_Gehlen-333333?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Daniel-Gehlen)](https://github.com/Daniel-Gehlen)
 
@@ -17,6 +8,16 @@ Get in touch via harmonia251251@gmail.com or LinkedIn Direct Message.
 
 - 🌐 **Portfolio website:** [Portfolio](https://daniel-gehlen.github.io/bootstrap-portfolio/)
 - ⚡ **Fun fact:** The first rule of programming—if it works, don’t touch it. 😇
+
+---
+
+I'm a **Full-Stack Software Developer** with expertise in **Java, Spring Boot, JavaScript Frameworks, and RESTful API development**. Passionate about creating scalable solutions and sharing technical knowledge. I'm always looking for opportunities to collaborate on challenging and innovative projects.
+
+- I've contributed to **over 150 open source repositories and developed tools like a WAVE to MP3 converter and a PDF to Markdown converter among many other projects.** 
+- Improved **10+ REST APIs**, increasing system efficiency by **30%**.
+
+**Available for freelancing, CLT hiring or open source collaborations. Let's talk!** 
+Get in touch via harmonia251251@gmail.com or LinkedIn Direct Message.
 
 ---
 
