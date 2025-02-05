@@ -11,68 +11,68 @@ Get in touch via harmonia251251@gmail.com or LinkedIn Direct Message.
 
 ---
 
-### 💡 Core Skills
+## 💡 Core Skills
 
-#### **Back-End Development**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### **Back-End Development**
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=spring-boot)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
-#### **Front-End Development**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+### **Front-End Development**
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 
-#### **Database Management**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### **Database Management**
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-#### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ---
 
-### 🛠️ Tools I Use
+## 🛠️ Tools I Use
 
 | **Category**       | **Tools**                                                                                                                                                                                                 |
 |---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Code Editors**    | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) |
-| **Design**          | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white) ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white) |
-| **API Testing**     | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) |
-| **Version Control** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=black) |
+| **Code Editors**    | ![VS Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visual-studio-code) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-333333?style=flat&logo=intellij-idea) ![NetBeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=apache-netbeans-ide) |
+| **Design**          | ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) ![Inkscape](https://img.shields.io/badge/-Inkscape-333333?style=flat&logo=inkscape) ![GIMP](https://img.shields.io/badge/-GIMP-333333?style=flat&logo=gimp) |
+| **API Testing**     | ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia) ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger) |
+| **Version Control** | ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab) |
 
 ---
 
-### 📂 Featured Projects
+## 📂 Featured Projects
 
 | **Project**                          | **Description**                                                                 | **Technologies**                                                                 |
 |--------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| [Portfolio](https://daniel-gehlen.github.io/bootstrap-portfolio/) | A personal portfolio showcasing my projects and skills.                         | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| [Start Steel](https://start-steel.vercel.app/) | A React-based web application for managing steel production.                    | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+| [Portfolio](https://your-portfolio-link.com) | A personal portfolio showcasing my projects and skills.                         | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) |
+| [Start Steel](https://start-steel.vercel.app/) | A React-based web application for managing steel production.                    | ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel) |
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Gehlen&layout=compact&hide=jupyter%20notebook&langs_count=10&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide=jupyter%20notebook&langs_count=10&theme=dark)
 
 ---
 
-### 📫 Let's Connect!
+## 📫 Let's Connect!
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gehlen-5350341a3) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harmonia251251@gmail.com) | [![Behance](https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/danielgehlen) |
+| [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile) | [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com) | [![Behance](https://img.shields.io/badge/-Behance-333333?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/your-behance-profile) |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ---
 
 ### 🎨 Design Inspiration
 
-- Use of **badges** to highlight skills and tools.
-- Tables to organize projects and tools.
-- Emojis to make text more visual and attractive.
-- Clickable links to facilitate access to social networks and projects.
+- Monochromatic dark badges for a sleek and professional look.
+- Clean and organized layout with clear sections.
+- Consistent use of emojis to add personality.
+- Clickable links for easy navigation.
