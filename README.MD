@@ -52,20 +52,20 @@ Get in touch via harmonia251251@gmail.com or LinkedIn Direct Message.
 
 | **Project**                          | **Description**                                                                 | **Technologies**                                                                 |
 |--------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| [Portfolio](https://your-portfolio-link.com) | A personal portfolio showcasing my projects and skills.                         | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) |
+| [Portfolio](https://daniel-gehlen.github.io/bootstrap-portfolio/) | A personal portfolio showcasing my projects and skills.                         | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) |
 | [Start Steel](https://start-steel.vercel.app/) | A React-based web application for managing steel production.                    | ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel) |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide=jupyter%20notebook&langs_count=10&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Gehlen&layout=compact&hide=jupyter%20notebook&langs_count=10&theme=dark)
 
 ---
 
 ## 📫 Let's Connect!
 
-| [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile) | [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com) | [![Behance](https://img.shields.io/badge/-Behance-333333?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/your-behance-profile) |
+| [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gehlen/) | [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat-square&logo=gmail&logoColor=white)](harmonia251251@gmail.com) | [![Behance](https://img.shields.io/badge/-Behance-333333?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/danielgehlen) |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ---
