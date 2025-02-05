@@ -6,6 +6,8 @@ Welcome to my GitHub profile!
 
 [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat-square&logo=gmail&logoColor=white)](harmonia251251@gmail.com) 
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gehlen/) 
+
 - 🌐 **Portfolio website:** [Portfolio](https://daniel-gehlen.github.io/bootstrap-portfolio/)
 - ⚡ **Fun fact:** The first rule of programming—if it works, don’t touch it. 😇
 
