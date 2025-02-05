@@ -15,7 +15,7 @@ Get in touch via harmonia251251@gmail.com or LinkedIn Direct Message.
 
 [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat-square&logo=gmail&logoColor=white)](harmonia251251@gmail.com) 
 
-- 🌐 **Portfolio website:** [Portfolio](hhttps://sites.google.com/view/daniel-gehlen-developer/página-inicial)
+- 🌐 **Portfolio website:** [Portfolio](https://daniel-gehlen.github.io/bootstrap-portfolio/)
 - ⚡ **Fun fact:** The first rule of programming—if it works, don’t touch it. 😇
 
 ---
