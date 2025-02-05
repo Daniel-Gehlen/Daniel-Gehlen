@@ -12,6 +12,7 @@ Get in touch via harmonia251251@gmail.com or LinkedIn Direct Message.
 ## 👋 Hi there, I am Daniel Gehlen 👋
 
 [![GitHub Badge](https://img.shields.io/badge/-Daniel_Gehlen-333333?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Daniel-Gehlen)](https://github.com/Daniel-Gehlen)
+
 [![Gmail Badge](https://img.shields.io/badge/-your-email@gmail.com-333333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your-email@gmail.com)](harmonia251251@gmail.com)
 
 - 🌐 **Portfolio website:** [Portfolio](hhttps://sites.google.com/view/daniel-gehlen-developer/página-inicial)
