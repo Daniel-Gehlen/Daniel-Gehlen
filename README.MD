@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 - 🌐 **Portfolio website:** [Portfolio](https://daniel-gehlen.github.io/bootstrap-portfolio/)
 - ⚡ **Fun fact:** The first rule of programming—if it works, don’t touch it. 😇
 
----
+
 
 I'm a **Full-Stack Software Developer** with expertise in **Java, Spring Boot, JavaScript Frameworks, and RESTful API development**. Passionate about creating scalable solutions and sharing technical knowledge. I'm always looking for opportunities to collaborate on challenging and innovative projects.
 
