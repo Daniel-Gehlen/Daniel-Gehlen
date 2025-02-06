@@ -1,4 +1,6 @@
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="315" height="247">
+## **Hi there, I am Daniel Gehlen** 👋
+
+<img align="right" src="https://github.com/Daniel-Gehlen/Daniel-Gehlen/blob/main/developer.gif" alt="Coder GIF" width="315" height="247">
 
 ## **Hi there, I am Daniel Gehlen** 👋
 
