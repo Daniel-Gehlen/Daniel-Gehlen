@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 <img align="right" src="https://github.com/Daniel-Gehlen/Daniel-Gehlen/blob/main/developer.gif" alt="Coder GIF" width="315" height="247">
 
---
+---
 
 [![GitHub Badge](https://img.shields.io/badge/-Daniel_Gehlen-333333?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Daniel-Gehlen)](https://github.com/Daniel-Gehlen)
 
