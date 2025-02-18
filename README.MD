@@ -8,11 +8,11 @@ Welcome to my GitHub profile!
 
 [![GitHub Badge](https://img.shields.io/badge/-Daniel_Gehlen-333333?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Daniel-Gehlen)](https://github.com/Daniel-Gehlen)
 
-[![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat-square&logo=gmail&logoColor=white)](harmonia251251@gmail.com) 
+[![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat-square&logo=gmail&logoColor=white)](danielgehlentech@gmail.com) 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gehlen/) 
 
-- 🌐 **Portfolio website:** [Portfolio](https://daniel-gehlen.github.io/bootstrap-portfolio/)
+- 🌐 **Portfolio website:** [Portfolio](hhttps://matrix-portfolio-v2.vercel.app/)
 - ⚡ **Fun fact:** The first rule of programming—if it works, don’t touch it. 😇
 
 
@@ -90,7 +90,7 @@ Get in touch via harmonia251251@gmail.com or LinkedIn Direct Message.
 
 ## 📫 Let's Connect!
 
-| [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gehlen/) | [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat-square&logo=gmail&logoColor=white)](harmonia251251@gmail.com) | [![Behance](https://img.shields.io/badge/-Behance-333333?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/danielgehlen) |
+| [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gehlen/) | [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat-square&logo=gmail&logoColor=white)](danielgehlentech@gmail.com) | [![Behance](https://img.shields.io/badge/-Behance-333333?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/danielgehlen) |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ---
