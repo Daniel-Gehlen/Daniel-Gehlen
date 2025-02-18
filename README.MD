@@ -23,7 +23,7 @@ I'm a **Full-Stack Software Developer** with expertise in **Java, Spring Boot, J
 - Improved **10+ REST APIs**, increasing system efficiency by **30%**.
 
 **Available for freelancing, CLT hiring or open source collaborations. Let's talk!** 
-Get in touch via harmonia251251@gmail.com or LinkedIn Direct Message.
+Get in touch via danielgehlentech@gmail.com or LinkedIn Direct Message.
 
 ---
 
