@@ -12,7 +12,12 @@ Welcome to my GitHub profile!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gehlen/) 
 
-- 🌐 **Portfolio website:** [Portfolio](hhttps://matrix-portfolio-v2.vercel.app/)
+<p align="center">
+  <a href="https://matrix-portfolio-v2.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Acessar%20Portfólio-2c2c2c?style=for-the-badge&logo=vercel&logoColor=gold&labelColor=2c2c2c&color=2c2c2c" alt="Portfólio">
+  </a>
+</p>
+
 - ⚡ **Fun fact:** The first rule of programming—if it works, don’t touch it. 😇
 
 
