@@ -78,10 +78,10 @@ If you are looking for someone committed, willing to learn and contribute, I am 
 
 ## 📂 Featured Projects
 
-| **Project**                          | **Description**                                                                 | **Technologies**                                                                 |
-|--------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| [Portfolio](https://daniel-gehlen.github.io/bootstrap-portfolio/) | A personal portfolio showcasing my projects and skills.                         | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) |
-| [Start Steel](https://start-steel.vercel.app/) | A React-based web application for managing steel production.                    | ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel) |
+| **Projeto** | **Descrição** | **Tecnologias** |
+|-------------|---------------|-----------------|
+| <a href="https://daniel-gehlen.github.io/bootstrap-portfolio/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-2c2c2c?style=for-the-badge&logo=bootstrap&logoColor=gold&labelColor=2c2c2c&color=2c2c2c" alt="Portfólio"></a> | Portfólio pessoal apresentando projetos e habilidades. | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) |
+| <a href="https://start-steel.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/⚙️%20Start%20Steel-2c2c2c?style=for-the-badge&logo=react&logoColor=gold&labelColor=2c2c2c&color=2c2c2c" alt="Start Steel"></a> | Aplicação React para gestão de produção de aço. | ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel) |
 
 ---
 
