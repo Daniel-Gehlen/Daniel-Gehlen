@@ -17,13 +17,11 @@ Welcome to my GitHub profile!
 
 
 
-I'm a **Full-Stack Software Developer** with expertise in **Java, Spring Boot, JavaScript Frameworks, and RESTful API development**. Passionate about creating scalable solutions and sharing technical knowledge. I'm always looking for opportunities to collaborate on challenging and innovative projects.
+Ever since I started exploring software development, I have sought to learn and contribute to projects that challenge me. I have participated in open source initiatives, developing tools such as audio and PDF converters, as well as collaborating on the improvement of REST APIs, resulting in more efficient systems.
 
-- I've contributed to **over 150 open source repositories and developed tools like a WAVE to MP3 converter and a PDF to Markdown converter among many other projects.** 
-- Improved **10+ REST APIs**, increasing system efficiency by **30%**.
+I am currently looking for opportunities that allow me to apply and expand my knowledge, contributing with practical solutions and learning from experienced professionals.​
 
-**Available for freelancing, CLT hiring or open source collaborations. Let's talk!** 
-Get in touch via danielgehlentech@gmail.com or LinkedIn Direct Message.
+If you are looking for someone committed, willing to learn and contribute, I am available to talk.
 
 ---
 
