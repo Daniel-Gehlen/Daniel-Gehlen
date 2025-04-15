@@ -26,11 +26,11 @@ If you are looking for someone committed, willing to learn and contribute, I am 
 ---
 
 ## 📝 Things I Love
-- Java ☕
-- Backend Development 🖥️
-- Python 🐍
-- Machine Learning 🤖
-- Data Science 📊
+- Java ☕ — learning to build solid applications
+- Backend Development 🖥️ — every challenge is a learning experience
+- Python 🐍 — especially for simple automations
+- Machine Learning 🤖 — experimenting with basic models
+- Data Science 📊 — beginning to understand the world of analysis
 
 ---
 
