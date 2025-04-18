@@ -28,10 +28,6 @@ I am currently looking for opportunities that allow me to apply and expand my kn
 
 If you are looking for someone committed, willing to learn and contribute, I am available to talk.
 
----
-
-Here’s your updated list in the same style, with **JavaScript**, **HTML**, and **CSS** added first:  
-
 ---  
 
 ## 📝 Things I Love  
