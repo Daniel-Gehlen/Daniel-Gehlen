@@ -47,12 +47,7 @@ Here’s your updated list in the same style, with **JavaScript**, **HTML**, and
 
 ---
 
-## 💡 Core Skills
-
-### **Back-End Development**
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=spring-boot)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+## 💡 Core Skills (In order of greatest proficiency)
 
 ### **Front-End Development**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -60,6 +55,11 @@ Here’s your updated list in the same style, with **JavaScript**, **HTML**, and
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+
+### **Back-End Development**
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=spring-boot)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 ### **Database Management**
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
