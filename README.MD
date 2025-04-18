@@ -40,7 +40,7 @@ Here’s your updated list in the same style, with **JavaScript**, **HTML**, and
 - **HTML** 📄 — structuring the foundation of the web  
 - **CSS** 🎨 — making the web beautiful and responsive  
 - **Java** ☕ — learning to build solid applications  
-- **Backend Development** 🖥️ — every challenge is a learning experience  
+- **Frontend Development** 🖥️ — every challenge is a learning experience  
 - **Python** 🐍 — especially for simple automations  
 - **Machine Learning** 🤖 — experimenting with basic models  
 - **Data Science** 📊 — beginning to understand the world of analysis  
