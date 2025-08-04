@@ -32,14 +32,28 @@ If you are looking for someone committed, willing to learn and contribute, I am 
 
 ## 📝 Things I Love  
 
-- **JavaScript** 🌐 — bringing interactivity to the web  
-- **HTML** 📄 — structuring the foundation of the web  
-- **CSS** 🎨 — making the web beautiful and responsive  
-- **Java** ☕ — learning to build solid applications  
-- **Frontend Development** 🖥️ — every challenge is a learning experience  
-- **Python** 🐍 — especially for simple automations  
-- **Machine Learning** 🤖 — experimenting with basic models  
-- **Data Science** 📊 — beginning to understand the world of analysis  
+---  
+
+🔹 **Front-End Dev (JS/TS/React)** 🚀 — construindo interfaces dinâmicas e interativas  
+🔹 **UX/UI & Acessibilidade** ♿✨ — design centrado no usuário e inclusivo  
+🔹 **Suporte Técnico & IA** 🤖💡 — resolvendo problemas e explorando inteligência artificial  
+🔹 **Código Limpo & Inovação** ✨🧹 — escrevendo soluções eficientes e criativas  
+
+---  
+
+### Destaques:  
+- **JavaScript/TypeScript** 🌐 — trazendo vida e interatividade para a web  
+- **React** ⚛️ — desenvolvendo aplicações modernas e escaláveis  
+- **UX/UI Design** 🎨 — criando experiências intuitivas e visualmente atraentes  
+- **Acessibilidade Digital** ♿ — garantindo inclusão para todos os usuários  
+- **Suporte Técnico** 🛠️ — auxiliando na resolução de desafios tecnológicos  
+- **Inteligência Artificial** 🤖 — explorando soluções inovadoras com IA  
+- **Código Limpo** ✨ — priorizando organização e boas práticas  
+- **Inovação Tecnológica** 💡 — sempre buscando novas formas de resolver problemas  
+
+---  
+
+Ficou no estilo que você queria? Posso ajustar algo se precisar! 😊
 
 ---
 
