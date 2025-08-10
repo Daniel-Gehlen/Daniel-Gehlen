@@ -22,11 +22,9 @@ Welcome to my GitHub profile!
 
 
 
-Ever since I started exploring software development, I have sought to learn and contribute to projects that challenge me. I have participated in open source initiatives, developing tools such as audio and PDF converters, as well as collaborating on the improvement of REST APIs, resulting in more efficient systems.
+Digital Support & AI Development (2020–present)
 
-I am currently looking for opportunities that allow me to apply and expand my knowledge, contributing with practical solutions and learning from experienced professionals.​
-
-If you are looking for someone committed, willing to learn and contribute, I am available to talk.
+I've managed services in the digital environment (video lessons, Excel CRM, payment processing) and automated processes with Google Workspace/APIs. As a developer, I work with JavaScript/TypeScript and critically integrate AI: code generation with LLMs, prompt engineering, and CI/CD. I value robust innovation—AI as a complement, not a replacement. I'm open to opportunities that combine legacy technology and responsible engineering. Let's talk?
 
 ---  
 
