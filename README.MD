@@ -49,10 +49,6 @@ I've managed services in the digital environment (video lessons, Excel CRM, paym
 - **Código Limpo** ✨ — priorizando organização e boas práticas  
 - **Inovação Tecnológica** 💡 — sempre buscando novas formas de resolver problemas  
 
----  
-
-Ficou no estilo que você queria? Posso ajustar algo se precisar! 😊
-
 ---
 
 ## 💡 Core Skills (In order of greatest proficiency)
