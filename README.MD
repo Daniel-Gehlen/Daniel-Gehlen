@@ -21,10 +21,21 @@ Welcome to my GitHub profile!
 - ⚡ **Fun fact:** The first rule of programming—if it works, don’t touch it. 😇
 
 
+I am a Software Developer with a mission: to understand how systems work in order to make them more efficient and less frustrating for those who use them.
+My background in Systems Analysis and Development gave me a solid foundation in algorithms, software engineering, and architecture. But it was through the 200+ freelance projects published on GitHub that I learned to transform complex problems into practical solutions, covering various stacks (Java, Python, JavaScript/TypeScript, cloud, applied AI).
 
-Digital Support & AI Development (2020–present)
+What sets me apart:
+• Accelerated learning ability – I quickly master new technologies to apply them to what matters: solving real problems
+• Optimization mindset – I have developed tools that have reduced time/costs in personal projects
+• Systemic vision – I don't just write code, I analyze how each piece affects the end user experience
+• Clear communication – 10 years as a teacher have taught me to explain complex ideas simply
 
-I've managed services in the digital environment (video lessons, Excel CRM, payment processing) and automated processes with Google Workspace/APIs. As a developer, I work with JavaScript/TypeScript and critically integrate AI: code generation with LLMs, prompt engineering, and CI/CD. I value robust innovation—AI as a complement, not a replacement. I'm open to opportunities that combine legacy technology and responsible engineering. Let's talk?
+🎯 I am looking for my first formal opportunity in IT as a Junior Developer or Systems Analyst, preferably in teams that value:
+• Continuous process improvement
+• Quality beyond “it works”
+• Solutions that consider the human experience
+
+Flexible to work in any stack, but especially interested in projects that face challenges of efficiency, integration, or usability.
 
 ---  
 
