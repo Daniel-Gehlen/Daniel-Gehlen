@@ -25,15 +25,15 @@ I am a Software Developer with a mission: to understand how systems work in orde
 My background in Systems Analysis and Development gave me a solid foundation in algorithms, software engineering, and architecture. But it was through the 200+ freelance projects published on GitHub that I learned to transform complex problems into practical solutions, covering various stacks (Java, Python, JavaScript/TypeScript, cloud, applied AI).
 
 What sets me apart:
-• Accelerated learning ability – I quickly master new technologies to apply them to what matters: solving real problems
-• Optimization mindset – I have developed tools that have reduced time/costs in personal projects
-• Systemic vision – I don't just write code, I analyze how each piece affects the end user experience
-• Clear communication – 10 years as a teacher have taught me to explain complex ideas simply
+- Accelerated learning ability – I quickly master new technologies to apply them to what matters: solving real problems
+- Optimization mindset – I have developed tools that have reduced time/costs in personal projects
+- Systemic vision – I don't just write code, I analyze how each piece affects the end user experience
+- Clear communication – 10 years as a teacher have taught me to explain complex ideas simply
 
 🎯 I am looking for my first formal opportunity in IT as a Junior Developer or Systems Analyst, preferably in teams that value:
-• Continuous process improvement
-• Quality beyond “it works”
-• Solutions that consider the human experience
+- Continuous process improvement
+- Quality beyond “it works”
+- Solutions that consider the human experience
 
 Flexible to work in any stack, but especially interested in projects that face challenges of efficiency, integration, or usability.
 
