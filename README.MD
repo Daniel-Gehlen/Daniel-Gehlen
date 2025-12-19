@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!  
 
-<img align="right" src="https://github.com/Daniel-Gehlen/Daniel-Gehlen/blob/main/Linkedin%banner3.png" alt="Fullstack banner" width="350" height="200">
+<img align="right" src="https://github.com/Daniel-Gehlen/Daniel-Gehlen/blob/main/linkedin-banner.png" alt="Fullstack banner" width="350" height="200">
 
 ---
 
