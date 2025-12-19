@@ -21,21 +21,21 @@ Welcome to my GitHub profile!
 - ⚡ **Fun fact:** The first rule of programming—if it works, don’t touch it. 😇
 
 
-I am a Software Developer with a mission: to understand how systems work in order to make them more efficient and less frustrating for those who use them.
-My background in Systems Analysis and Development gave me a solid foundation in algorithms, software engineering, and architecture. But it was through the 200+ freelance projects published on GitHub that I learned to transform complex problems into practical solutions, covering various stacks (Java, Python, JavaScript/TypeScript, cloud, applied AI).
+Full-Stack Developer with a degree in Systems Analysis and Development, transitioning careers after 10 years as a teacher. Specialized in building complete and efficient web applications using JavaScript/TypeScript, React, Node.js, and Next.js.
 
-What sets me apart:
-- Accelerated learning ability – I quickly master new technologies to apply them to what matters: solving real problems
-- Optimization mindset – I have developed tools that have reduced time/costs in personal projects
-- Systemic vision – I don't just write code, I analyze how each piece affects the end user experience
-- Clear communication – 10 years as a teacher have taught me to explain complex ideas simply
+🔹 Practical Technical Portfolio
+I develop projects that demonstrate skills across the entire development stack:
 
-🎯 I am looking for my first formal opportunity in IT as a Junior Developer or Systems Analyst, preferably in teams that value:
-- Continuous process improvement
-- Quality beyond “it works”
-- Solutions that consider the human experience
+- Gamification System for News: Full-Stack platform with Next.js, REST API, JWT authentication, PostgreSQL, and Prisma ORM.
 
-Flexible to work in any stack, but especially interested in projects that face challenges of efficiency, integration, or usability.
+- Personal Portfolio with Next.js: Website optimized with Server-Side Rendering, dark mode, and real-time integration with the GitHub API.
+
+- Urban Arborization Platform: Front-End application for collaborative management simulation, with interactive graphics and responsive design.
+
+🔹 My Differential
+Combining sharp analytical thinking (training in ADS) with refined communication skills (experience as a teacher), my goal is to create solutions that are both technically robust and intuitive for the end user.
+
+🔹 I am seeking my first formal opportunity in IT as a Junior Developer on teams that value code quality, continuous process improvement, and a user-experience-centered vision.
 
 ---  
 
