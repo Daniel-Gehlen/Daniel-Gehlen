@@ -139,16 +139,15 @@ Combining sharp analytical thinking (training in ADS) with refined communication
 
 ## 📊 GitHub Stats
 
+<!-- Cards de estatísticas (use o serviço alternativo stek29, que está mais estável) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daniel-Gehlen&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Gehlen&theme=radical" width="49%">
+  <img src="https://github-stats-alpha.vercel.app/api/?username=Daniel-Gehlen&cc=000&tc=fff&ic=fff&bc=000" width="49%">
+  <img src="https://streak-stats.demolab.com/?user=Daniel-Gehlen&theme=radical&hide_border=true" width="49%">
 </div>
 
+<!-- Card de linguagens (serviço alternativo funcional) -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Gehlen&layout=donut&langs_count=5&theme=radical&hide_title=true" width="40%">
-  
-  ### ⚡ Recent Activity
-  ![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Daniel-Gehlen&theme=react-dark&bg_color=20232a&hide_border=true)
 </div>
 
 ---
