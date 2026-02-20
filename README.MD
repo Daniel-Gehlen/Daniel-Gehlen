@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/Daniel-Gehlen/Daniel-Gehlen/blob/main/linkedin-banner.png" alt="Fullstack banner" width="300" height="170">
 
-**🧑‍💻 Full-Stack Developer**  React • Next.js • Node.js | TypeScript • Python • AWS (estudando)
+**🧑‍💻 Full-Stack Developer**  React • Next.js • Node.js | TypeScript • Python • AWS (studying)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Daniel-Gehlen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gehlen/)
