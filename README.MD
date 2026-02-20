@@ -145,11 +145,6 @@ Combining sharp analytical thinking (training in ADS) with refined communication
   <img src="https://streak-stats.demolab.com/?user=Daniel-Gehlen&theme=radical&hide_border=true" width="49%">
 </div>
 
-<!-- Card de linguagens (serviço alternativo funcional) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Gehlen&layout=donut&langs_count=5&theme=radical&hide_title=true" width="40%">
-</div>
-
 ---
 
 ## 📫 Let's Connect!
