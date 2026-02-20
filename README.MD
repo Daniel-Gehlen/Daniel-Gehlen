@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-Systems Analyst & Developer transitioning from 10 years in education. I build complete web applications with across the stack **JavaScript/TypeScript, React, Node.js, Next.js, Python, Ruby, Go, C, C++...**.
+Systems Analyst & Developer transitioning from 10 years in education. I build complete web applications with across the stack **JavaScript/TypeScript, React, Node.js, Next.js, Python, Java, Ruby, Go, C#, C, C++...**.
 
 **What sets me apart:** Analytical thinking (from tech degree) + clear communication (from teaching) = solutions that are both robust and user-friendly.
 
