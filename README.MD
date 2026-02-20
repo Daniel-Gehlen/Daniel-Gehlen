@@ -139,7 +139,7 @@ Combining sharp analytical thinking (training in ADS) with refined communication
 
 ## 📊 GitHub Stats
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Gehlen&layout=compact&langs_count=8&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Gehlen&layout=donut&theme=dark)
 
 ---
 
