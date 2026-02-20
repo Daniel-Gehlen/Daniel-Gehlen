@@ -46,10 +46,10 @@ Systems Analyst & Developer transitioning from 10 years in education. I build co
 
 | Project | Tech Stack | Highlights |
 |---------|------------|------------|
-| [**News Gamification**](https://news-gamification-rust.vercel.app/) | Next.js, PostgreSQL, Prisma, JWT | Full-stack com auth, gamificação e banco de dados |
-| [**AlgoLearn Platform**](https://algolearn-platform.vercel.app/) | Next.js, TypeScript, Tailwind, ShadCN | Plataforma interativa de algoritmos |
-| [**Matrix Portfolio**](https://matrix-portfolio-v2.vercel.app/) | Next.js, TypeScript, GitHub API | Portfolio com dados dinâmicos do GitHub |
-| [**Urban Arborization**](https://arborizacao-urbana.vercel.app/) | JavaScript, Chart.js | Simulação colaborativa com gráficos interativos |
+| [**News Gamification**](https://news-gamification-rust.vercel.app/) | Next.js, PostgreSQL, Prisma, JWT | Full-stack application with authentication, gamification, and database |
+| [**AlgoLearn Platform**](https://algolearn-platform.vercel.app/) | Next.js, TypeScript, Tailwind, ShadCN | Interactive algorithm platform |
+| [**Matrix Portfolio**](https://matrix-portfolio-v2.vercel.app/) | Next.js, TypeScript, GitHub API | Portfolio with dynamic data from GitHub |
+| [**Urban Arborization**](https://arborizacao-urbana.vercel.app/) | JavaScript, Chart.js | Collaborative simulation with interactive graphics |
 
 > 📂 **+200 other projects** available in [repositories](https://github.com/Daniel-Gehlen?tab=repositories)
 
