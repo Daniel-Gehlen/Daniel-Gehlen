@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/Daniel-Gehlen/Daniel-Gehlen/blob/main/linkedin-banner.png" alt="Fullstack banner" width="300" height="170">
 
-**Full-Stack Developer** | React • Node.js • TypeScript • Next.js
+**🧑‍💻 Full-Stack Developer**  React • Next.js • Node.js | TypeScript • Python • AWS (estudando)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Daniel-Gehlen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gehlen/)
@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-Systems Analyst & Developer transitioning from 10 years in education. I build complete web applications with **JavaScript/TypeScript, React, Node.js, and Next.js**.
+Systems Analyst & Developer transitioning from 10 years in education. I build complete web applications with across the stack **JavaScript/TypeScript, React, Node.js, Next.js, Python, Ruby, Go, C, C++...**.
 
 **What sets me apart:** Analytical thinking (from tech degree) + clear communication (from teaching) = solutions that are both robust and user-friendly.
 
@@ -62,9 +62,6 @@ Systems Analyst & Developer transitioning from 10 years in education. I build co
   <img src="https://streak-stats.demolab.com/?user=Daniel-Gehlen&theme=github-dark&hide_border=true" width="49%">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Gehlen&layout=compact&langs_count=6&theme=github_dark&hide_border=true" width="40%">
-</div>
 
 ---
 
