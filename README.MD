@@ -139,8 +139,6 @@ Combining sharp analytical thinking (training in ADS) with refined communication
 
 ## 📊 GitHub Stats
 
-![GitHub Insights](https://ghinsights.vercel.app/api/stats?username=Daniel-Gehlen&theme=radical)
-
 <img src="https://gitstrength.netlify.app/api/card?username=Daniel-Gehlen" width="100%">
 
 <div align="center">
