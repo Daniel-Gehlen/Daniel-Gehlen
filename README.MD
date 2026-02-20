@@ -51,7 +51,7 @@ Systems Analyst & Developer transitioning from 10 years in education. I build co
 | [**Matrix Portfolio**](https://matrix-portfolio-v2.vercel.app/) | Next.js, TypeScript, GitHub API | Portfolio com dados dinâmicos do GitHub |
 | [**Urban Arborization**](https://arborizacao-urbana.vercel.app/) | JavaScript, Chart.js | Simulação colaborativa com gráficos interativos |
 
-> 📂 **+200 other projects** available in [repositórios](https://github.com/Daniel-Gehlen?tab=repositories)
+> 📂 **+200 other projects** available in [repositories](https://github.com/Daniel-Gehlen?tab=repositories)
 
 ---
 
