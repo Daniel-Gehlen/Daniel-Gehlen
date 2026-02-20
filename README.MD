@@ -67,7 +67,8 @@ Systems Analyst & Developer transitioning from 10 years in education. I build co
 
 ### 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/daniel-gehlen/) • [Email](mailto:danielgehlentech@gmail.com) • [Behance](https://www.behance.net/danielgehlen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gehlen/)
+[![Gmail](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:danielgehlentech@gmail.com)
 
 ---
 
