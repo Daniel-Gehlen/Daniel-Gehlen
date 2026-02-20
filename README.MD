@@ -139,7 +139,11 @@ Combining sharp analytical thinking (training in ADS) with refined communication
 
 ## 📊 GitHub Stats
 
-![Daniel Gehlen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Gehlen&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Gehlen&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Gehlen&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
 ---
 
 ## 📫 Let's Connect!
