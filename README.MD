@@ -87,6 +87,6 @@ Systems Analyst & Developer with a unique background: **10 years in education** 
 
 <div align="center">
 
-*"If it works, don't touch it." Except to try to improve it for everyone — Every Developer Ever
+*"If it works, don't touch it."* Except *to try to improve it for everyone* — Every Developer Ever
 
 </div>
